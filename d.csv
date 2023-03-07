@@ -1,0 +1,2885 @@
+Year,Quarter,Month,Day,First HOME CURRENCY AMOUNT,TRANSACTION TYPE,month_number,Date
+2019,Qtr 1,March,11,1481937.04,Invoice,3,2019/3/11
+2019,Qtr 1,March,14,228422.24,Invoice,3,2019/3/14
+2019,Qtr 1,March,18,310000,Receipt,3,2019/3/18
+2019,Qtr 1,March,19,1275404,Invoice,3,2019/3/19
+2019,Qtr 1,March,20,313049.16,Invoice,3,2019/3/20
+2019,Qtr 1,March,22,338184.5,Invoice,3,2019/3/22
+2019,Qtr 1,March,25,423229.81,Invoice,3,2019/3/25
+2019,Qtr 1,March,26,484949.02,Invoice,3,2019/3/26
+2019,Qtr 1,March,27,1071184.91,Receipt,3,2019/3/27
+2019,Qtr 1,March,29,1511577.81,Invoice,3,2019/3/29
+2019,Qtr 2,April,1,325949.34,Invoice,4,2019/4/1
+2019,Qtr 2,April,2,717783.77,Invoice,4,2019/4/2
+2019,Qtr 2,April,3,563687.87,Invoice,4,2019/4/3
+2019,Qtr 2,April,4,250967.94,Receipt,4,2019/4/4
+2019,Qtr 2,April,5,350669.92,Invoice,4,2019/4/5
+2019,Qtr 2,April,8,811489.77,Invoice,4,2019/4/8
+2019,Qtr 2,April,9,1970047.47,Invoice,4,2019/4/9
+2019,Qtr 2,April,9,1253327.11,Receipt,4,2019/4/9
+2019,Qtr 2,April,10,683481.27,Invoice,4,2019/4/10
+2019,Qtr 2,April,11,1711313.56,Invoice,4,2019/4/11
+2019,Qtr 2,April,12,1164497.59,Invoice,4,2019/4/12
+2019,Qtr 2,April,12,93693.12,Receipt,4,2019/4/12
+2019,Qtr 2,April,15,2341812.33,Invoice,4,2019/4/15
+2019,Qtr 2,April,16,1481771.88,Invoice,4,2019/4/16
+2019,Qtr 2,April,17,1125602.57,Invoice,4,2019/4/17
+2019,Qtr 2,April,18,2502186.92,Invoice,4,2019/4/18
+2019,Qtr 2,April,23,6254554.26,Invoice,4,2019/4/23
+2019,Qtr 2,April,23,1717732.45,Receipt,4,2019/4/23
+2019,Qtr 2,April,24,286830.18,Invoice,4,2019/4/24
+2019,Qtr 2,April,25,275032.97,Invoice,4,2019/4/25
+2019,Qtr 2,April,25,1434330.01,Receipt,4,2019/4/25
+2019,Qtr 2,April,26,1497256.06,Invoice,4,2019/4/26
+2019,Qtr 2,April,29,4777655.48,Invoice,4,2019/4/29
+2019,Qtr 2,April,29,750720.35,Receipt,4,2019/4/29
+2019,Qtr 2,April,30,4131779.53,Invoice,4,2019/4/30
+2019,Qtr 2,May,2,2038358.25,Invoice,5,2019/5/2
+2019,Qtr 2,May,3,2190104.4,Invoice,5,2019/5/3
+2019,Qtr 2,May,3,247493.82,Receipt,5,2019/5/3
+2019,Qtr 2,May,6,2485670.87,Invoice,5,2019/5/6
+2019,Qtr 2,May,7,5706258.41,Invoice,5,2019/5/7
+2019,Qtr 2,May,7,651933.52,Receipt,5,2019/5/7
+2019,Qtr 2,May,8,549505.55,Invoice,5,2019/5/8
+2019,Qtr 2,May,9,1261941.84,Invoice,5,2019/5/9
+2019,Qtr 2,May,9,297229.97,Receipt,5,2019/5/9
+2019,Qtr 2,May,10,3889959.57,Invoice,5,2019/5/10
+2019,Qtr 2,May,13,5693486.95,Invoice,5,2019/5/13
+2019,Qtr 2,May,13,174787.93,Receipt,5,2019/5/13
+2019,Qtr 2,May,14,37700,Credit Note,5,2019/5/14
+2019,Qtr 2,May,14,1362788.45,Invoice,5,2019/5/14
+2019,Qtr 2,May,14,4545258.97,Receipt,5,2019/5/14
+2019,Qtr 2,May,15,6772.59,Credit Note,5,2019/5/15
+2019,Qtr 2,May,15,760172.5,Invoice,5,2019/5/15
+2019,Qtr 2,May,15,737292.05,Receipt,5,2019/5/15
+2019,Qtr 2,May,16,1840617.17,Invoice,5,2019/5/16
+2019,Qtr 2,May,17,4322198.19,Invoice,5,2019/5/17
+2019,Qtr 2,May,17,1468132.34,Receipt,5,2019/5/17
+2019,Qtr 2,May,20,748.84,Credit Note,5,2019/5/20
+2019,Qtr 2,May,20,3520501.39,Invoice,5,2019/5/20
+2019,Qtr 2,May,20,703698.73,Receipt,5,2019/5/20
+2019,Qtr 2,May,21,2527277.5,Invoice,5,2019/5/21
+2019,Qtr 2,May,21,842835.21,Receipt,5,2019/5/21
+2019,Qtr 2,May,22,68533.36,Credit Note,5,2019/5/22
+2019,Qtr 2,May,22,2677853.05,Invoice,5,2019/5/22
+2019,Qtr 2,May,22,841998.8,Receipt,5,2019/5/22
+2019,Qtr 2,May,23,1529774.72,Invoice,5,2019/5/23
+2019,Qtr 2,May,23,2618873.76,Receipt,5,2019/5/23
+2019,Qtr 2,May,24,1923915.5,Invoice,5,2019/5/24
+2019,Qtr 2,May,24,1221380.94,Receipt,5,2019/5/24
+2019,Qtr 2,May,25,995308.15,Invoice,5,2019/5/25
+2019,Qtr 2,May,27,10607152.91,Invoice,5,2019/5/27
+2019,Qtr 2,May,27,159752.19,Receipt,5,2019/5/27
+2019,Qtr 2,May,28,165530.94,Credit Note,5,2019/5/28
+2019,Qtr 2,May,28,1971639.95,Invoice,5,2019/5/28
+2019,Qtr 2,May,28,141367.2,Receipt,5,2019/5/28
+2019,Qtr 2,May,29,4646923.23,Invoice,5,2019/5/29
+2019,Qtr 2,May,29,3696890.65,Receipt,5,2019/5/29
+2019,Qtr 2,May,30,208307.1,Credit Note,5,2019/5/30
+2019,Qtr 2,May,30,4547484.1,Invoice,5,2019/5/30
+2019,Qtr 2,May,30,1855307.54,Receipt,5,2019/5/30
+2019,Qtr 2,May,31,53122.37,Credit Note,5,2019/5/31
+2019,Qtr 2,May,31,6937032.32,Invoice,5,2019/5/31
+2019,Qtr 2,May,31,6655847.87,Receipt,5,2019/5/31
+2019,Qtr 2,June,2,450128.53,Invoice,6,2019/6/2
+2019,Qtr 2,June,3,5500666.43,Invoice,6,2019/6/3
+2019,Qtr 2,June,3,1248343.38,Receipt,6,2019/6/3
+2019,Qtr 2,June,4,26091.82,Credit Note,6,2019/6/4
+2019,Qtr 2,June,4,781705.89,Invoice,6,2019/6/4
+2019,Qtr 2,June,4,1438425.88,Receipt,6,2019/6/4
+2019,Qtr 2,June,5,3778963.31,Invoice,6,2019/6/5
+2019,Qtr 2,June,5,854138.33,Receipt,6,2019/6/5
+2019,Qtr 2,June,6,4710.97,Credit Note,6,2019/6/6
+2019,Qtr 2,June,6,4059744.94,Invoice,6,2019/6/6
+2019,Qtr 2,June,6,1740299.5,Receipt,6,2019/6/6
+2019,Qtr 2,June,7,56008.18,Credit Note,6,2019/6/7
+2019,Qtr 2,June,7,3026291.92,Invoice,6,2019/6/7
+2019,Qtr 2,June,7,2963889.55,Receipt,6,2019/6/7
+2019,Qtr 2,June,10,7897728.89,Invoice,6,2019/6/10
+2019,Qtr 2,June,10,858657.58,Receipt,6,2019/6/10
+2019,Qtr 2,June,11,29100.25,Credit Note,6,2019/6/11
+2019,Qtr 2,June,11,2360489.47,Invoice,6,2019/6/11
+2019,Qtr 2,June,11,2346916.72,Receipt,6,2019/6/11
+2019,Qtr 2,June,12,172477.01,Invoice,6,2019/6/12
+2019,Qtr 2,June,12,3437963.51,Receipt,6,2019/6/12
+2019,Qtr 2,June,13,95379.22,Credit Note,6,2019/6/13
+2019,Qtr 2,June,13,7430104.85,Invoice,6,2019/6/13
+2019,Qtr 2,June,13,2931455.15,Receipt,6,2019/6/13
+2019,Qtr 2,June,14,3031.7,Credit Note,6,2019/6/14
+2019,Qtr 2,June,14,5628215.98,Invoice,6,2019/6/14
+2019,Qtr 2,June,14,6231959.13,Receipt,6,2019/6/14
+2019,Qtr 2,June,18,20488.89,Credit Note,6,2019/6/18
+2019,Qtr 2,June,18,7217022.48,Invoice,6,2019/6/18
+2019,Qtr 2,June,18,1984395.02,Receipt,6,2019/6/18
+2019,Qtr 2,June,19,35984.95,Credit Note,6,2019/6/19
+2019,Qtr 2,June,19,2815194.72,Invoice,6,2019/6/19
+2019,Qtr 2,June,19,619705.04,Receipt,6,2019/6/19
+2019,Qtr 2,June,20,8207195.95,Invoice,6,2019/6/20
+2019,Qtr 2,June,20,2896887.98,Receipt,6,2019/6/20
+2019,Qtr 2,June,21,6174363.12,Invoice,6,2019/6/21
+2019,Qtr 2,June,21,5301203.34,Receipt,6,2019/6/21
+2019,Qtr 2,June,24,13349740.37,Invoice,6,2019/6/24
+2019,Qtr 2,June,24,1742961.08,Receipt,6,2019/6/24
+2019,Qtr 2,June,25,45493.77,Credit Note,6,2019/6/25
+2019,Qtr 2,June,25,5884909.84,Invoice,6,2019/6/25
+2019,Qtr 2,June,25,2155595.79,Receipt,6,2019/6/25
+2019,Qtr 2,June,26,44797.01,Credit Note,6,2019/6/26
+2019,Qtr 2,June,26,4945912.5,Invoice,6,2019/6/26
+2019,Qtr 2,June,26,2110502.33,Receipt,6,2019/6/26
+2019,Qtr 2,June,27,83663.09,Credit Note,6,2019/6/27
+2019,Qtr 2,June,27,6651845.44,Invoice,6,2019/6/27
+2019,Qtr 2,June,27,2811702.26,Receipt,6,2019/6/27
+2019,Qtr 2,June,28,34097.5,Credit Note,6,2019/6/28
+2019,Qtr 2,June,28,2674199.6,Invoice,6,2019/6/28
+2019,Qtr 2,June,28,2335418.14,Receipt,6,2019/6/28
+2019,Qtr 2,June,29,388027.18,Receipt,6,2019/6/29
+2019,Qtr 3,July,1,39671.27,Credit Note,7,2019/7/1
+2019,Qtr 3,July,1,6850850.39,Invoice,7,2019/7/1
+2019,Qtr 3,July,1,7416311.93,Receipt,7,2019/7/1
+2019,Qtr 3,July,2,658099.38,Credit Note,7,2019/7/2
+2019,Qtr 3,July,2,7719366.93,Invoice,7,2019/7/2
+2019,Qtr 3,July,2,2113583.5,Receipt,7,2019/7/2
+2019,Qtr 3,July,3,587949.5,Credit Note,7,2019/7/3
+2019,Qtr 3,July,3,731272.13,Invoice,7,2019/7/3
+2019,Qtr 3,July,3,1210942.01,Receipt,7,2019/7/3
+2019,Qtr 3,July,4,86701.8,Credit Note,7,2019/7/4
+2019,Qtr 3,July,4,4366924.33,Invoice,7,2019/7/4
+2019,Qtr 3,July,4,591701.9,Receipt,7,2019/7/4
+2019,Qtr 3,July,5,22021.72,Credit Note,7,2019/7/5
+2019,Qtr 3,July,5,7016840.26,Invoice,7,2019/7/5
+2019,Qtr 3,July,5,2022783.8,Receipt,7,2019/7/5
+2019,Qtr 3,July,8,5752785.17,Invoice,7,2019/7/8
+2019,Qtr 3,July,8,3813052.63,Receipt,7,2019/7/8
+2019,Qtr 3,July,9,175946.21,Credit Note,7,2019/7/9
+2019,Qtr 3,July,9,2756349.61,Invoice,7,2019/7/9
+2019,Qtr 3,July,9,2090047.86,Receipt,7,2019/7/9
+2019,Qtr 3,July,10,78101.44,Credit Note,7,2019/7/10
+2019,Qtr 3,July,10,4051190.31,Invoice,7,2019/7/10
+2019,Qtr 3,July,10,1498411.04,Receipt,7,2019/7/10
+2019,Qtr 3,July,11,292702.12,Credit Note,7,2019/7/11
+2019,Qtr 3,July,11,5560235.08,Invoice,7,2019/7/11
+2019,Qtr 3,July,11,3693888.99,Receipt,7,2019/7/11
+2019,Qtr 3,July,12,547173.14,Credit Note,7,2019/7/12
+2019,Qtr 3,July,12,5334324.09,Invoice,7,2019/7/12
+2019,Qtr 3,July,12,6902753.27,Receipt,7,2019/7/12
+2019,Qtr 3,July,14,4377749.61,Invoice,7,2019/7/14
+2019,Qtr 3,July,15,393512.36,Credit Note,7,2019/7/15
+2019,Qtr 3,July,15,8732062.42,Invoice,7,2019/7/15
+2019,Qtr 3,July,15,2049111.88,Receipt,7,2019/7/15
+2019,Qtr 3,July,16,30000.85,Credit Note,7,2019/7/16
+2019,Qtr 3,July,16,11981995.35,Invoice,7,2019/7/16
+2019,Qtr 3,July,16,1533523.19,Receipt,7,2019/7/16
+2019,Qtr 3,July,17,290296.78,Credit Note,7,2019/7/17
+2019,Qtr 3,July,17,3912909.68,Invoice,7,2019/7/17
+2019,Qtr 3,July,17,4181767.23,Receipt,7,2019/7/17
+2019,Qtr 3,July,18,561676.46,Credit Note,7,2019/7/18
+2019,Qtr 3,July,18,4206713.7,Invoice,7,2019/7/18
+2019,Qtr 3,July,18,4031845.55,Receipt,7,2019/7/18
+2019,Qtr 3,July,19,209970.3,Credit Note,7,2019/7/19
+2019,Qtr 3,July,19,5451876.77,Invoice,7,2019/7/19
+2019,Qtr 3,July,19,9393033.59,Receipt,7,2019/7/19
+2019,Qtr 3,July,22,198059.43,Credit Note,7,2019/7/22
+2019,Qtr 3,July,22,3854438.02,Invoice,7,2019/7/22
+2019,Qtr 3,July,22,1503326.54,Receipt,7,2019/7/22
+2019,Qtr 3,July,23,24710.84,Credit Note,7,2019/7/23
+2019,Qtr 3,July,23,7395058.82,Invoice,7,2019/7/23
+2019,Qtr 3,July,23,3548318.79,Receipt,7,2019/7/23
+2019,Qtr 3,July,24,164002.72,Credit Note,7,2019/7/24
+2019,Qtr 3,July,24,9227714.41,Invoice,7,2019/7/24
+2019,Qtr 3,July,24,254571.16,Receipt,7,2019/7/24
+2019,Qtr 3,July,25,103730.47,Credit Note,7,2019/7/25
+2019,Qtr 3,July,25,9660413.22,Invoice,7,2019/7/25
+2019,Qtr 3,July,25,5900934.63,Receipt,7,2019/7/25
+2019,Qtr 3,July,26,188013.98,Credit Note,7,2019/7/26
+2019,Qtr 3,July,26,3541448.49,Invoice,7,2019/7/26
+2019,Qtr 3,July,26,4104936.36,Receipt,7,2019/7/26
+2019,Qtr 3,July,29,390185.04,Credit Note,7,2019/7/29
+2019,Qtr 3,July,29,3505387.88,Invoice,7,2019/7/29
+2019,Qtr 3,July,29,6652702.19,Receipt,7,2019/7/29
+2019,Qtr 3,July,30,338042.86,Credit Note,7,2019/7/30
+2019,Qtr 3,July,30,9828825.74,Invoice,7,2019/7/30
+2019,Qtr 3,July,30,5593241.96,Receipt,7,2019/7/30
+2019,Qtr 3,July,31,579257.87,Credit Note,7,2019/7/31
+2019,Qtr 3,July,31,4315868.58,Invoice,7,2019/7/31
+2019,Qtr 3,July,31,5311115.42,Receipt,7,2019/7/31
+2019,Qtr 3,August,1,329974.42,Credit Note,8,2019/8/1
+2019,Qtr 3,August,1,4470115.58,Invoice,8,2019/8/1
+2019,Qtr 3,August,1,1075646.69,Receipt,8,2019/8/1
+2019,Qtr 3,August,2,203051.73,Credit Note,8,2019/8/2
+2019,Qtr 3,August,2,2880568.77,Invoice,8,2019/8/2
+2019,Qtr 3,August,2,4495625.66,Receipt,8,2019/8/2
+2019,Qtr 3,August,5,517722.67,Credit Note,8,2019/8/5
+2019,Qtr 3,August,5,12895362.21,Invoice,8,2019/8/5
+2019,Qtr 3,August,5,2544657.09,Receipt,8,2019/8/5
+2019,Qtr 3,August,6,253535.6,Credit Note,8,2019/8/6
+2019,Qtr 3,August,6,7299915.75,Invoice,8,2019/8/6
+2019,Qtr 3,August,6,3814256.14,Receipt,8,2019/8/6
+2019,Qtr 3,August,7,370769.08,Credit Note,8,2019/8/7
+2019,Qtr 3,August,7,9205747.18,Invoice,8,2019/8/7
+2019,Qtr 3,August,7,1856593.52,Receipt,8,2019/8/7
+2019,Qtr 3,August,8,579347.05,Credit Note,8,2019/8/8
+2019,Qtr 3,August,8,4706900.48,Invoice,8,2019/8/8
+2019,Qtr 3,August,8,7252965.18,Receipt,8,2019/8/8
+2019,Qtr 3,August,12,467722.33,Credit Note,8,2019/8/12
+2019,Qtr 3,August,12,7561006,Invoice,8,2019/8/12
+2019,Qtr 3,August,12,13504925.11,Receipt,8,2019/8/12
+2019,Qtr 3,August,13,498837.72,Credit Note,8,2019/8/13
+2019,Qtr 3,August,13,12718272.9,Invoice,8,2019/8/13
+2019,Qtr 3,August,13,5092540.82,Receipt,8,2019/8/13
+2019,Qtr 3,August,14,1269494.5,Credit Note,8,2019/8/14
+2019,Qtr 3,August,14,12434177.68,Invoice,8,2019/8/14
+2019,Qtr 3,August,14,4320438.21,Receipt,8,2019/8/14
+2019,Qtr 3,August,15,967104.21,Credit Note,8,2019/8/15
+2019,Qtr 3,August,15,3478927.44,Invoice,8,2019/8/15
+2019,Qtr 3,August,15,4475309.25,Receipt,8,2019/8/15
+2019,Qtr 3,August,16,273395.3,Credit Note,8,2019/8/16
+2019,Qtr 3,August,16,4473087.51,Invoice,8,2019/8/16
+2019,Qtr 3,August,16,4434170.66,Receipt,8,2019/8/16
+2019,Qtr 3,August,17,103606.26,Credit Note,8,2019/8/17
+2019,Qtr 3,August,17,1410816.94,Invoice,8,2019/8/17
+2019,Qtr 3,August,19,1646939.42,Credit Note,8,2019/8/19
+2019,Qtr 3,August,19,9832456.77,Invoice,8,2019/8/19
+2019,Qtr 3,August,19,8317024.63,Receipt,8,2019/8/19
+2019,Qtr 3,August,20,1503672.9,Credit Note,8,2019/8/20
+2019,Qtr 3,August,20,3892249.73,Invoice,8,2019/8/20
+2019,Qtr 3,August,20,2097053.35,Receipt,8,2019/8/20
+2019,Qtr 3,August,21,550355.17,Credit Note,8,2019/8/21
+2019,Qtr 3,August,21,10127433.48,Invoice,8,2019/8/21
+2019,Qtr 3,August,21,839857.64,Receipt,8,2019/8/21
+2019,Qtr 3,August,22,185509.77,Credit Note,8,2019/8/22
+2019,Qtr 3,August,22,2866151.55,Invoice,8,2019/8/22
+2019,Qtr 3,August,22,12110310.94,Receipt,8,2019/8/22
+2019,Qtr 3,August,23,509517.64,Credit Note,8,2019/8/23
+2019,Qtr 3,August,23,1636423.33,Invoice,8,2019/8/23
+2019,Qtr 3,August,23,10495072.41,Receipt,8,2019/8/23
+2019,Qtr 3,August,26,1303065.24,Credit Note,8,2019/8/26
+2019,Qtr 3,August,26,6463681.27,Invoice,8,2019/8/26
+2019,Qtr 3,August,26,5316713.75,Receipt,8,2019/8/26
+2019,Qtr 3,August,27,473205.13,Credit Note,8,2019/8/27
+2019,Qtr 3,August,27,4015785.48,Invoice,8,2019/8/27
+2019,Qtr 3,August,27,4911525.92,Receipt,8,2019/8/27
+2019,Qtr 3,August,28,798492.53,Credit Note,8,2019/8/28
+2019,Qtr 3,August,28,11527753.49,Invoice,8,2019/8/28
+2019,Qtr 3,August,28,2177921.39,Receipt,8,2019/8/28
+2019,Qtr 3,August,29,1125938.61,Credit Note,8,2019/8/29
+2019,Qtr 3,August,29,8468384.36,Invoice,8,2019/8/29
+2019,Qtr 3,August,29,3616888.16,Receipt,8,2019/8/29
+2019,Qtr 3,August,30,173776.93,Credit Note,8,2019/8/30
+2019,Qtr 3,August,30,2462039.35,Invoice,8,2019/8/30
+2019,Qtr 3,August,30,5118646.75,Receipt,8,2019/8/30
+2019,Qtr 3,August,31,34648.8,Receipt,8,2019/8/31
+2019,Qtr 3,September,2,124729.22,Credit Note,9,2019/9/2
+2019,Qtr 3,September,2,12403685.96,Invoice,9,2019/9/2
+2019,Qtr 3,September,2,4067147.12,Receipt,9,2019/9/2
+2019,Qtr 3,September,3,679118.61,Credit Note,9,2019/9/3
+2019,Qtr 3,September,3,9279687.6,Invoice,9,2019/9/3
+2019,Qtr 3,September,3,4707548.42,Receipt,9,2019/9/3
+2019,Qtr 3,September,4,268215.07,Credit Note,9,2019/9/4
+2019,Qtr 3,September,4,2234631.9,Invoice,9,2019/9/4
+2019,Qtr 3,September,4,9184696.88,Receipt,9,2019/9/4
+2019,Qtr 3,September,5,191176.19,Credit Note,9,2019/9/5
+2019,Qtr 3,September,5,8796968.53,Invoice,9,2019/9/5
+2019,Qtr 3,September,5,4151488.68,Receipt,9,2019/9/5
+2019,Qtr 3,September,6,131209.45,Credit Note,9,2019/9/6
+2019,Qtr 3,September,6,6014712.48,Invoice,9,2019/9/6
+2019,Qtr 3,September,6,10331639.17,Receipt,9,2019/9/6
+2019,Qtr 3,September,9,714622.73,Credit Note,9,2019/9/9
+2019,Qtr 3,September,9,2637857.53,Invoice,9,2019/9/9
+2019,Qtr 3,September,9,5122376.01,Receipt,9,2019/9/9
+2019,Qtr 3,September,10,1887607.04,Credit Note,9,2019/9/10
+2019,Qtr 3,September,10,7228391.82,Invoice,9,2019/9/10
+2019,Qtr 3,September,10,3456538.25,Receipt,9,2019/9/10
+2019,Qtr 3,September,11,422339.88,Credit Note,9,2019/9/11
+2019,Qtr 3,September,11,4840831.31,Invoice,9,2019/9/11
+2019,Qtr 3,September,11,4188240.44,Receipt,9,2019/9/11
+2019,Qtr 3,September,12,2144501.89,Credit Note,9,2019/9/12
+2019,Qtr 3,September,12,7212088.28,Invoice,9,2019/9/12
+2019,Qtr 3,September,12,8989110.86,Receipt,9,2019/9/12
+2019,Qtr 3,September,13,354508.21,Credit Note,9,2019/9/13
+2019,Qtr 3,September,13,3394772.54,Invoice,9,2019/9/13
+2019,Qtr 3,September,13,5135159.88,Receipt,9,2019/9/13
+2019,Qtr 3,September,15,572759.44,Invoice,9,2019/9/15
+2019,Qtr 3,September,16,149190.4,Credit Note,9,2019/9/16
+2019,Qtr 3,September,16,1853621.02,Invoice,9,2019/9/16
+2019,Qtr 3,September,16,1728734.65,Receipt,9,2019/9/16
+2019,Qtr 3,September,17,628538.47,Credit Note,9,2019/9/17
+2019,Qtr 3,September,17,12932130.8,Invoice,9,2019/9/17
+2019,Qtr 3,September,17,7511885.2,Receipt,9,2019/9/17
+2019,Qtr 3,September,18,1359461.67,Credit Note,9,2019/9/18
+2019,Qtr 3,September,18,11578916.21,Invoice,9,2019/9/18
+2019,Qtr 3,September,18,6842147.82,Receipt,9,2019/9/18
+2019,Qtr 3,September,19,58227.32,Credit Note,9,2019/9/19
+2019,Qtr 3,September,19,6252508.74,Invoice,9,2019/9/19
+2019,Qtr 3,September,19,12511094.14,Receipt,9,2019/9/19
+2019,Qtr 3,September,20,75892.24,Credit Note,9,2019/9/20
+2019,Qtr 3,September,20,3866500.02,Invoice,9,2019/9/20
+2019,Qtr 3,September,20,6121652.6,Receipt,9,2019/9/20
+2019,Qtr 3,September,23,366146.39,Credit Note,9,2019/9/23
+2019,Qtr 3,September,23,2687178.95,Invoice,9,2019/9/23
+2019,Qtr 3,September,23,3385365.89,Receipt,9,2019/9/23
+2019,Qtr 3,September,25,104654.98,Credit Note,9,2019/9/25
+2019,Qtr 3,September,25,6389499.36,Invoice,9,2019/9/25
+2019,Qtr 3,September,25,9721127.3,Receipt,9,2019/9/25
+2019,Qtr 3,September,26,253397.22,Credit Note,9,2019/9/26
+2019,Qtr 3,September,26,5277508.14,Invoice,9,2019/9/26
+2019,Qtr 3,September,26,3347349.56,Receipt,9,2019/9/26
+2019,Qtr 3,September,27,177662.82,Credit Note,9,2019/9/27
+2019,Qtr 3,September,27,6479317.83,Invoice,9,2019/9/27
+2019,Qtr 3,September,27,4742653.56,Receipt,9,2019/9/27
+2019,Qtr 3,September,30,5487269.6,Invoice,9,2019/9/30
+2019,Qtr 3,September,30,7414384.42,Receipt,9,2019/9/30
+2019,Qtr 4,October,1,498838.85,Credit Note,10,2019/10/1
+2019,Qtr 4,October,1,4444909.13,Invoice,10,2019/10/1
+2019,Qtr 4,October,1,7392026.41,Receipt,10,2019/10/1
+2019,Qtr 4,October,2,153348.33,Credit Note,10,2019/10/2
+2019,Qtr 4,October,2,774269.67,Invoice,10,2019/10/2
+2019,Qtr 4,October,2,3870430.63,Receipt,10,2019/10/2
+2019,Qtr 4,October,3,290343.85,Credit Note,10,2019/10/3
+2019,Qtr 4,October,3,2009012.31,Invoice,10,2019/10/3
+2019,Qtr 4,October,3,7196454.41,Receipt,10,2019/10/3
+2019,Qtr 4,October,4,815588.44,Credit Note,10,2019/10/4
+2019,Qtr 4,October,4,2016583.81,Invoice,10,2019/10/4
+2019,Qtr 4,October,4,7454126.75,Receipt,10,2019/10/4
+2019,Qtr 4,October,5,2170278.95,Invoice,10,2019/10/5
+2019,Qtr 4,October,7,799786.01,Credit Note,10,2019/10/7
+2019,Qtr 4,October,7,4966150.47,Invoice,10,2019/10/7
+2019,Qtr 4,October,7,4115007.43,Receipt,10,2019/10/7
+2019,Qtr 4,October,8,2653300.64,Receipt,10,2019/10/8
+2019,Qtr 4,October,9,2168470.22,Credit Note,10,2019/10/9
+2019,Qtr 4,October,9,1337680.55,Invoice,10,2019/10/9
+2019,Qtr 4,October,9,8580957.74,Receipt,10,2019/10/9
+2019,Qtr 4,October,10,15860.62,Credit Note,10,2019/10/10
+2019,Qtr 4,October,10,1195409.14,Invoice,10,2019/10/10
+2019,Qtr 4,October,10,4754348.65,Receipt,10,2019/10/10
+2019,Qtr 4,October,11,110975.76,Credit Note,10,2019/10/11
+2019,Qtr 4,October,11,1829942.17,Invoice,10,2019/10/11
+2019,Qtr 4,October,11,17445981.16,Receipt,10,2019/10/11
+2019,Qtr 4,October,14,765534.45,Credit Note,10,2019/10/14
+2019,Qtr 4,October,14,172166.65,Invoice,10,2019/10/14
+2019,Qtr 4,October,14,3037799.65,Receipt,10,2019/10/14
+2019,Qtr 4,October,15,746153.3,Credit Note,10,2019/10/15
+2019,Qtr 4,October,15,2232439.93,Invoice,10,2019/10/15
+2019,Qtr 4,October,15,6279666.43,Receipt,10,2019/10/15
+2019,Qtr 4,October,16,247102.95,Credit Note,10,2019/10/16
+2019,Qtr 4,October,16,5944877.22,Receipt,10,2019/10/16
+2019,Qtr 4,October,17,929902.51,Credit Note,10,2019/10/17
+2019,Qtr 4,October,17,825090.22,Invoice,10,2019/10/17
+2019,Qtr 4,October,17,4353821.11,Receipt,10,2019/10/17
+2019,Qtr 4,October,18,40883.48,Credit Note,10,2019/10/18
+2019,Qtr 4,October,18,551878.55,Invoice,10,2019/10/18
+2019,Qtr 4,October,18,8328536.76,Receipt,10,2019/10/18
+2019,Qtr 4,October,21,38086.79,Credit Note,10,2019/10/21
+2019,Qtr 4,October,21,348671.82,Invoice,10,2019/10/21
+2019,Qtr 4,October,21,1754826.44,Receipt,10,2019/10/21
+2019,Qtr 4,October,22,584748.32,Credit Note,10,2019/10/22
+2019,Qtr 4,October,22,2285269.33,Invoice,10,2019/10/22
+2019,Qtr 4,October,22,7944310.83,Receipt,10,2019/10/22
+2019,Qtr 4,October,23,84581,Credit Note,10,2019/10/23
+2019,Qtr 4,October,23,1022578.6,Invoice,10,2019/10/23
+2019,Qtr 4,October,23,3735122.49,Receipt,10,2019/10/23
+2019,Qtr 4,October,24,27521.42,Credit Note,10,2019/10/24
+2019,Qtr 4,October,24,213933.98,Invoice,10,2019/10/24
+2019,Qtr 4,October,24,538132.78,Receipt,10,2019/10/24
+2019,Qtr 4,October,25,25354.42,Credit Note,10,2019/10/25
+2019,Qtr 4,October,25,812427.31,Invoice,10,2019/10/25
+2019,Qtr 4,October,25,2325491.9,Receipt,10,2019/10/25
+2019,Qtr 4,October,28,584370.44,Credit Note,10,2019/10/28
+2019,Qtr 4,October,28,439109.34,Invoice,10,2019/10/28
+2019,Qtr 4,October,28,734959.1,Receipt,10,2019/10/28
+2019,Qtr 4,October,29,775541.43,Credit Note,10,2019/10/29
+2019,Qtr 4,October,29,749025.03,Invoice,10,2019/10/29
+2019,Qtr 4,October,29,3523354.36,Receipt,10,2019/10/29
+2019,Qtr 4,October,30,109882.22,Credit Note,10,2019/10/30
+2019,Qtr 4,October,30,839422.97,Invoice,10,2019/10/30
+2019,Qtr 4,October,30,8335132.86,Receipt,10,2019/10/30
+2019,Qtr 4,October,31,495145.19,Credit Note,10,2019/10/31
+2019,Qtr 4,October,31,252638.75,Invoice,10,2019/10/31
+2019,Qtr 4,October,31,3404456.62,Receipt,10,2019/10/31
+2019,Qtr 4,November,1,115648.44,Credit Note,11,2019/11/1
+2019,Qtr 4,November,1,4924909.86,Receipt,11,2019/11/1
+2019,Qtr 4,November,4,1535278.51,Credit Note,11,2019/11/4
+2019,Qtr 4,November,4,866006.58,Invoice,11,2019/11/4
+2019,Qtr 4,November,4,3358975.89,Receipt,11,2019/11/4
+2019,Qtr 4,November,5,484015.72,Credit Note,11,2019/11/5
+2019,Qtr 4,November,5,129132.23,Invoice,11,2019/11/5
+2019,Qtr 4,November,5,320047.49,Receipt,11,2019/11/5
+2019,Qtr 4,November,6,828080.43,Credit Note,11,2019/11/6
+2019,Qtr 4,November,6,31763.63,Invoice,11,2019/11/6
+2019,Qtr 4,November,6,5581539.96,Receipt,11,2019/11/6
+2019,Qtr 4,November,7,1376107.47,Credit Note,11,2019/11/7
+2019,Qtr 4,November,7,75627.53,Invoice,11,2019/11/7
+2019,Qtr 4,November,7,779233,Receipt,11,2019/11/7
+2019,Qtr 4,November,8,1970039.47,Credit Note,11,2019/11/8
+2019,Qtr 4,November,8,7000785.36,Receipt,11,2019/11/8
+2019,Qtr 4,November,11,1454753.91,Credit Note,11,2019/11/11
+2019,Qtr 4,November,11,792585.62,Invoice,11,2019/11/11
+2019,Qtr 4,November,11,3621673.92,Receipt,11,2019/11/11
+2019,Qtr 4,November,12,3849047.5,Credit Note,11,2019/11/12
+2019,Qtr 4,November,12,23992.55,Invoice,11,2019/11/12
+2019,Qtr 4,November,12,2031918.97,Receipt,11,2019/11/12
+2019,Qtr 4,November,13,860230.74,Credit Note,11,2019/11/13
+2019,Qtr 4,November,13,989106.21,Invoice,11,2019/11/13
+2019,Qtr 4,November,13,1994120.55,Receipt,11,2019/11/13
+2019,Qtr 4,November,14,4470681,Receipt,11,2019/11/14
+2019,Qtr 4,November,15,75012.35,Credit Note,11,2019/11/15
+2019,Qtr 4,November,15,60917.44,Invoice,11,2019/11/15
+2019,Qtr 4,November,15,7458352.7,Receipt,11,2019/11/15
+2019,Qtr 4,November,18,405479.82,Credit Note,11,2019/11/18
+2019,Qtr 4,November,18,885365.69,Invoice,11,2019/11/18
+2019,Qtr 4,November,18,4398852.5,Receipt,11,2019/11/18
+2019,Qtr 4,November,19,566063.4,Invoice,11,2019/11/19
+2019,Qtr 4,November,19,3925908.38,Receipt,11,2019/11/19
+2019,Qtr 4,November,20,622076.02,Credit Note,11,2019/11/20
+2019,Qtr 4,November,20,2031486.33,Invoice,11,2019/11/20
+2019,Qtr 4,November,20,2238732.94,Receipt,11,2019/11/20
+2019,Qtr 4,November,21,153922.7,Credit Note,11,2019/11/21
+2019,Qtr 4,November,21,787500.11,Invoice,11,2019/11/21
+2019,Qtr 4,November,21,416266.12,Receipt,11,2019/11/21
+2019,Qtr 4,November,22,242564.49,Credit Note,11,2019/11/22
+2019,Qtr 4,November,22,1133752.83,Invoice,11,2019/11/22
+2019,Qtr 4,November,22,4712428.95,Receipt,11,2019/11/22
+2019,Qtr 4,November,23,75600,Invoice,11,2019/11/23
+2019,Qtr 4,November,25,513235.7,Credit Note,11,2019/11/25
+2019,Qtr 4,November,25,5746370.02,Invoice,11,2019/11/25
+2019,Qtr 4,November,25,5112921.97,Receipt,11,2019/11/25
+2019,Qtr 4,November,26,18271.23,Credit Note,11,2019/11/26
+2019,Qtr 4,November,26,26210.55,Invoice,11,2019/11/26
+2019,Qtr 4,November,26,3608232.5,Receipt,11,2019/11/26
+2019,Qtr 4,November,27,147581.02,Credit Note,11,2019/11/27
+2019,Qtr 4,November,27,5251.99,Invoice,11,2019/11/27
+2019,Qtr 4,November,27,5562462.57,Receipt,11,2019/11/27
+2019,Qtr 4,November,28,115580.4,Credit Note,11,2019/11/28
+2019,Qtr 4,November,28,3319419.83,Invoice,11,2019/11/28
+2019,Qtr 4,November,28,1314945.01,Receipt,11,2019/11/28
+2019,Qtr 4,November,29,181489.93,Invoice,11,2019/11/29
+2019,Qtr 4,November,29,1667448.91,Receipt,11,2019/11/29
+2019,Qtr 4,November,30,168950,Invoice,11,2019/11/30
+2019,Qtr 4,November,30,14941.21,Receipt,11,2019/11/30
+2019,Qtr 4,December,2,450243.08,Credit Note,12,2019/12/2
+2019,Qtr 4,December,2,1094666.01,Invoice,12,2019/12/2
+2019,Qtr 4,December,2,2616387.96,Receipt,12,2019/12/2
+2019,Qtr 4,December,3,231713.79,Credit Note,12,2019/12/3
+2019,Qtr 4,December,3,387779.5,Invoice,12,2019/12/3
+2019,Qtr 4,December,3,880545.21,Receipt,12,2019/12/3
+2019,Qtr 4,December,4,260041,Credit Note,12,2019/12/4
+2019,Qtr 4,December,4,428679.78,Invoice,12,2019/12/4
+2019,Qtr 4,December,4,448829.3,Receipt,12,2019/12/4
+2019,Qtr 4,December,5,32258.34,Credit Note,12,2019/12/5
+2019,Qtr 4,December,5,1227760.63,Receipt,12,2019/12/5
+2019,Qtr 4,December,6,85859.38,Credit Note,12,2019/12/6
+2019,Qtr 4,December,6,421243.07,Invoice,12,2019/12/6
+2019,Qtr 4,December,6,1802922.97,Receipt,12,2019/12/6
+2019,Qtr 4,December,8,948141.24,Invoice,12,2019/12/8
+2019,Qtr 4,December,9,27786.72,Credit Note,12,2019/12/9
+2019,Qtr 4,December,9,2742848.08,Invoice,12,2019/12/9
+2019,Qtr 4,December,9,4789109.1,Receipt,12,2019/12/9
+2019,Qtr 4,December,10,969716.7,Invoice,12,2019/12/10
+2019,Qtr 4,December,10,55871,Receipt,12,2019/12/10
+2019,Qtr 4,December,11,210403.58,Credit Note,12,2019/12/11
+2019,Qtr 4,December,11,291093.94,Invoice,12,2019/12/11
+2019,Qtr 4,December,12,914864,Invoice,12,2019/12/12
+2019,Qtr 4,December,12,1301839.49,Receipt,12,2019/12/12
+2019,Qtr 4,December,13,6308552.29,Invoice,12,2019/12/13
+2019,Qtr 4,December,13,5046504.89,Receipt,12,2019/12/13
+2019,Qtr 4,December,14,486665,Invoice,12,2019/12/14
+2019,Qtr 4,December,14,127997,Receipt,12,2019/12/14
+2019,Qtr 4,December,15,428326.01,Invoice,12,2019/12/15
+2019,Qtr 4,December,16,65520,Invoice,12,2019/12/16
+2019,Qtr 4,December,17,257716.64,Invoice,12,2019/12/17
+2019,Qtr 4,December,18,128318.34,Receipt,12,2019/12/18
+2019,Qtr 4,December,19,292264,Receipt,12,2019/12/19
+2019,Qtr 4,December,20,921053.01,Invoice,12,2019/12/20
+2019,Qtr 4,December,20,98728.98,Receipt,12,2019/12/20
+2019,Qtr 4,December,21,140313,Invoice,12,2019/12/21
+2019,Qtr 4,December,21,53625,Receipt,12,2019/12/21
+2019,Qtr 4,December,23,610779.83,Invoice,12,2019/12/23
+2019,Qtr 4,December,23,73450.53,Receipt,12,2019/12/23
+2019,Qtr 4,December,24,989868.19,Invoice,12,2019/12/24
+2019,Qtr 4,December,24,103901,Receipt,12,2019/12/24
+2019,Qtr 4,December,30,143725,Invoice,12,2019/12/30
+2019,Qtr 4,December,30,510501.14,Receipt,12,2019/12/30
+2019,Qtr 4,December,31,53625,Credit Note,12,2019/12/31
+2019,Qtr 4,December,31,175467.3,Invoice,12,2019/12/31
+2020,Qtr 1,January,1,286269.9,Invoice,1,2020/1/1
+2020,Qtr 1,January,1,513664.32,Receipt,1,2020/1/1
+2020,Qtr 1,January,2,35364.99,Invoice,1,2020/1/2
+2020,Qtr 1,January,6,82604.84,Invoice,1,2020/1/6
+2020,Qtr 1,January,6,74773,Receipt,1,2020/1/6
+2020,Qtr 1,January,7,69846.87,Invoice,1,2020/1/7
+2020,Qtr 1,January,7,3141013.95,Receipt,1,2020/1/7
+2020,Qtr 1,January,8,37815.97,Invoice,1,2020/1/8
+2020,Qtr 1,January,8,31987.97,Receipt,1,2020/1/8
+2020,Qtr 1,January,9,175230.91,Invoice,1,2020/1/9
+2020,Qtr 1,January,9,50680.93,Receipt,1,2020/1/9
+2020,Qtr 1,January,10,50475.97,Invoice,1,2020/1/10
+2020,Qtr 1,January,10,32655.99,Receipt,1,2020/1/10
+2020,Qtr 1,January,13,199186.04,Invoice,1,2020/1/13
+2020,Qtr 1,January,13,824685.66,Receipt,1,2020/1/13
+2020,Qtr 1,January,14,98516.99,Invoice,1,2020/1/14
+2020,Qtr 1,January,16,150936.98,Invoice,1,2020/1/16
+2020,Qtr 1,January,16,1420509.84,Receipt,1,2020/1/16
+2020,Qtr 1,January,18,279000,Invoice,1,2020/1/18
+2020,Qtr 1,January,18,181800,Receipt,1,2020/1/18
+2020,Qtr 1,January,20,8190,Invoice,1,2020/1/20
+2020,Qtr 1,January,21,59620,Invoice,1,2020/1/21
+2020,Qtr 1,January,21,410865.24,Receipt,1,2020/1/21
+2020,Qtr 1,January,22,12300,Invoice,1,2020/1/22
+2020,Qtr 1,January,23,254712,Invoice,1,2020/1/23
+2020,Qtr 1,January,23,384115.5,Receipt,1,2020/1/23
+2020,Qtr 1,January,24,695331,Receipt,1,2020/1/24
+2020,Qtr 1,January,25,222665.5,Invoice,1,2020/1/25
+2020,Qtr 1,January,27,83085.8,Credit Note,1,2020/1/27
+2020,Qtr 1,January,27,195640,Invoice,1,2020/1/27
+2020,Qtr 1,January,28,45677,Invoice,1,2020/1/28
+2020,Qtr 1,January,28,489533.2,Receipt,1,2020/1/28
+2020,Qtr 1,January,29,180840,Invoice,1,2020/1/29
+2020,Qtr 1,January,30,303731.98,Invoice,1,2020/1/30
+2020,Qtr 1,January,30,61699.97,Receipt,1,2020/1/30
+2020,Qtr 1,January,31,132103.01,Invoice,1,2020/1/31
+2020,Qtr 1,January,31,1568137.44,Receipt,1,2020/1/31
+2020,Qtr 1,February,1,321100,Invoice,2,2020/2/1
+2020,Qtr 1,February,1,192600,Receipt,2,2020/2/1
+2020,Qtr 1,February,3,906073.02,Receipt,2,2020/2/3
+2020,Qtr 1,February,4,92900.6,Credit Note,2,2020/2/4
+2020,Qtr 1,February,4,18829.98,Invoice,2,2020/2/4
+2020,Qtr 1,February,4,429695.22,Receipt,2,2020/2/4
+2020,Qtr 1,February,5,135588,Invoice,2,2020/2/5
+2020,Qtr 1,February,5,229814.21,Receipt,2,2020/2/5
+2020,Qtr 1,February,6,78179,Invoice,2,2020/2/6
+2020,Qtr 1,February,7,246803.74,Invoice,2,2020/2/7
+2020,Qtr 1,February,8,516400,Invoice,2,2020/2/8
+2020,Qtr 1,February,8,264420,Receipt,2,2020/2/8
+2020,Qtr 1,February,10,340903.44,Receipt,2,2020/2/10
+2020,Qtr 1,February,13,153780,Invoice,2,2020/2/13
+2020,Qtr 1,February,15,83200,Receipt,2,2020/2/15
+2020,Qtr 1,February,16,40250,Credit Note,2,2020/2/16
+2020,Qtr 1,February,16,213050,Invoice,2,2020/2/16
+2020,Qtr 1,February,17,85879.94,Invoice,2,2020/2/17
+2020,Qtr 1,February,17,45199.94,Receipt,2,2020/2/17
+2020,Qtr 1,February,18,479101,Invoice,2,2020/2/18
+2020,Qtr 1,February,20,81520,Invoice,2,2020/2/20
+2020,Qtr 1,February,21,300920.63,Invoice,2,2020/2/21
+2020,Qtr 1,February,24,227160,Invoice,2,2020/2/24
+2020,Qtr 1,February,24,409269.67,Receipt,2,2020/2/24
+2020,Qtr 1,February,26,46872,Invoice,2,2020/2/26
+2020,Qtr 1,February,27,76347.4,Credit Note,2,2020/2/27
+2020,Qtr 1,February,27,92400,Invoice,2,2020/2/27
+2020,Qtr 1,February,28,77870,Invoice,2,2020/2/28
+2020,Qtr 1,February,28,144237.98,Receipt,2,2020/2/28
+2020,Qtr 1,February,29,1457141.57,Receipt,2,2020/2/29
+2020,Qtr 1,March,2,10400,Invoice,3,2020/3/2
+2020,Qtr 1,March,2,1431522.54,Receipt,3,2020/3/2
+2020,Qtr 1,March,3,508140,Invoice,3,2020/3/3
+2020,Qtr 1,March,4,82085,Invoice,3,2020/3/4
+2020,Qtr 1,March,5,953820,Invoice,3,2020/3/5
+2020,Qtr 1,March,5,390240,Receipt,3,2020/3/5
+2020,Qtr 1,March,6,295680,Invoice,3,2020/3/6
+2020,Qtr 1,March,9,280430,Invoice,3,2020/3/9
+2020,Qtr 1,March,9,365508.61,Receipt,3,2020/3/9
+2020,Qtr 1,March,10,621900,Invoice,3,2020/3/10
+2020,Qtr 1,March,11,713100,Invoice,3,2020/3/11
+2020,Qtr 1,March,12,424800,Invoice,3,2020/3/12
+2020,Qtr 1,March,13,653496,Invoice,3,2020/3/13
+2020,Qtr 1,March,13,295749.99,Receipt,3,2020/3/13
+2020,Qtr 1,March,15,32175,Invoice,3,2020/3/15
+2020,Qtr 1,March,16,153855,Invoice,3,2020/3/16
+2020,Qtr 1,March,16,48000,Receipt,3,2020/3/16
+2020,Qtr 1,March,17,6055749.86,Invoice,3,2020/3/17
+2020,Qtr 1,March,17,3300376.01,Receipt,3,2020/3/17
+2020,Qtr 1,March,18,301500,Invoice,3,2020/3/18
+2020,Qtr 1,March,19,2603902.45,Invoice,3,2020/3/19
+2020,Qtr 1,March,19,15430,Receipt,3,2020/3/19
+2020,Qtr 1,March,20,168210,Invoice,3,2020/3/20
+2020,Qtr 1,March,20,32175,Receipt,3,2020/3/20
+2020,Qtr 1,March,21,312388,Invoice,3,2020/3/21
+2020,Qtr 1,March,23,2244495.84,Invoice,3,2020/3/23
+2020,Qtr 1,March,23,60160,Receipt,3,2020/3/23
+2020,Qtr 1,March,24,7394935.04,Invoice,3,2020/3/24
+2020,Qtr 1,March,24,2554435,Receipt,3,2020/3/24
+2020,Qtr 1,March,25,689970,Invoice,3,2020/3/25
+2020,Qtr 1,March,25,1748379.99,Receipt,3,2020/3/25
+2020,Qtr 1,March,26,828536,Invoice,3,2020/3/26
+2020,Qtr 1,March,26,193868.5,Receipt,3,2020/3/26
+2020,Qtr 1,March,27,768226.66,Invoice,3,2020/3/27
+2020,Qtr 1,March,27,1027716.1,Receipt,3,2020/3/27
+2020,Qtr 1,March,28,19755373.42,Invoice,3,2020/3/28
+2020,Qtr 1,March,28,106800,Receipt,3,2020/3/28
+2020,Qtr 1,March,29,55250,Invoice,3,2020/3/29
+2020,Qtr 1,March,29,55250,Receipt,3,2020/3/29
+2020,Qtr 1,March,30,1917922.14,Invoice,3,2020/3/30
+2020,Qtr 1,March,30,5033853.19,Receipt,3,2020/3/30
+2020,Qtr 1,March,31,3208296.94,Invoice,3,2020/3/31
+2020,Qtr 1,March,31,1778581.37,Receipt,3,2020/3/31
+2020,Qtr 2,April,1,976811.11,Invoice,4,2020/4/1
+2020,Qtr 2,April,1,318130,Receipt,4,2020/4/1
+2020,Qtr 2,April,2,2174012.81,Invoice,4,2020/4/2
+2020,Qtr 2,April,2,3194699.16,Receipt,4,2020/4/2
+2020,Qtr 2,April,3,2874880,Invoice,4,2020/4/3
+2020,Qtr 2,April,3,1837550,Receipt,4,2020/4/3
+2020,Qtr 2,April,4,300548,Invoice,4,2020/4/4
+2020,Qtr 2,April,4,137728,Receipt,4,2020/4/4
+2020,Qtr 2,April,6,1127894.44,Invoice,4,2020/4/6
+2020,Qtr 2,April,6,90600.9,Receipt,4,2020/4/6
+2020,Qtr 2,April,7,13144024.48,Invoice,4,2020/4/7
+2020,Qtr 2,April,7,250000,Receipt,4,2020/4/7
+2020,Qtr 2,April,8,7913013.56,Invoice,4,2020/4/8
+2020,Qtr 2,April,8,657396.5,Receipt,4,2020/4/8
+2020,Qtr 2,April,9,113916.6,Credit Note,4,2020/4/9
+2020,Qtr 2,April,9,4276226.56,Invoice,4,2020/4/9
+2020,Qtr 2,April,9,1660036.1,Receipt,4,2020/4/9
+2020,Qtr 2,April,10,103080,Invoice,4,2020/4/10
+2020,Qtr 2,April,10,685800,Receipt,4,2020/4/10
+2020,Qtr 2,April,11,276367,Invoice,4,2020/4/11
+2020,Qtr 2,April,13,4889072.27,Invoice,4,2020/4/13
+2020,Qtr 2,April,14,8637803.28,Invoice,4,2020/4/14
+2020,Qtr 2,April,14,3048990.91,Receipt,4,2020/4/14
+2020,Qtr 2,April,15,4667608.13,Invoice,4,2020/4/15
+2020,Qtr 2,April,15,878997.95,Receipt,4,2020/4/15
+2020,Qtr 2,April,16,8237184.17,Invoice,4,2020/4/16
+2020,Qtr 2,April,16,141417.9,Receipt,4,2020/4/16
+2020,Qtr 2,April,17,5723257.1,Invoice,4,2020/4/17
+2020,Qtr 2,April,17,261060.41,Receipt,4,2020/4/17
+2020,Qtr 2,April,18,134704,Invoice,4,2020/4/18
+2020,Qtr 2,April,19,677770.5,Invoice,4,2020/4/19
+2020,Qtr 2,April,20,97407.89,Credit Note,4,2020/4/20
+2020,Qtr 2,April,20,5142871.47,Invoice,4,2020/4/20
+2020,Qtr 2,April,21,3489903.04,Invoice,4,2020/4/21
+2020,Qtr 2,April,21,766965.38,Receipt,4,2020/4/21
+2020,Qtr 2,April,22,4609036.58,Invoice,4,2020/4/22
+2020,Qtr 2,April,22,2900506.11,Receipt,4,2020/4/22
+2020,Qtr 2,April,23,1554745.18,Invoice,4,2020/4/23
+2020,Qtr 2,April,23,3683435.36,Receipt,4,2020/4/23
+2020,Qtr 2,April,24,9093054.27,Invoice,4,2020/4/24
+2020,Qtr 2,April,24,1749625.19,Receipt,4,2020/4/24
+2020,Qtr 2,April,25,4536,Credit Note,4,2020/4/25
+2020,Qtr 2,April,25,708258.28,Invoice,4,2020/4/25
+2020,Qtr 2,April,26,122850,Receipt,4,2020/4/26
+2020,Qtr 2,April,27,4343513.43,Invoice,4,2020/4/27
+2020,Qtr 2,April,28,9082.99,Credit Note,4,2020/4/28
+2020,Qtr 2,April,28,2390139.79,Invoice,4,2020/4/28
+2020,Qtr 2,April,28,1540511.17,Receipt,4,2020/4/28
+2020,Qtr 2,April,29,4552584.81,Invoice,4,2020/4/29
+2020,Qtr 2,April,29,2880381.3,Receipt,4,2020/4/29
+2020,Qtr 2,April,30,12123947.16,Invoice,4,2020/4/30
+2020,Qtr 2,April,30,7218203.03,Receipt,4,2020/4/30
+2020,Qtr 2,May,1,789720.76,Invoice,5,2020/5/1
+2020,Qtr 2,May,1,67114,Receipt,5,2020/5/1
+2020,Qtr 2,May,2,911066.12,Invoice,5,2020/5/2
+2020,Qtr 2,May,4,4756621.62,Invoice,5,2020/5/4
+2020,Qtr 2,May,4,1599472.4,Receipt,5,2020/5/4
+2020,Qtr 2,May,5,6760666.96,Invoice,5,2020/5/5
+2020,Qtr 2,May,5,6909729.97,Receipt,5,2020/5/5
+2020,Qtr 2,May,6,8341950.03,Invoice,5,2020/5/6
+2020,Qtr 2,May,6,940510.89,Receipt,5,2020/5/6
+2020,Qtr 2,May,7,445161.37,Credit Note,5,2020/5/7
+2020,Qtr 2,May,7,15623865.95,Invoice,5,2020/5/7
+2020,Qtr 2,May,7,1075557.8,Receipt,5,2020/5/7
+2020,Qtr 2,May,8,1355147.69,Invoice,5,2020/5/8
+2020,Qtr 2,May,8,1974629.25,Receipt,5,2020/5/8
+2020,Qtr 2,May,9,2559475.24,Invoice,5,2020/5/9
+2020,Qtr 2,May,10,2582495.95,Invoice,5,2020/5/10
+2020,Qtr 2,May,10,128400,Receipt,5,2020/5/10
+2020,Qtr 2,May,11,900735.8,Invoice,5,2020/5/11
+2020,Qtr 2,May,11,807493.82,Receipt,5,2020/5/11
+2020,Qtr 2,May,12,1553934.15,Invoice,5,2020/5/12
+2020,Qtr 2,May,12,6726358.47,Receipt,5,2020/5/12
+2020,Qtr 2,May,13,7052838.74,Invoice,5,2020/5/13
+2020,Qtr 2,May,13,993353.34,Receipt,5,2020/5/13
+2020,Qtr 2,May,14,14780289.32,Invoice,5,2020/5/14
+2020,Qtr 2,May,14,2871629.09,Receipt,5,2020/5/14
+2020,Qtr 2,May,15,4705375.89,Invoice,5,2020/5/15
+2020,Qtr 2,May,15,5502174.86,Receipt,5,2020/5/15
+2020,Qtr 2,May,16,1322775.91,Invoice,5,2020/5/16
+2020,Qtr 2,May,17,2197420.15,Invoice,5,2020/5/17
+2020,Qtr 2,May,18,9099248.62,Invoice,5,2020/5/18
+2020,Qtr 2,May,18,682244.25,Receipt,5,2020/5/18
+2020,Qtr 2,May,19,7024369.45,Invoice,5,2020/5/19
+2020,Qtr 2,May,19,5305492.79,Receipt,5,2020/5/19
+2020,Qtr 2,May,20,192412.19,Credit Note,5,2020/5/20
+2020,Qtr 2,May,20,1087868.1,Invoice,5,2020/5/20
+2020,Qtr 2,May,20,757124.96,Receipt,5,2020/5/20
+2020,Qtr 2,May,21,204823.95,Credit Note,5,2020/5/21
+2020,Qtr 2,May,21,3859981.98,Invoice,5,2020/5/21
+2020,Qtr 2,May,21,3933969.6,Receipt,5,2020/5/21
+2020,Qtr 2,May,22,17944.83,Credit Note,5,2020/5/22
+2020,Qtr 2,May,22,1711851.28,Invoice,5,2020/5/22
+2020,Qtr 2,May,22,14305340.4,Receipt,5,2020/5/22
+2020,Qtr 2,May,23,2488616.08,Invoice,5,2020/5/23
+2020,Qtr 2,May,24,1280879.1,Invoice,5,2020/5/24
+2020,Qtr 2,May,24,47250,Receipt,5,2020/5/24
+2020,Qtr 2,May,25,5910059.33,Invoice,5,2020/5/25
+2020,Qtr 2,May,26,4782005.65,Invoice,5,2020/5/26
+2020,Qtr 2,May,26,1243863.02,Receipt,5,2020/5/26
+2020,Qtr 2,May,27,9902592.84,Invoice,5,2020/5/27
+2020,Qtr 2,May,27,7255959.97,Receipt,5,2020/5/27
+2020,Qtr 2,May,28,978831.03,Credit Note,5,2020/5/28
+2020,Qtr 2,May,28,15843977.61,Invoice,5,2020/5/28
+2020,Qtr 2,May,28,1993483.33,Receipt,5,2020/5/28
+2020,Qtr 2,May,29,444464.31,Credit Note,5,2020/5/29
+2020,Qtr 2,May,29,1143428.54,Invoice,5,2020/5/29
+2020,Qtr 2,May,29,2535023.59,Receipt,5,2020/5/29
+2020,Qtr 2,May,30,3517219.61,Invoice,5,2020/5/30
+2020,Qtr 2,May,30,509647.5,Receipt,5,2020/5/30
+2020,Qtr 2,May,31,190620,Credit Note,5,2020/5/31
+2020,Qtr 2,May,31,4116447.66,Invoice,5,2020/5/31
+2020,Qtr 2,May,31,4248718.49,Receipt,5,2020/5/31
+2020,Qtr 2,June,1,12810.28,Credit Note,6,2020/6/1
+2020,Qtr 2,June,1,7475375.28,Invoice,6,2020/6/1
+2020,Qtr 2,June,1,4049730.36,Receipt,6,2020/6/1
+2020,Qtr 2,June,2,171023.72,Credit Note,6,2020/6/2
+2020,Qtr 2,June,2,4398732.72,Invoice,6,2020/6/2
+2020,Qtr 2,June,2,1906787.24,Receipt,6,2020/6/2
+2020,Qtr 2,June,3,5307349.3,Invoice,6,2020/6/3
+2020,Qtr 2,June,3,13131137.11,Receipt,6,2020/6/3
+2020,Qtr 2,June,4,308,Credit Note,6,2020/6/4
+2020,Qtr 2,June,4,9146613.84,Invoice,6,2020/6/4
+2020,Qtr 2,June,4,836286.7,Receipt,6,2020/6/4
+2020,Qtr 2,June,5,11332593.22,Invoice,6,2020/6/5
+2020,Qtr 2,June,5,7402425.93,Receipt,6,2020/6/5
+2020,Qtr 2,June,7,53326.4,Credit Note,6,2020/6/7
+2020,Qtr 2,June,7,1633516.55,Invoice,6,2020/6/7
+2020,Qtr 2,June,8,3376968.93,Credit Note,6,2020/6/8
+2020,Qtr 2,June,8,6498235.33,Invoice,6,2020/6/8
+2020,Qtr 2,June,8,3129357.72,Receipt,6,2020/6/8
+2020,Qtr 2,June,9,182143.41,Credit Note,6,2020/6/9
+2020,Qtr 2,June,9,3199373.6,Invoice,6,2020/6/9
+2020,Qtr 2,June,9,3409702.73,Receipt,6,2020/6/9
+2020,Qtr 2,June,10,112886.49,Credit Note,6,2020/6/10
+2020,Qtr 2,June,10,7600315.79,Invoice,6,2020/6/10
+2020,Qtr 2,June,10,1622111.56,Receipt,6,2020/6/10
+2020,Qtr 2,June,11,9772405.09,Invoice,6,2020/6/11
+2020,Qtr 2,June,11,3789939.53,Receipt,6,2020/6/11
+2020,Qtr 2,June,12,2.16,Credit Note,6,2020/6/12
+2020,Qtr 2,June,12,4061349.51,Invoice,6,2020/6/12
+2020,Qtr 2,June,12,4671947.71,Receipt,6,2020/6/12
+2020,Qtr 2,June,13,929481.7,Invoice,6,2020/6/13
+2020,Qtr 2,June,13,45000,Receipt,6,2020/6/13
+2020,Qtr 2,June,14,276972.09,Invoice,6,2020/6/14
+2020,Qtr 2,June,15,22169.3,Credit Note,6,2020/6/15
+2020,Qtr 2,June,15,5845573.27,Invoice,6,2020/6/15
+2020,Qtr 2,June,15,159108.79,Receipt,6,2020/6/15
+2020,Qtr 2,June,16,11404870.05,Invoice,6,2020/6/16
+2020,Qtr 2,June,17,100455.63,Credit Note,6,2020/6/17
+2020,Qtr 2,June,17,4560840.87,Invoice,6,2020/6/17
+2020,Qtr 2,June,17,10482649.05,Receipt,6,2020/6/17
+2020,Qtr 2,June,18,11247535.39,Invoice,6,2020/6/18
+2020,Qtr 2,June,18,12797373.15,Receipt,6,2020/6/18
+2020,Qtr 2,June,19,137177.38,Credit Note,6,2020/6/19
+2020,Qtr 2,June,19,9788111.67,Invoice,6,2020/6/19
+2020,Qtr 2,June,19,4496975.5,Receipt,6,2020/6/19
+2020,Qtr 2,June,20,125360.71,Credit Note,6,2020/6/20
+2020,Qtr 2,June,20,36400,Invoice,6,2020/6/20
+2020,Qtr 2,June,21,793551.56,Invoice,6,2020/6/21
+2020,Qtr 2,June,22,65803.95,Credit Note,6,2020/6/22
+2020,Qtr 2,June,22,7257749.9,Invoice,6,2020/6/22
+2020,Qtr 2,June,22,6153016.6,Receipt,6,2020/6/22
+2020,Qtr 2,June,23,125190.91,Credit Note,6,2020/6/23
+2020,Qtr 2,June,23,7459744.84,Invoice,6,2020/6/23
+2020,Qtr 2,June,23,6601557.38,Receipt,6,2020/6/23
+2020,Qtr 2,June,24,143053.3,Credit Note,6,2020/6/24
+2020,Qtr 2,June,24,7462152.35,Invoice,6,2020/6/24
+2020,Qtr 2,June,24,3685293.42,Receipt,6,2020/6/24
+2020,Qtr 2,June,25,39224.51,Credit Note,6,2020/6/25
+2020,Qtr 2,June,25,4369509.24,Invoice,6,2020/6/25
+2020,Qtr 2,June,25,3058294.84,Receipt,6,2020/6/25
+2020,Qtr 2,June,26,1335956.5,Credit Note,6,2020/6/26
+2020,Qtr 2,June,26,315000,Invoice,6,2020/6/26
+2020,Qtr 2,June,26,6612235.65,Receipt,6,2020/6/26
+2020,Qtr 2,June,27,1595401.38,Invoice,6,2020/6/27
+2020,Qtr 2,June,28,12125026.11,Invoice,6,2020/6/28
+2020,Qtr 2,June,29,33810.8,Credit Note,6,2020/6/29
+2020,Qtr 2,June,29,8419378.77,Invoice,6,2020/6/29
+2020,Qtr 2,June,29,2973536,Receipt,6,2020/6/29
+2020,Qtr 2,June,30,308386.71,Credit Note,6,2020/6/30
+2020,Qtr 2,June,30,3351805.42,Invoice,6,2020/6/30
+2020,Qtr 2,June,30,8543317.77,Receipt,6,2020/6/30
+2020,Qtr 3,July,1,6190.78,Credit Note,7,2020/7/1
+2020,Qtr 3,July,1,7329197.23,Invoice,7,2020/7/1
+2020,Qtr 3,July,1,431083.2,Receipt,7,2020/7/1
+2020,Qtr 3,July,2,105176.38,Credit Note,7,2020/7/2
+2020,Qtr 3,July,2,2231456.97,Invoice,7,2020/7/2
+2020,Qtr 3,July,2,4429774.68,Receipt,7,2020/7/2
+2020,Qtr 3,July,3,76301.78,Credit Note,7,2020/7/3
+2020,Qtr 3,July,3,1399114.5,Invoice,7,2020/7/3
+2020,Qtr 3,July,3,7588590.51,Receipt,7,2020/7/3
+2020,Qtr 3,July,4,2800,Credit Note,7,2020/7/4
+2020,Qtr 3,July,4,11384522.68,Invoice,7,2020/7/4
+2020,Qtr 3,July,4,47040,Receipt,7,2020/7/4
+2020,Qtr 3,July,5,2288131.2,Invoice,7,2020/7/5
+2020,Qtr 3,July,6,369534.02,Credit Note,7,2020/7/6
+2020,Qtr 3,July,6,8656065.53,Invoice,7,2020/7/6
+2020,Qtr 3,July,6,8116521.1,Receipt,7,2020/7/6
+2020,Qtr 3,July,7,24052.81,Credit Note,7,2020/7/7
+2020,Qtr 3,July,7,10880020.23,Invoice,7,2020/7/7
+2020,Qtr 3,July,7,1651306.87,Receipt,7,2020/7/7
+2020,Qtr 3,July,8,70393.69,Credit Note,7,2020/7/8
+2020,Qtr 3,July,8,5520469.51,Invoice,7,2020/7/8
+2020,Qtr 3,July,8,12690013.59,Receipt,7,2020/7/8
+2020,Qtr 3,July,9,140556.07,Credit Note,7,2020/7/9
+2020,Qtr 3,July,9,4565770.33,Invoice,7,2020/7/9
+2020,Qtr 3,July,9,7812712.92,Receipt,7,2020/7/9
+2020,Qtr 3,July,10,121109.21,Credit Note,7,2020/7/10
+2020,Qtr 3,July,10,3431172.43,Invoice,7,2020/7/10
+2020,Qtr 3,July,10,6942174.01,Receipt,7,2020/7/10
+2020,Qtr 3,July,11,2173539.71,Invoice,7,2020/7/11
+2020,Qtr 3,July,11,77213,Receipt,7,2020/7/11
+2020,Qtr 3,July,12,4437915.23,Invoice,7,2020/7/12
+2020,Qtr 3,July,13,1101776.95,Credit Note,7,2020/7/13
+2020,Qtr 3,July,13,10549566.72,Invoice,7,2020/7/13
+2020,Qtr 3,July,13,2206999.1,Receipt,7,2020/7/13
+2020,Qtr 3,July,14,20618.48,Credit Note,7,2020/7/14
+2020,Qtr 3,July,14,7949909.29,Invoice,7,2020/7/14
+2020,Qtr 3,July,14,6934766.75,Receipt,7,2020/7/14
+2020,Qtr 3,July,15,121700.73,Credit Note,7,2020/7/15
+2020,Qtr 3,July,15,5402683.73,Invoice,7,2020/7/15
+2020,Qtr 3,July,15,2480943.62,Receipt,7,2020/7/15
+2020,Qtr 3,July,16,793115.84,Credit Note,7,2020/7/16
+2020,Qtr 3,July,16,10668151.59,Invoice,7,2020/7/16
+2020,Qtr 3,July,16,3323986.6,Receipt,7,2020/7/16
+2020,Qtr 3,July,17,177673.67,Credit Note,7,2020/7/17
+2020,Qtr 3,July,17,2456286.94,Invoice,7,2020/7/17
+2020,Qtr 3,July,17,8862996.43,Receipt,7,2020/7/17
+2020,Qtr 3,July,18,4875979.93,Invoice,7,2020/7/18
+2020,Qtr 3,July,19,22484.99,Credit Note,7,2020/7/19
+2020,Qtr 3,July,19,6098158.38,Invoice,7,2020/7/19
+2020,Qtr 3,July,20,72365.96,Credit Note,7,2020/7/20
+2020,Qtr 3,July,20,11378184.42,Invoice,7,2020/7/20
+2020,Qtr 3,July,20,4306099.42,Receipt,7,2020/7/20
+2020,Qtr 3,July,21,255611.6,Credit Note,7,2020/7/21
+2020,Qtr 3,July,21,5891634.66,Invoice,7,2020/7/21
+2020,Qtr 3,July,21,6991643.84,Receipt,7,2020/7/21
+2020,Qtr 3,July,22,559762.11,Credit Note,7,2020/7/22
+2020,Qtr 3,July,22,16098603.71,Invoice,7,2020/7/22
+2020,Qtr 3,July,22,2071675.97,Receipt,7,2020/7/22
+2020,Qtr 3,July,23,2725105.87,Credit Note,7,2020/7/23
+2020,Qtr 3,July,23,2619071.62,Invoice,7,2020/7/23
+2020,Qtr 3,July,23,10406004.41,Receipt,7,2020/7/23
+2020,Qtr 3,July,24,11747553.03,Invoice,7,2020/7/24
+2020,Qtr 3,July,24,6196596.11,Receipt,7,2020/7/24
+2020,Qtr 3,July,25,11588905.62,Invoice,7,2020/7/25
+2020,Qtr 3,July,25,103175,Receipt,7,2020/7/25
+2020,Qtr 3,July,26,8906.26,Credit Note,7,2020/7/26
+2020,Qtr 3,July,26,4166735.1,Invoice,7,2020/7/26
+2020,Qtr 3,July,26,56700,Receipt,7,2020/7/26
+2020,Qtr 3,July,27,273006.25,Credit Note,7,2020/7/27
+2020,Qtr 3,July,27,2479740.45,Invoice,7,2020/7/27
+2020,Qtr 3,July,27,4331005.21,Receipt,7,2020/7/27
+2020,Qtr 3,July,28,313902.99,Credit Note,7,2020/7/28
+2020,Qtr 3,July,28,18451434.95,Invoice,7,2020/7/28
+2020,Qtr 3,July,28,6541692.75,Receipt,7,2020/7/28
+2020,Qtr 3,July,29,2354924.29,Credit Note,7,2020/7/29
+2020,Qtr 3,July,29,8462732.71,Invoice,7,2020/7/29
+2020,Qtr 3,July,29,11145859.01,Receipt,7,2020/7/29
+2020,Qtr 3,July,30,406103.2,Credit Note,7,2020/7/30
+2020,Qtr 3,July,30,14550931.21,Invoice,7,2020/7/30
+2020,Qtr 3,July,30,13621977.71,Receipt,7,2020/7/30
+2020,Qtr 3,July,31,19099.58,Credit Note,7,2020/7/31
+2020,Qtr 3,July,31,3939873.61,Invoice,7,2020/7/31
+2020,Qtr 3,July,31,16929553.18,Receipt,7,2020/7/31
+2020,Qtr 3,August,1,180494,Invoice,8,2020/8/1
+2020,Qtr 3,August,1,142019,Receipt,8,2020/8/1
+2020,Qtr 3,August,2,390957.55,Credit Note,8,2020/8/2
+2020,Qtr 3,August,2,1626112.06,Invoice,8,2020/8/2
+2020,Qtr 3,August,3,8588.15,Credit Note,8,2020/8/3
+2020,Qtr 3,August,3,10219029.21,Invoice,8,2020/8/3
+2020,Qtr 3,August,3,6677198.58,Receipt,8,2020/8/3
+2020,Qtr 3,August,4,212088.8,Credit Note,8,2020/8/4
+2020,Qtr 3,August,4,12286296.65,Invoice,8,2020/8/4
+2020,Qtr 3,August,4,4391316.11,Receipt,8,2020/8/4
+2020,Qtr 3,August,5,141656.1,Credit Note,8,2020/8/5
+2020,Qtr 3,August,5,11625549.98,Invoice,8,2020/8/5
+2020,Qtr 3,August,5,9369389.14,Receipt,8,2020/8/5
+2020,Qtr 3,August,6,295547.76,Credit Note,8,2020/8/6
+2020,Qtr 3,August,6,9931777.58,Invoice,8,2020/8/6
+2020,Qtr 3,August,6,6879135.44,Receipt,8,2020/8/6
+2020,Qtr 3,August,7,360054.62,Credit Note,8,2020/8/7
+2020,Qtr 3,August,7,19927064.25,Invoice,8,2020/8/7
+2020,Qtr 3,August,7,14971460.28,Receipt,8,2020/8/7
+2020,Qtr 3,August,8,7237652.74,Invoice,8,2020/8/8
+2020,Qtr 3,August,8,221192,Receipt,8,2020/8/8
+2020,Qtr 3,August,9,12884730.95,Invoice,8,2020/8/9
+2020,Qtr 3,August,9,15000,Receipt,8,2020/8/9
+2020,Qtr 3,August,10,192504.36,Credit Note,8,2020/8/10
+2020,Qtr 3,August,10,510565.5,Invoice,8,2020/8/10
+2020,Qtr 3,August,10,114684.24,Receipt,8,2020/8/10
+2020,Qtr 3,August,11,146041.87,Credit Note,8,2020/8/11
+2020,Qtr 3,August,11,8239472.33,Invoice,8,2020/8/11
+2020,Qtr 3,August,11,10670833.59,Receipt,8,2020/8/11
+2020,Qtr 3,August,12,224781.21,Credit Note,8,2020/8/12
+2020,Qtr 3,August,12,10157224.99,Invoice,8,2020/8/12
+2020,Qtr 3,August,12,7206031.33,Receipt,8,2020/8/12
+2020,Qtr 3,August,13,868817.99,Credit Note,8,2020/8/13
+2020,Qtr 3,August,13,16347963.44,Invoice,8,2020/8/13
+2020,Qtr 3,August,13,7039666.4,Receipt,8,2020/8/13
+2020,Qtr 3,August,14,426246.49,Credit Note,8,2020/8/14
+2020,Qtr 3,August,14,4041584.28,Invoice,8,2020/8/14
+2020,Qtr 3,August,14,6247817.41,Receipt,8,2020/8/14
+2020,Qtr 3,August,15,15837219.99,Invoice,8,2020/8/15
+2020,Qtr 3,August,15,359296,Receipt,8,2020/8/15
+2020,Qtr 3,August,16,35893.61,Credit Note,8,2020/8/16
+2020,Qtr 3,August,16,1868007.22,Invoice,8,2020/8/16
+2020,Qtr 3,August,16,120728,Receipt,8,2020/8/16
+2020,Qtr 3,August,17,16047651.74,Invoice,8,2020/8/17
+2020,Qtr 3,August,17,6148152.24,Receipt,8,2020/8/17
+2020,Qtr 3,August,18,311360.36,Credit Note,8,2020/8/18
+2020,Qtr 3,August,18,10956530.62,Invoice,8,2020/8/18
+2020,Qtr 3,August,18,17067990.36,Receipt,8,2020/8/18
+2020,Qtr 3,August,19,133690.22,Credit Note,8,2020/8/19
+2020,Qtr 3,August,19,6348853.69,Invoice,8,2020/8/19
+2020,Qtr 3,August,19,11111432.64,Receipt,8,2020/8/19
+2020,Qtr 3,August,20,1231726.49,Credit Note,8,2020/8/20
+2020,Qtr 3,August,20,7278079.4,Invoice,8,2020/8/20
+2020,Qtr 3,August,20,7765429.8,Receipt,8,2020/8/20
+2020,Qtr 3,August,21,149579.05,Credit Note,8,2020/8/21
+2020,Qtr 3,August,21,3035418.95,Invoice,8,2020/8/21
+2020,Qtr 3,August,21,8730588.91,Receipt,8,2020/8/21
+2020,Qtr 3,August,22,2622671.9,Invoice,8,2020/8/22
+2020,Qtr 3,August,22,182252,Receipt,8,2020/8/22
+2020,Qtr 3,August,23,3281207.01,Invoice,8,2020/8/23
+2020,Qtr 3,August,23,255400,Receipt,8,2020/8/23
+2020,Qtr 3,August,24,50372.06,Credit Note,8,2020/8/24
+2020,Qtr 3,August,24,7737412.21,Invoice,8,2020/8/24
+2020,Qtr 3,August,24,6139968.01,Receipt,8,2020/8/24
+2020,Qtr 3,August,25,1450754.48,Credit Note,8,2020/8/25
+2020,Qtr 3,August,25,5974949.45,Invoice,8,2020/8/25
+2020,Qtr 3,August,25,14405119.7,Receipt,8,2020/8/25
+2020,Qtr 3,August,26,84447.47,Credit Note,8,2020/8/26
+2020,Qtr 3,August,26,9279972.39,Invoice,8,2020/8/26
+2020,Qtr 3,August,26,6826972.25,Receipt,8,2020/8/26
+2020,Qtr 3,August,27,217069.3,Credit Note,8,2020/8/27
+2020,Qtr 3,August,27,8269569.24,Invoice,8,2020/8/27
+2020,Qtr 3,August,27,8393273.48,Receipt,8,2020/8/27
+2020,Qtr 3,August,28,4630177.93,Credit Note,8,2020/8/28
+2020,Qtr 3,August,28,9253579.6,Invoice,8,2020/8/28
+2020,Qtr 3,August,28,13128712.19,Receipt,8,2020/8/28
+2020,Qtr 3,August,29,254517.92,Invoice,8,2020/8/29
+2020,Qtr 3,August,30,535827.2,Invoice,8,2020/8/30
+2020,Qtr 3,August,31,114263.72,Credit Note,8,2020/8/31
+2020,Qtr 3,August,31,11202308.59,Invoice,8,2020/8/31
+2020,Qtr 3,August,31,9060807.81,Receipt,8,2020/8/31
+2020,Qtr 3,September,1,67421.2,Credit Note,9,2020/9/1
+2020,Qtr 3,September,1,8586165.83,Invoice,9,2020/9/1
+2020,Qtr 3,September,1,10792026.76,Receipt,9,2020/9/1
+2020,Qtr 3,September,2,1088006.07,Credit Note,9,2020/9/2
+2020,Qtr 3,September,2,6512056.97,Invoice,9,2020/9/2
+2020,Qtr 3,September,2,13215841.04,Receipt,9,2020/9/2
+2020,Qtr 3,September,3,904177.16,Credit Note,9,2020/9/3
+2020,Qtr 3,September,3,2288947.62,Invoice,9,2020/9/3
+2020,Qtr 3,September,3,2339065.8,Receipt,9,2020/9/3
+2020,Qtr 3,September,4,752419.38,Credit Note,9,2020/9/4
+2020,Qtr 3,September,4,1241003.98,Invoice,9,2020/9/4
+2020,Qtr 3,September,4,8180235.54,Receipt,9,2020/9/4
+2020,Qtr 3,September,5,247734.12,Invoice,9,2020/9/5
+2020,Qtr 3,September,7,1925733.9,Credit Note,9,2020/9/7
+2020,Qtr 3,September,7,3066890.46,Invoice,9,2020/9/7
+2020,Qtr 3,September,7,1821535.47,Receipt,9,2020/9/7
+2020,Qtr 3,September,8,855088.54,Credit Note,9,2020/9/8
+2020,Qtr 3,September,8,13488619.98,Invoice,9,2020/9/8
+2020,Qtr 3,September,8,11222416.13,Receipt,9,2020/9/8
+2020,Qtr 3,September,9,1223891.55,Credit Note,9,2020/9/9
+2020,Qtr 3,September,9,7391832.49,Invoice,9,2020/9/9
+2020,Qtr 3,September,9,12182122.83,Receipt,9,2020/9/9
+2020,Qtr 3,September,10,198631.89,Credit Note,9,2020/9/10
+2020,Qtr 3,September,10,1874317.91,Invoice,9,2020/9/10
+2020,Qtr 3,September,10,10419066.78,Receipt,9,2020/9/10
+2020,Qtr 3,September,11,189364.9,Credit Note,9,2020/9/11
+2020,Qtr 3,September,11,5425819.86,Invoice,9,2020/9/11
+2020,Qtr 3,September,11,14080097.44,Receipt,9,2020/9/11
+2020,Qtr 3,September,12,4403812.23,Invoice,9,2020/9/12
+2020,Qtr 3,September,12,877520,Receipt,9,2020/9/12
+2020,Qtr 3,September,14,446134.08,Credit Note,9,2020/9/14
+2020,Qtr 3,September,14,3404084.78,Invoice,9,2020/9/14
+2020,Qtr 3,September,14,778585.93,Receipt,9,2020/9/14
+2020,Qtr 3,September,15,289265.58,Credit Note,9,2020/9/15
+2020,Qtr 3,September,15,6997677.39,Invoice,9,2020/9/15
+2020,Qtr 3,September,15,17268964.05,Receipt,9,2020/9/15
+2020,Qtr 3,September,16,574949.76,Credit Note,9,2020/9/16
+2020,Qtr 3,September,16,2533771.54,Invoice,9,2020/9/16
+2020,Qtr 3,September,16,5127912.95,Receipt,9,2020/9/16
+2020,Qtr 3,September,17,230511.86,Credit Note,9,2020/9/17
+2020,Qtr 3,September,17,8420369.27,Invoice,9,2020/9/17
+2020,Qtr 3,September,17,11265687.28,Receipt,9,2020/9/17
+2020,Qtr 3,September,18,73464.2,Credit Note,9,2020/9/18
+2020,Qtr 3,September,18,5781333.55,Invoice,9,2020/9/18
+2020,Qtr 3,September,18,6527956.82,Receipt,9,2020/9/18
+2020,Qtr 3,September,19,5506322.9,Invoice,9,2020/9/19
+2020,Qtr 3,September,19,391700,Receipt,9,2020/9/19
+2020,Qtr 3,September,20,1173949.53,Invoice,9,2020/9/20
+2020,Qtr 3,September,20,90720,Receipt,9,2020/9/20
+2020,Qtr 3,September,21,606756.56,Credit Note,9,2020/9/21
+2020,Qtr 3,September,21,1726839.59,Invoice,9,2020/9/21
+2020,Qtr 3,September,21,6725297.79,Receipt,9,2020/9/21
+2020,Qtr 3,September,22,228924.4,Credit Note,9,2020/9/22
+2020,Qtr 3,September,22,1876982.13,Invoice,9,2020/9/22
+2020,Qtr 3,September,22,5874892.9,Receipt,9,2020/9/22
+2020,Qtr 3,September,23,1626404.62,Credit Note,9,2020/9/23
+2020,Qtr 3,September,23,2005184.39,Invoice,9,2020/9/23
+2020,Qtr 3,September,23,7825932.22,Receipt,9,2020/9/23
+2020,Qtr 3,September,24,572391.27,Invoice,9,2020/9/24
+2020,Qtr 3,September,24,92300,Receipt,9,2020/9/24
+2020,Qtr 3,September,25,85136.05,Credit Note,9,2020/9/25
+2020,Qtr 3,September,25,7624751.72,Invoice,9,2020/9/25
+2020,Qtr 3,September,25,21120954.56,Receipt,9,2020/9/25
+2020,Qtr 3,September,26,3752136.85,Invoice,9,2020/9/26
+2020,Qtr 3,September,26,237000,Receipt,9,2020/9/26
+2020,Qtr 3,September,27,338141.52,Invoice,9,2020/9/27
+2020,Qtr 3,September,28,282640.88,Credit Note,9,2020/9/28
+2020,Qtr 3,September,28,5556809.04,Invoice,9,2020/9/28
+2020,Qtr 3,September,28,6147992.81,Receipt,9,2020/9/28
+2020,Qtr 3,September,29,777428.51,Credit Note,9,2020/9/29
+2020,Qtr 3,September,29,820420.92,Invoice,9,2020/9/29
+2020,Qtr 3,September,29,13672324.24,Receipt,9,2020/9/29
+2020,Qtr 3,September,30,231838.05,Credit Note,9,2020/9/30
+2020,Qtr 3,September,30,9077928.89,Invoice,9,2020/9/30
+2020,Qtr 3,September,30,4471778.72,Receipt,9,2020/9/30
+2020,Qtr 4,October,1,1092869.5,Credit Note,10,2020/10/1
+2020,Qtr 4,October,1,3378222.28,Invoice,10,2020/10/1
+2020,Qtr 4,October,1,5534571.92,Receipt,10,2020/10/1
+2020,Qtr 4,October,2,1279865.47,Credit Note,10,2020/10/2
+2020,Qtr 4,October,2,2454398.85,Invoice,10,2020/10/2
+2020,Qtr 4,October,2,9969240.6,Receipt,10,2020/10/2
+2020,Qtr 4,October,3,1472.42,Credit Note,10,2020/10/3
+2020,Qtr 4,October,3,3610821.01,Invoice,10,2020/10/3
+2020,Qtr 4,October,3,409050.92,Receipt,10,2020/10/3
+2020,Qtr 4,October,5,1342901.66,Credit Note,10,2020/10/5
+2020,Qtr 4,October,5,1514446.23,Invoice,10,2020/10/5
+2020,Qtr 4,October,5,7508588.99,Receipt,10,2020/10/5
+2020,Qtr 4,October,6,1327200.48,Credit Note,10,2020/10/6
+2020,Qtr 4,October,6,562189.34,Invoice,10,2020/10/6
+2020,Qtr 4,October,6,9769983.16,Receipt,10,2020/10/6
+2020,Qtr 4,October,7,188358.26,Credit Note,10,2020/10/7
+2020,Qtr 4,October,7,1719177.59,Invoice,10,2020/10/7
+2020,Qtr 4,October,7,9475752.75,Receipt,10,2020/10/7
+2020,Qtr 4,October,8,217816.65,Credit Note,10,2020/10/8
+2020,Qtr 4,October,8,495512.14,Invoice,10,2020/10/8
+2020,Qtr 4,October,8,2650135.07,Receipt,10,2020/10/8
+2020,Qtr 4,October,9,248710.86,Credit Note,10,2020/10/9
+2020,Qtr 4,October,9,4762085,Invoice,10,2020/10/9
+2020,Qtr 4,October,9,14107761.14,Receipt,10,2020/10/9
+2020,Qtr 4,October,10,33600,Invoice,10,2020/10/10
+2020,Qtr 4,October,10,33600,Receipt,10,2020/10/10
+2020,Qtr 4,October,12,85416.06,Credit Note,10,2020/10/12
+2020,Qtr 4,October,12,2938991.74,Invoice,10,2020/10/12
+2020,Qtr 4,October,12,4070398.3,Receipt,10,2020/10/12
+2020,Qtr 4,October,13,439082.35,Credit Note,10,2020/10/13
+2020,Qtr 4,October,13,850385.84,Invoice,10,2020/10/13
+2020,Qtr 4,October,13,13258718.62,Receipt,10,2020/10/13
+2020,Qtr 4,October,14,37014.54,Credit Note,10,2020/10/14
+2020,Qtr 4,October,14,2097397.37,Invoice,10,2020/10/14
+2020,Qtr 4,October,14,6756617.96,Receipt,10,2020/10/14
+2020,Qtr 4,October,15,4598.23,Credit Note,10,2020/10/15
+2020,Qtr 4,October,15,593394.05,Invoice,10,2020/10/15
+2020,Qtr 4,October,15,4261982.67,Receipt,10,2020/10/15
+2020,Qtr 4,October,16,137185.11,Credit Note,10,2020/10/16
+2020,Qtr 4,October,16,2071085.36,Invoice,10,2020/10/16
+2020,Qtr 4,October,16,10851370.35,Receipt,10,2020/10/16
+2020,Qtr 4,October,17,450338,Invoice,10,2020/10/17
+2020,Qtr 4,October,17,450758,Receipt,10,2020/10/17
+2020,Qtr 4,October,19,385658.54,Credit Note,10,2020/10/19
+2020,Qtr 4,October,19,333001.13,Invoice,10,2020/10/19
+2020,Qtr 4,October,19,415057.12,Receipt,10,2020/10/19
+2020,Qtr 4,October,20,1216549.23,Credit Note,10,2020/10/20
+2020,Qtr 4,October,20,165506.85,Invoice,10,2020/10/20
+2020,Qtr 4,October,20,10624202.8,Receipt,10,2020/10/20
+2020,Qtr 4,October,21,122561.41,Credit Note,10,2020/10/21
+2020,Qtr 4,October,21,611253.41,Invoice,10,2020/10/21
+2020,Qtr 4,October,21,803500.81,Receipt,10,2020/10/21
+2020,Qtr 4,October,22,53111.33,Credit Note,10,2020/10/22
+2020,Qtr 4,October,22,343308.44,Invoice,10,2020/10/22
+2020,Qtr 4,October,22,8671997.85,Receipt,10,2020/10/22
+2020,Qtr 4,October,23,34370.24,Credit Note,10,2020/10/23
+2020,Qtr 4,October,23,826133.71,Invoice,10,2020/10/23
+2020,Qtr 4,October,23,4267754.87,Receipt,10,2020/10/23
+2020,Qtr 4,October,24,345717.98,Invoice,10,2020/10/24
+2020,Qtr 4,October,24,345755.48,Receipt,10,2020/10/24
+2020,Qtr 4,October,26,255499.67,Credit Note,10,2020/10/26
+2020,Qtr 4,October,26,291612.98,Invoice,10,2020/10/26
+2020,Qtr 4,October,26,2438455.64,Receipt,10,2020/10/26
+2020,Qtr 4,October,27,101120.86,Credit Note,10,2020/10/27
+2020,Qtr 4,October,27,1079479.18,Invoice,10,2020/10/27
+2020,Qtr 4,October,27,28896246.88,Receipt,10,2020/10/27
+2020,Qtr 4,October,28,544759.89,Credit Note,10,2020/10/28
+2020,Qtr 4,October,28,520307.24,Invoice,10,2020/10/28
+2020,Qtr 4,October,28,202300,Receipt,10,2020/10/28
+2020,Qtr 4,October,29,84459.88,Credit Note,10,2020/10/29
+2020,Qtr 4,October,29,654079,Invoice,10,2020/10/29
+2020,Qtr 4,October,29,4266868.11,Receipt,10,2020/10/29
+2020,Qtr 4,October,30,211187.09,Credit Note,10,2020/10/30
+2020,Qtr 4,October,30,498945.45,Invoice,10,2020/10/30
+2020,Qtr 4,October,30,7609628.52,Receipt,10,2020/10/30
+2020,Qtr 4,October,31,11165625.58,Invoice,10,2020/10/31
+2020,Qtr 4,October,31,599965.6,Receipt,10,2020/10/31
+2020,Qtr 4,November,1,324263.43,Invoice,11,2020/11/1
+2020,Qtr 4,November,1,68000,Receipt,11,2020/11/1
+2020,Qtr 4,November,2,328751.18,Credit Note,11,2020/11/2
+2020,Qtr 4,November,2,363775.86,Invoice,11,2020/11/2
+2020,Qtr 4,November,2,2409583.91,Receipt,11,2020/11/2
+2020,Qtr 4,November,3,477024.24,Credit Note,11,2020/11/3
+2020,Qtr 4,November,3,1088122.07,Invoice,11,2020/11/3
+2020,Qtr 4,November,3,8214343.76,Receipt,11,2020/11/3
+2020,Qtr 4,November,4,736333.38,Credit Note,11,2020/11/4
+2020,Qtr 4,November,4,62440,Invoice,11,2020/11/4
+2020,Qtr 4,November,4,7049939.63,Receipt,11,2020/11/4
+2020,Qtr 4,November,5,1028259.33,Credit Note,11,2020/11/5
+2020,Qtr 4,November,5,1123233.23,Invoice,11,2020/11/5
+2020,Qtr 4,November,5,2848454.5,Receipt,11,2020/11/5
+2020,Qtr 4,November,6,9424.32,Credit Note,11,2020/11/6
+2020,Qtr 4,November,6,688195.7,Invoice,11,2020/11/6
+2020,Qtr 4,November,6,4541122.37,Receipt,11,2020/11/6
+2020,Qtr 4,November,7,498030.1,Invoice,11,2020/11/7
+2020,Qtr 4,November,7,498255.1,Receipt,11,2020/11/7
+2020,Qtr 4,November,9,635184.83,Credit Note,11,2020/11/9
+2020,Qtr 4,November,9,376168.04,Invoice,11,2020/11/9
+2020,Qtr 4,November,9,6604955.75,Receipt,11,2020/11/9
+2020,Qtr 4,November,10,299355.76,Credit Note,11,2020/11/10
+2020,Qtr 4,November,10,334558.95,Invoice,11,2020/11/10
+2020,Qtr 4,November,10,7908683.93,Receipt,11,2020/11/10
+2020,Qtr 4,November,11,86462.4,Credit Note,11,2020/11/11
+2020,Qtr 4,November,11,747396,Invoice,11,2020/11/11
+2020,Qtr 4,November,11,1808074.3,Receipt,11,2020/11/11
+2020,Qtr 4,November,12,26836.78,Credit Note,11,2020/11/12
+2020,Qtr 4,November,12,994964.73,Invoice,11,2020/11/12
+2020,Qtr 4,November,12,850368.5,Receipt,11,2020/11/12
+2020,Qtr 4,November,13,1674.63,Credit Note,11,2020/11/13
+2020,Qtr 4,November,13,2726148.18,Invoice,11,2020/11/13
+2020,Qtr 4,November,13,5171787.33,Receipt,11,2020/11/13
+2020,Qtr 4,November,14,197958.4,Invoice,11,2020/11/14
+2020,Qtr 4,November,14,198175.9,Receipt,11,2020/11/14
+2020,Qtr 4,November,15,235360,Invoice,11,2020/11/15
+2020,Qtr 4,November,15,235360,Receipt,11,2020/11/15
+2020,Qtr 4,November,16,5511883.79,Invoice,11,2020/11/16
+2020,Qtr 4,November,16,1406353.41,Receipt,11,2020/11/16
+2020,Qtr 4,November,17,403200,Invoice,11,2020/11/17
+2020,Qtr 4,November,17,7568781.6,Receipt,11,2020/11/17
+2020,Qtr 4,November,18,411525.14,Credit Note,11,2020/11/18
+2020,Qtr 4,November,18,1277614.46,Invoice,11,2020/11/18
+2020,Qtr 4,November,18,430728.75,Receipt,11,2020/11/18
+2020,Qtr 4,November,19,392700,Invoice,11,2020/11/19
+2020,Qtr 4,November,19,2479370.49,Receipt,11,2020/11/19
+2020,Qtr 4,November,20,31963.77,Credit Note,11,2020/11/20
+2020,Qtr 4,November,20,539928,Invoice,11,2020/11/20
+2020,Qtr 4,November,20,1178652.37,Receipt,11,2020/11/20
+2020,Qtr 4,November,21,194733,Invoice,11,2020/11/21
+2020,Qtr 4,November,22,186750,Invoice,11,2020/11/22
+2020,Qtr 4,November,22,28394.65,Receipt,11,2020/11/22
+2020,Qtr 4,November,23,326984.23,Credit Note,11,2020/11/23
+2020,Qtr 4,November,23,802504.26,Invoice,11,2020/11/23
+2020,Qtr 4,November,23,1990538.59,Receipt,11,2020/11/23
+2020,Qtr 4,November,24,223822.6,Credit Note,11,2020/11/24
+2020,Qtr 4,November,24,617010.65,Invoice,11,2020/11/24
+2020,Qtr 4,November,24,440956.16,Receipt,11,2020/11/24
+2020,Qtr 4,November,25,28554.2,Credit Note,11,2020/11/25
+2020,Qtr 4,November,25,188610,Invoice,11,2020/11/25
+2020,Qtr 4,November,25,1546187.24,Receipt,11,2020/11/25
+2020,Qtr 4,November,26,830111.76,Credit Note,11,2020/11/26
+2020,Qtr 4,November,26,342952.1,Invoice,11,2020/11/26
+2020,Qtr 4,November,26,236718.85,Receipt,11,2020/11/26
+2020,Qtr 4,November,27,208833.07,Credit Note,11,2020/11/27
+2020,Qtr 4,November,27,898691.8,Invoice,11,2020/11/27
+2020,Qtr 4,November,27,13266376.08,Receipt,11,2020/11/27
+2020,Qtr 4,November,28,198540,Invoice,11,2020/11/28
+2020,Qtr 4,November,28,145740,Receipt,11,2020/11/28
+2020,Qtr 4,November,30,529428.68,Invoice,11,2020/11/30
+2020,Qtr 4,November,30,5348092.31,Receipt,11,2020/11/30
+2020,Qtr 4,December,1,952124.2,Invoice,12,2020/12/1
+2020,Qtr 4,December,1,972313.17,Receipt,12,2020/12/1
+2020,Qtr 4,December,2,281513.62,Credit Note,12,2020/12/2
+2020,Qtr 4,December,2,864094.56,Invoice,12,2020/12/2
+2020,Qtr 4,December,2,759952.83,Receipt,12,2020/12/2
+2020,Qtr 4,December,3,152429.54,Credit Note,12,2020/12/3
+2020,Qtr 4,December,3,557140.56,Invoice,12,2020/12/3
+2020,Qtr 4,December,3,894654.19,Receipt,12,2020/12/3
+2020,Qtr 4,December,4,17784.12,Credit Note,12,2020/12/4
+2020,Qtr 4,December,4,743307.1,Invoice,12,2020/12/4
+2020,Qtr 4,December,4,4309179.96,Receipt,12,2020/12/4
+2020,Qtr 4,December,5,17121.03,Credit Note,12,2020/12/5
+2020,Qtr 4,December,5,448650,Invoice,12,2020/12/5
+2020,Qtr 4,December,5,5047817.01,Receipt,12,2020/12/5
+2020,Qtr 4,December,6,972687.1,Invoice,12,2020/12/6
+2020,Qtr 4,December,6,24050,Receipt,12,2020/12/6
+2020,Qtr 4,December,7,373611,Invoice,12,2020/12/7
+2020,Qtr 4,December,7,1720314.85,Receipt,12,2020/12/7
+2020,Qtr 4,December,8,89600,Invoice,12,2020/12/8
+2020,Qtr 4,December,8,236041.65,Receipt,12,2020/12/8
+2020,Qtr 4,December,9,189758,Invoice,12,2020/12/9
+2020,Qtr 4,December,10,94458.88,Invoice,12,2020/12/10
+2020,Qtr 4,December,11,1358336.49,Invoice,12,2020/12/11
+2020,Qtr 4,December,11,1108597.46,Receipt,12,2020/12/11
+2020,Qtr 4,December,12,309253,Invoice,12,2020/12/12
+2020,Qtr 4,December,13,182128.1,Invoice,12,2020/12/13
+2020,Qtr 4,December,14,545210.06,Invoice,12,2020/12/14
+2020,Qtr 4,December,14,47217.1,Receipt,12,2020/12/14
+2020,Qtr 4,December,15,32463,Credit Note,12,2020/12/15
+2020,Qtr 4,December,15,479418.73,Invoice,12,2020/12/15
+2020,Qtr 4,December,16,345936,Invoice,12,2020/12/16
+2020,Qtr 4,December,17,12988.02,Credit Note,12,2020/12/17
+2020,Qtr 4,December,17,504195.02,Invoice,12,2020/12/17
+2020,Qtr 4,December,17,31095,Receipt,12,2020/12/17
+2020,Qtr 4,December,18,2108.03,Credit Note,12,2020/12/18
+2020,Qtr 4,December,18,914282.95,Invoice,12,2020/12/18
+2020,Qtr 4,December,18,213590,Receipt,12,2020/12/18
+2020,Qtr 4,December,19,25899.47,Credit Note,12,2020/12/19
+2020,Qtr 4,December,19,301051.5,Invoice,12,2020/12/19
+2020,Qtr 4,December,20,167500,Invoice,12,2020/12/20
+2020,Qtr 4,December,21,28602.27,Credit Note,12,2020/12/21
+2020,Qtr 4,December,21,369787.38,Invoice,12,2020/12/21
+2020,Qtr 4,December,21,7810,Receipt,12,2020/12/21
+2020,Qtr 4,December,22,152475.5,Invoice,12,2020/12/22
+2020,Qtr 4,December,23,960520.6,Invoice,12,2020/12/23
+2020,Qtr 4,December,23,27555,Receipt,12,2020/12/23
+2020,Qtr 4,December,24,34798.53,Credit Note,12,2020/12/24
+2020,Qtr 4,December,24,586126.5,Invoice,12,2020/12/24
+2020,Qtr 4,December,24,398270.63,Receipt,12,2020/12/24
+2020,Qtr 4,December,25,2152988.3,Invoice,12,2020/12/25
+2020,Qtr 4,December,27,232856,Invoice,12,2020/12/27
+2020,Qtr 4,December,28,512952.86,Invoice,12,2020/12/28
+2020,Qtr 4,December,28,14615,Receipt,12,2020/12/28
+2020,Qtr 4,December,29,46876.73,Credit Note,12,2020/12/29
+2020,Qtr 4,December,29,939055,Invoice,12,2020/12/29
+2020,Qtr 4,December,30,203274,Invoice,12,2020/12/30
+2020,Qtr 4,December,30,11789.99,Receipt,12,2020/12/30
+2020,Qtr 4,December,31,580695.5,Invoice,12,2020/12/31
+2020,Qtr 4,December,31,390230.89,Receipt,12,2020/12/31
+2021,Qtr 1,January,1,146044.84,Receipt,1,2021/1/1
+2021,Qtr 1,January,2,121531,Invoice,1,2021/1/2
+2021,Qtr 1,January,2,55412.96,Receipt,1,2021/1/2
+2021,Qtr 1,January,3,35871.75,Invoice,1,2021/1/3
+2021,Qtr 1,January,3,37235.01,Receipt,1,2021/1/3
+2021,Qtr 1,January,4,467732.55,Invoice,1,2021/1/4
+2021,Qtr 1,January,4,146312,Receipt,1,2021/1/4
+2021,Qtr 1,January,5,309302.99,Invoice,1,2021/1/5
+2021,Qtr 1,January,5,217202.14,Receipt,1,2021/1/5
+2021,Qtr 1,January,6,685725.7,Invoice,1,2021/1/6
+2021,Qtr 1,January,6,59801.92,Receipt,1,2021/1/6
+2021,Qtr 1,January,7,11015.85,Credit Note,1,2021/1/7
+2021,Qtr 1,January,7,599067.5,Invoice,1,2021/1/7
+2021,Qtr 1,January,7,79104.97,Receipt,1,2021/1/7
+2021,Qtr 1,January,8,12348,Invoice,1,2021/1/8
+2021,Qtr 1,January,8,463828,Receipt,1,2021/1/8
+2021,Qtr 1,January,9,509532,Invoice,1,2021/1/9
+2021,Qtr 1,January,9,97008,Receipt,1,2021/1/9
+2021,Qtr 1,January,11,261295.78,Receipt,1,2021/1/11
+2021,Qtr 1,January,12,75385.82,Credit Note,1,2021/1/12
+2021,Qtr 1,January,12,1127169.5,Invoice,1,2021/1/12
+2021,Qtr 1,January,12,89633.5,Receipt,1,2021/1/12
+2021,Qtr 1,January,13,1052020.02,Invoice,1,2021/1/13
+2021,Qtr 1,January,13,263023.49,Receipt,1,2021/1/13
+2021,Qtr 1,January,14,1506493.25,Invoice,1,2021/1/14
+2021,Qtr 1,January,14,167832.81,Receipt,1,2021/1/14
+2021,Qtr 1,January,15,428572,Invoice,1,2021/1/15
+2021,Qtr 1,January,15,2162464.5,Receipt,1,2021/1/15
+2021,Qtr 1,January,16,993890,Invoice,1,2021/1/16
+2021,Qtr 1,January,18,231765,Invoice,1,2021/1/18
+2021,Qtr 1,January,18,293885,Receipt,1,2021/1/18
+2021,Qtr 1,January,19,1488,Credit Note,1,2021/1/19
+2021,Qtr 1,January,19,1826767.75,Invoice,1,2021/1/19
+2021,Qtr 1,January,19,196748.52,Receipt,1,2021/1/19
+2021,Qtr 1,January,20,1167256,Invoice,1,2021/1/20
+2021,Qtr 1,January,20,78199.96,Receipt,1,2021/1/20
+2021,Qtr 1,January,21,510020,Invoice,1,2021/1/21
+2021,Qtr 1,January,21,360069.21,Receipt,1,2021/1/21
+2021,Qtr 1,January,22,1324759,Invoice,1,2021/1/22
+2021,Qtr 1,January,22,2006971.55,Receipt,1,2021/1/22
+2021,Qtr 1,January,23,711625,Invoice,1,2021/1/23
+2021,Qtr 1,January,24,40400.34,Credit Note,1,2021/1/24
+2021,Qtr 1,January,24,521137.5,Invoice,1,2021/1/24
+2021,Qtr 1,January,25,87381,Invoice,1,2021/1/25
+2021,Qtr 1,January,25,457679.66,Receipt,1,2021/1/25
+2021,Qtr 1,January,26,959190,Invoice,1,2021/1/26
+2021,Qtr 1,January,27,1022415,Invoice,1,2021/1/27
+2021,Qtr 1,January,27,2800,Receipt,1,2021/1/27
+2021,Qtr 1,January,28,23075.87,Credit Note,1,2021/1/28
+2021,Qtr 1,January,28,537650.5,Invoice,1,2021/1/28
+2021,Qtr 1,January,28,201600,Receipt,1,2021/1/28
+2021,Qtr 1,January,29,1411417,Invoice,1,2021/1/29
+2021,Qtr 1,January,29,1971419.78,Receipt,1,2021/1/29
+2021,Qtr 1,January,30,661273,Invoice,1,2021/1/30
+2021,Qtr 1,January,30,215775,Receipt,1,2021/1/30
+2021,Qtr 1,January,31,357832.02,Invoice,1,2021/1/31
+2021,Qtr 1,February,1,666747.31,Invoice,2,2021/2/1
+2021,Qtr 1,February,1,27992,Receipt,2,2021/2/1
+2021,Qtr 1,February,2,1022221,Invoice,2,2021/2/2
+2021,Qtr 1,February,2,170555,Receipt,2,2021/2/2
+2021,Qtr 1,February,3,933121,Invoice,2,2021/2/3
+2021,Qtr 1,February,3,70192,Receipt,2,2021/2/3
+2021,Qtr 1,February,4,330369.49,Invoice,2,2021/2/4
+2021,Qtr 1,February,4,424601,Receipt,2,2021/2/4
+2021,Qtr 1,February,5,287378.02,Credit Note,2,2021/2/5
+2021,Qtr 1,February,5,2248007.64,Invoice,2,2021/2/5
+2021,Qtr 1,February,5,7375286.15,Receipt,2,2021/2/5
+2021,Qtr 1,February,6,197505,Invoice,2,2021/2/6
+2021,Qtr 1,February,6,115200,Receipt,2,2021/2/6
+2021,Qtr 1,February,7,134775,Invoice,2,2021/2/7
+2021,Qtr 1,February,8,634540.05,Invoice,2,2021/2/8
+2021,Qtr 1,February,8,4649107.98,Receipt,2,2021/2/8
+2021,Qtr 1,February,9,306073.43,Credit Note,2,2021/2/9
+2021,Qtr 1,February,9,1367484.03,Invoice,2,2021/2/9
+2021,Qtr 1,February,9,286419.99,Receipt,2,2021/2/9
+2021,Qtr 1,February,10,220500,Invoice,2,2021/2/10
+2021,Qtr 1,February,10,1600,Receipt,2,2021/2/10
+2021,Qtr 1,February,11,232232,Invoice,2,2021/2/11
+2021,Qtr 1,February,11,390982.99,Receipt,2,2021/2/11
+2021,Qtr 1,February,12,587664,Invoice,2,2021/2/12
+2021,Qtr 1,February,12,3112697,Receipt,2,2021/2/12
+2021,Qtr 1,February,13,559200,Receipt,2,2021/2/13
+2021,Qtr 1,February,14,182518.57,Credit Note,2,2021/2/14
+2021,Qtr 1,February,15,749531.75,Invoice,2,2021/2/15
+2021,Qtr 1,February,15,449327.99,Receipt,2,2021/2/15
+2021,Qtr 1,February,16,20396.14,Credit Note,2,2021/2/16
+2021,Qtr 1,February,16,1305294,Invoice,2,2021/2/16
+2021,Qtr 1,February,16,269176.83,Receipt,2,2021/2/16
+2021,Qtr 1,February,17,24380.99,Credit Note,2,2021/2/17
+2021,Qtr 1,February,17,822449.38,Invoice,2,2021/2/17
+2021,Qtr 1,February,17,410320.97,Receipt,2,2021/2/17
+2021,Qtr 1,February,18,52730.77,Credit Note,2,2021/2/18
+2021,Qtr 1,February,18,297093,Invoice,2,2021/2/18
+2021,Qtr 1,February,18,322881,Receipt,2,2021/2/18
+2021,Qtr 1,February,19,39807.14,Credit Note,2,2021/2/19
+2021,Qtr 1,February,19,1118206.14,Invoice,2,2021/2/19
+2021,Qtr 1,February,19,4695362.06,Receipt,2,2021/2/19
+2021,Qtr 1,February,20,180922.5,Receipt,2,2021/2/20
+2021,Qtr 1,February,22,1404796.06,Invoice,2,2021/2/22
+2021,Qtr 1,February,22,359005.96,Receipt,2,2021/2/22
+2021,Qtr 1,February,23,297597.99,Invoice,2,2021/2/23
+2021,Qtr 1,February,23,145997.99,Receipt,2,2021/2/23
+2021,Qtr 1,February,24,644644.97,Invoice,2,2021/2/24
+2021,Qtr 1,February,24,392859.97,Receipt,2,2021/2/24
+2021,Qtr 1,February,25,496805.93,Invoice,2,2021/2/25
+2021,Qtr 1,February,26,151980,Invoice,2,2021/2/26
+2021,Qtr 1,February,26,2837894.97,Receipt,2,2021/2/26
+2021,Qtr 1,February,27,256629.98,Invoice,2,2021/2/27
+2021,Qtr 1,February,27,450045.99,Receipt,2,2021/2/27
+2021,Qtr 1,February,28,81283.1,Receipt,2,2021/2/28
+2021,Qtr 1,March,1,123000,Credit Note,3,2021/3/1
+2021,Qtr 1,March,1,2357263.63,Invoice,3,2021/3/1
+2021,Qtr 1,March,1,19511,Receipt,3,2021/3/1
+2021,Qtr 1,March,2,337552.1,Invoice,3,2021/3/2
+2021,Qtr 1,March,2,398837.14,Receipt,3,2021/3/2
+2021,Qtr 1,March,3,247262.97,Invoice,3,2021/3/3
+2021,Qtr 1,March,3,64821.97,Receipt,3,2021/3/3
+2021,Qtr 1,March,4,401710.5,Invoice,3,2021/3/4
+2021,Qtr 1,March,4,106906,Receipt,3,2021/3/4
+2021,Qtr 1,March,5,1314447.99,Invoice,3,2021/3/5
+2021,Qtr 1,March,5,1531827.94,Receipt,3,2021/3/5
+2021,Qtr 1,March,6,195734,Invoice,3,2021/3/6
+2021,Qtr 1,March,6,141600,Receipt,3,2021/3/6
+2021,Qtr 1,March,8,2531241.21,Invoice,3,2021/3/8
+2021,Qtr 1,March,8,139507,Receipt,3,2021/3/8
+2021,Qtr 1,March,9,129094,Invoice,3,2021/3/9
+2021,Qtr 1,March,9,259737.02,Receipt,3,2021/3/9
+2021,Qtr 1,March,10,373566.5,Invoice,3,2021/3/10
+2021,Qtr 1,March,10,276553.94,Receipt,3,2021/3/10
+2021,Qtr 1,March,11,431503.87,Invoice,3,2021/3/11
+2021,Qtr 1,March,11,23107,Receipt,3,2021/3/11
+2021,Qtr 1,March,12,3245,Credit Note,3,2021/3/12
+2021,Qtr 1,March,12,438636.97,Invoice,3,2021/3/12
+2021,Qtr 1,March,12,5433289.39,Receipt,3,2021/3/12
+2021,Qtr 1,March,15,2373133.45,Invoice,3,2021/3/15
+2021,Qtr 1,March,15,1046897.23,Receipt,3,2021/3/15
+2021,Qtr 1,March,16,4696924.39,Invoice,3,2021/3/16
+2021,Qtr 1,March,16,208960.01,Receipt,3,2021/3/16
+2021,Qtr 1,March,17,72846.96,Credit Note,3,2021/3/17
+2021,Qtr 1,March,17,371753.6,Invoice,3,2021/3/17
+2021,Qtr 1,March,17,57626,Receipt,3,2021/3/17
+2021,Qtr 1,March,18,12675,Invoice,3,2021/3/18
+2021,Qtr 1,March,18,650,Receipt,3,2021/3/18
+2021,Qtr 1,March,19,2000,Credit Note,3,2021/3/19
+2021,Qtr 1,March,19,1017585.9,Invoice,3,2021/3/19
+2021,Qtr 1,March,19,3186901.17,Receipt,3,2021/3/19
+2021,Qtr 1,March,20,7387,Credit Note,3,2021/3/20
+2021,Qtr 1,March,20,411653.1,Invoice,3,2021/3/20
+2021,Qtr 1,March,20,1050301.17,Receipt,3,2021/3/20
+2021,Qtr 1,March,21,20102.04,Credit Note,3,2021/3/21
+2021,Qtr 1,March,21,193740,Invoice,3,2021/3/21
+2021,Qtr 1,March,22,4726790.05,Invoice,3,2021/3/22
+2021,Qtr 1,March,23,3005684.88,Invoice,3,2021/3/23
+2021,Qtr 1,March,23,1514328,Receipt,3,2021/3/23
+2021,Qtr 1,March,24,65250,Credit Note,3,2021/3/24
+2021,Qtr 1,March,24,3043456.18,Invoice,3,2021/3/24
+2021,Qtr 1,March,24,3234,Receipt,3,2021/3/24
+2021,Qtr 1,March,25,19851.9,Credit Note,3,2021/3/25
+2021,Qtr 1,March,25,6524616.02,Invoice,3,2021/3/25
+2021,Qtr 1,March,25,342844.14,Receipt,3,2021/3/25
+2021,Qtr 1,March,26,238205.7,Invoice,3,2021/3/26
+2021,Qtr 1,March,26,1627613.55,Receipt,3,2021/3/26
+2021,Qtr 1,March,27,519114.97,Invoice,3,2021/3/27
+2021,Qtr 1,March,28,1627469.8,Invoice,3,2021/3/28
+2021,Qtr 1,March,29,2314556.7,Invoice,3,2021/3/29
+2021,Qtr 1,March,29,563764.97,Receipt,3,2021/3/29
+2021,Qtr 1,March,30,4054939.73,Invoice,3,2021/3/30
+2021,Qtr 1,March,30,168125.08,Receipt,3,2021/3/30
+2021,Qtr 1,March,31,512991.48,Invoice,3,2021/3/31
+2021,Qtr 1,March,31,4047356.69,Receipt,3,2021/3/31
+2021,Qtr 2,April,1,307115.88,Credit Note,4,2021/4/1
+2021,Qtr 2,April,1,2629768.52,Invoice,4,2021/4/1
+2021,Qtr 2,April,1,998276,Receipt,4,2021/4/1
+2021,Qtr 2,April,2,31803.75,Invoice,4,2021/4/2
+2021,Qtr 2,April,3,610585,Invoice,4,2021/4/3
+2021,Qtr 2,April,3,22769.6,Receipt,4,2021/4/3
+2021,Qtr 2,April,4,5411686.92,Invoice,4,2021/4/4
+2021,Qtr 2,April,5,3110965.59,Invoice,4,2021/4/5
+2021,Qtr 2,April,6,7570202.92,Invoice,4,2021/4/6
+2021,Qtr 2,April,6,477488.41,Receipt,4,2021/4/6
+2021,Qtr 2,April,7,57647.7,Credit Note,4,2021/4/7
+2021,Qtr 2,April,7,776895.11,Invoice,4,2021/4/7
+2021,Qtr 2,April,7,256339.99,Receipt,4,2021/4/7
+2021,Qtr 2,April,8,237224.1,Credit Note,4,2021/4/8
+2021,Qtr 2,April,8,2207219.4,Invoice,4,2021/4/8
+2021,Qtr 2,April,8,308519.47,Receipt,4,2021/4/8
+2021,Qtr 2,April,9,3078863.1,Invoice,4,2021/4/9
+2021,Qtr 2,April,9,8416442.11,Receipt,4,2021/4/9
+2021,Qtr 2,April,10,1160133.98,Invoice,4,2021/4/10
+2021,Qtr 2,April,10,10952.55,Receipt,4,2021/4/10
+2021,Qtr 2,April,12,10930.11,Credit Note,4,2021/4/12
+2021,Qtr 2,April,12,6592710.16,Invoice,4,2021/4/12
+2021,Qtr 2,April,12,669405.4,Receipt,4,2021/4/12
+2021,Qtr 2,April,13,1051487.64,Invoice,4,2021/4/13
+2021,Qtr 2,April,13,365497.38,Receipt,4,2021/4/13
+2021,Qtr 2,April,14,22037.78,Credit Note,4,2021/4/14
+2021,Qtr 2,April,14,6704366.94,Invoice,4,2021/4/14
+2021,Qtr 2,April,14,1102621.99,Receipt,4,2021/4/14
+2021,Qtr 2,April,15,1438651.3,Invoice,4,2021/4/15
+2021,Qtr 2,April,15,2278913.79,Receipt,4,2021/4/15
+2021,Qtr 2,April,16,5460,Credit Note,4,2021/4/16
+2021,Qtr 2,April,16,4249509.89,Invoice,4,2021/4/16
+2021,Qtr 2,April,16,2716147.35,Receipt,4,2021/4/16
+2021,Qtr 2,April,17,10339976.65,Invoice,4,2021/4/17
+2021,Qtr 2,April,19,1382927.12,Invoice,4,2021/4/19
+2021,Qtr 2,April,19,1732088.47,Receipt,4,2021/4/19
+2021,Qtr 2,April,20,3434964.73,Invoice,4,2021/4/20
+2021,Qtr 2,April,20,853396.88,Receipt,4,2021/4/20
+2021,Qtr 2,April,21,2264.8,Credit Note,4,2021/4/21
+2021,Qtr 2,April,21,8108621.39,Invoice,4,2021/4/21
+2021,Qtr 2,April,21,3080628.32,Receipt,4,2021/4/21
+2021,Qtr 2,April,22,3105,Credit Note,4,2021/4/22
+2021,Qtr 2,April,22,7920801.48,Invoice,4,2021/4/22
+2021,Qtr 2,April,22,77688.46,Receipt,4,2021/4/22
+2021,Qtr 2,April,23,107088.28,Credit Note,4,2021/4/23
+2021,Qtr 2,April,23,7084266.1,Invoice,4,2021/4/23
+2021,Qtr 2,April,23,1386956.31,Receipt,4,2021/4/23
+2021,Qtr 2,April,24,1100731.28,Invoice,4,2021/4/24
+2021,Qtr 2,April,24,111770.55,Receipt,4,2021/4/24
+2021,Qtr 2,April,25,807230.06,Invoice,4,2021/4/25
+2021,Qtr 2,April,26,3223856.83,Invoice,4,2021/4/26
+2021,Qtr 2,April,26,356775.79,Receipt,4,2021/4/26
+2021,Qtr 2,April,27,9750342.94,Invoice,4,2021/4/27
+2021,Qtr 2,April,28,2080,Credit Note,4,2021/4/28
+2021,Qtr 2,April,28,1038865.45,Invoice,4,2021/4/28
+2021,Qtr 2,April,28,2064396.47,Receipt,4,2021/4/28
+2021,Qtr 2,April,29,6300746.47,Invoice,4,2021/4/29
+2021,Qtr 2,April,29,3295805.81,Receipt,4,2021/4/29
+2021,Qtr 2,April,30,140487.46,Credit Note,4,2021/4/30
+2021,Qtr 2,April,30,3967419.08,Invoice,4,2021/4/30
+2021,Qtr 2,April,30,2534544.26,Receipt,4,2021/4/30
+2021,Qtr 2,May,1,33414.6,Credit Note,5,2021/5/1
+2021,Qtr 2,May,1,1150700.62,Invoice,5,2021/5/1
+2021,Qtr 2,May,1,48485,Receipt,5,2021/5/1
+2021,Qtr 2,May,2,1343148.67,Invoice,5,2021/5/2
+2021,Qtr 2,May,3,68946.76,Credit Note,5,2021/5/3
+2021,Qtr 2,May,3,1630627.11,Invoice,5,2021/5/3
+2021,Qtr 2,May,3,1025858.91,Receipt,5,2021/5/3
+2021,Qtr 2,May,4,8066493.56,Invoice,5,2021/5/4
+2021,Qtr 2,May,4,3909843.25,Receipt,5,2021/5/4
+2021,Qtr 2,May,5,83440,Credit Note,5,2021/5/5
+2021,Qtr 2,May,5,9141082.6,Invoice,5,2021/5/5
+2021,Qtr 2,May,5,2227844.01,Receipt,5,2021/5/5
+2021,Qtr 2,May,6,7295628.21,Invoice,5,2021/5/6
+2021,Qtr 2,May,6,1231494.88,Receipt,5,2021/5/6
+2021,Qtr 2,May,7,319.98,Credit Note,5,2021/5/7
+2021,Qtr 2,May,7,2184554.4,Invoice,5,2021/5/7
+2021,Qtr 2,May,7,2886626.32,Receipt,5,2021/5/7
+2021,Qtr 2,May,8,755456.42,Invoice,5,2021/5/8
+2021,Qtr 2,May,9,2390120.41,Invoice,5,2021/5/9
+2021,Qtr 2,May,10,3564216.86,Invoice,5,2021/5/10
+2021,Qtr 2,May,10,3319007.76,Receipt,5,2021/5/10
+2021,Qtr 2,May,11,42442.32,Credit Note,5,2021/5/11
+2021,Qtr 2,May,11,3327243.41,Invoice,5,2021/5/11
+2021,Qtr 2,May,11,3359448,Receipt,5,2021/5/11
+2021,Qtr 2,May,12,2472065.57,Invoice,5,2021/5/12
+2021,Qtr 2,May,12,2829998.13,Receipt,5,2021/5/12
+2021,Qtr 2,May,13,113460.47,Credit Note,5,2021/5/13
+2021,Qtr 2,May,13,4976054.96,Invoice,5,2021/5/13
+2021,Qtr 2,May,13,2891658.18,Receipt,5,2021/5/13
+2021,Qtr 2,May,14,79152.14,Credit Note,5,2021/5/14
+2021,Qtr 2,May,14,7438005.35,Invoice,5,2021/5/14
+2021,Qtr 2,May,14,1930292.25,Receipt,5,2021/5/14
+2021,Qtr 2,May,15,98862.88,Credit Note,5,2021/5/15
+2021,Qtr 2,May,15,1691270.12,Invoice,5,2021/5/15
+2021,Qtr 2,May,15,119531.55,Receipt,5,2021/5/15
+2021,Qtr 2,May,16,927600.17,Invoice,5,2021/5/16
+2021,Qtr 2,May,17,42283.06,Credit Note,5,2021/5/17
+2021,Qtr 2,May,17,564131.32,Invoice,5,2021/5/17
+2021,Qtr 2,May,17,3184532.27,Receipt,5,2021/5/17
+2021,Qtr 2,May,18,22240.91,Credit Note,5,2021/5/18
+2021,Qtr 2,May,18,3498104.53,Invoice,5,2021/5/18
+2021,Qtr 2,May,18,2324599.42,Receipt,5,2021/5/18
+2021,Qtr 2,May,19,363.65,Credit Note,5,2021/5/19
+2021,Qtr 2,May,19,4795923.4,Invoice,5,2021/5/19
+2021,Qtr 2,May,19,2242372.79,Receipt,5,2021/5/19
+2021,Qtr 2,May,20,4169.28,Credit Note,5,2021/5/20
+2021,Qtr 2,May,20,11545191.05,Invoice,5,2021/5/20
+2021,Qtr 2,May,20,2581749.13,Receipt,5,2021/5/20
+2021,Qtr 2,May,21,507.09,Credit Note,5,2021/5/21
+2021,Qtr 2,May,21,1848827.8,Invoice,5,2021/5/21
+2021,Qtr 2,May,21,4234999.83,Receipt,5,2021/5/21
+2021,Qtr 2,May,22,1660288.63,Invoice,5,2021/5/22
+2021,Qtr 2,May,22,217180.6,Receipt,5,2021/5/22
+2021,Qtr 2,May,23,335623.27,Invoice,5,2021/5/23
+2021,Qtr 2,May,23,13260,Receipt,5,2021/5/23
+2021,Qtr 2,May,24,26503.78,Credit Note,5,2021/5/24
+2021,Qtr 2,May,24,7469755.62,Invoice,5,2021/5/24
+2021,Qtr 2,May,24,3058495.85,Receipt,5,2021/5/24
+2021,Qtr 2,May,25,44019.2,Credit Note,5,2021/5/25
+2021,Qtr 2,May,25,11854876.56,Invoice,5,2021/5/25
+2021,Qtr 2,May,25,3352850.74,Receipt,5,2021/5/25
+2021,Qtr 2,May,26,41107.5,Credit Note,5,2021/5/26
+2021,Qtr 2,May,26,4476421.59,Invoice,5,2021/5/26
+2021,Qtr 2,May,26,7339439.91,Receipt,5,2021/5/26
+2021,Qtr 2,May,27,2472282.81,Invoice,5,2021/5/27
+2021,Qtr 2,May,27,6460819.35,Receipt,5,2021/5/27
+2021,Qtr 2,May,28,3277.68,Credit Note,5,2021/5/28
+2021,Qtr 2,May,28,8431104.98,Invoice,5,2021/5/28
+2021,Qtr 2,May,28,5888574.78,Receipt,5,2021/5/28
+2021,Qtr 2,May,29,888032.79,Invoice,5,2021/5/29
+2021,Qtr 2,May,31,140468.87,Credit Note,5,2021/5/31
+2021,Qtr 2,May,31,5374272.92,Invoice,5,2021/5/31
+2021,Qtr 2,May,31,694307.09,Receipt,5,2021/5/31
+2021,Qtr 2,June,1,136645.12,Credit Note,6,2021/6/1
+2021,Qtr 2,June,1,2942662.38,Invoice,6,2021/6/1
+2021,Qtr 2,June,1,5100938.84,Receipt,6,2021/6/1
+2021,Qtr 2,June,2,98079.24,Credit Note,6,2021/6/2
+2021,Qtr 2,June,2,7692525.2,Invoice,6,2021/6/2
+2021,Qtr 2,June,2,4122984.61,Receipt,6,2021/6/2
+2021,Qtr 2,June,3,44649.95,Credit Note,6,2021/6/3
+2021,Qtr 2,June,3,3922801.66,Invoice,6,2021/6/3
+2021,Qtr 2,June,3,5056658.23,Receipt,6,2021/6/3
+2021,Qtr 2,June,4,34919.89,Credit Note,6,2021/6/4
+2021,Qtr 2,June,4,4153419.02,Invoice,6,2021/6/4
+2021,Qtr 2,June,4,9680601.93,Receipt,6,2021/6/4
+2021,Qtr 2,June,5,5246089.93,Invoice,6,2021/6/5
+2021,Qtr 2,June,6,1710833.25,Invoice,6,2021/6/6
+2021,Qtr 2,June,7,212043.52,Credit Note,6,2021/6/7
+2021,Qtr 2,June,7,1434093.53,Invoice,6,2021/6/7
+2021,Qtr 2,June,7,1259112.59,Receipt,6,2021/6/7
+2021,Qtr 2,June,8,163869.82,Credit Note,6,2021/6/8
+2021,Qtr 2,June,8,2182845.17,Invoice,6,2021/6/8
+2021,Qtr 2,June,8,5589987.04,Receipt,6,2021/6/8
+2021,Qtr 2,June,9,472966.06,Credit Note,6,2021/6/9
+2021,Qtr 2,June,9,4866250.72,Invoice,6,2021/6/9
+2021,Qtr 2,June,9,5229963.74,Receipt,6,2021/6/9
+2021,Qtr 2,June,10,1706871.19,Credit Note,6,2021/6/10
+2021,Qtr 2,June,10,4630559.51,Invoice,6,2021/6/10
+2021,Qtr 2,June,10,3847501.92,Receipt,6,2021/6/10
+2021,Qtr 2,June,11,280797.42,Credit Note,6,2021/6/11
+2021,Qtr 2,June,11,5411999.58,Invoice,6,2021/6/11
+2021,Qtr 2,June,11,3402027.81,Receipt,6,2021/6/11
+2021,Qtr 2,June,12,1875955.85,Invoice,6,2021/6/12
+2021,Qtr 2,June,12,292242.38,Receipt,6,2021/6/12
+2021,Qtr 2,June,13,1519869.49,Invoice,6,2021/6/13
+2021,Qtr 2,June,14,13920.4,Credit Note,6,2021/6/14
+2021,Qtr 2,June,14,5226236.15,Invoice,6,2021/6/14
+2021,Qtr 2,June,14,2395628.82,Receipt,6,2021/6/14
+2021,Qtr 2,June,15,360672.16,Credit Note,6,2021/6/15
+2021,Qtr 2,June,15,7683676.3,Invoice,6,2021/6/15
+2021,Qtr 2,June,15,1976214.91,Receipt,6,2021/6/15
+2021,Qtr 2,June,16,2860600.03,Invoice,6,2021/6/16
+2021,Qtr 2,June,17,187662.96,Credit Note,6,2021/6/17
+2021,Qtr 2,June,17,7640002.02,Invoice,6,2021/6/17
+2021,Qtr 2,June,17,6492243.6,Receipt,6,2021/6/17
+2021,Qtr 2,June,18,291517.63,Credit Note,6,2021/6/18
+2021,Qtr 2,June,18,3943807.43,Invoice,6,2021/6/18
+2021,Qtr 2,June,18,4169845.23,Receipt,6,2021/6/18
+2021,Qtr 2,June,19,5492285.33,Invoice,6,2021/6/19
+2021,Qtr 2,June,19,268800,Receipt,6,2021/6/19
+2021,Qtr 2,June,20,2128660.68,Invoice,6,2021/6/20
+2021,Qtr 2,June,21,231026.42,Credit Note,6,2021/6/21
+2021,Qtr 2,June,21,4416841.43,Invoice,6,2021/6/21
+2021,Qtr 2,June,21,3112612.62,Receipt,6,2021/6/21
+2021,Qtr 2,June,22,35427.94,Credit Note,6,2021/6/22
+2021,Qtr 2,June,22,7736425.83,Invoice,6,2021/6/22
+2021,Qtr 2,June,22,6650961.5,Receipt,6,2021/6/22
+2021,Qtr 2,June,23,5240119,Invoice,6,2021/6/23
+2021,Qtr 2,June,23,4955006.86,Receipt,6,2021/6/23
+2021,Qtr 2,June,24,790593.14,Credit Note,6,2021/6/24
+2021,Qtr 2,June,24,6577657.79,Invoice,6,2021/6/24
+2021,Qtr 2,June,24,4557496.7,Receipt,6,2021/6/24
+2021,Qtr 2,June,25,256682.86,Credit Note,6,2021/6/25
+2021,Qtr 2,June,25,4084310.15,Invoice,6,2021/6/25
+2021,Qtr 2,June,25,12622695.45,Receipt,6,2021/6/25
+2021,Qtr 2,June,26,2330018.32,Invoice,6,2021/6/26
+2021,Qtr 2,June,26,171600,Receipt,6,2021/6/26
+2021,Qtr 2,June,27,1724264.69,Invoice,6,2021/6/27
+2021,Qtr 2,June,27,2190,Receipt,6,2021/6/27
+2021,Qtr 2,June,28,109954.96,Credit Note,6,2021/6/28
+2021,Qtr 2,June,28,11548914.38,Invoice,6,2021/6/28
+2021,Qtr 2,June,28,3703583.38,Receipt,6,2021/6/28
+2021,Qtr 2,June,29,189721,Credit Note,6,2021/6/29
+2021,Qtr 2,June,29,3758750.49,Invoice,6,2021/6/29
+2021,Qtr 2,June,29,5218457.68,Receipt,6,2021/6/29
+2021,Qtr 2,June,30,125954.6,Credit Note,6,2021/6/30
+2021,Qtr 2,June,30,2256783.85,Invoice,6,2021/6/30
+2021,Qtr 2,June,30,2356976.73,Receipt,6,2021/6/30
+2021,Qtr 3,July,1,59408.87,Credit Note,7,2021/7/1
+2021,Qtr 3,July,1,1800522.05,Invoice,7,2021/7/1
+2021,Qtr 3,July,1,8768939.52,Receipt,7,2021/7/1
+2021,Qtr 3,July,2,301428.88,Credit Note,7,2021/7/2
+2021,Qtr 3,July,2,1632887.84,Invoice,7,2021/7/2
+2021,Qtr 3,July,2,7160011.62,Receipt,7,2021/7/2
+2021,Qtr 3,July,3,6103705.48,Invoice,7,2021/7/3
+2021,Qtr 3,July,4,95438.36,Invoice,7,2021/7/4
+2021,Qtr 3,July,5,1998346.14,Invoice,7,2021/7/5
+2021,Qtr 3,July,5,1931654.84,Receipt,7,2021/7/5
+2021,Qtr 3,July,6,1013187.22,Credit Note,7,2021/7/6
+2021,Qtr 3,July,6,11252511.88,Invoice,7,2021/7/6
+2021,Qtr 3,July,6,1255086.17,Receipt,7,2021/7/6
+2021,Qtr 3,July,7,176541.3,Credit Note,7,2021/7/7
+2021,Qtr 3,July,7,6222567.27,Invoice,7,2021/7/7
+2021,Qtr 3,July,7,3174554.2,Receipt,7,2021/7/7
+2021,Qtr 3,July,8,2636298.19,Credit Note,7,2021/7/8
+2021,Qtr 3,July,8,7178586.23,Invoice,7,2021/7/8
+2021,Qtr 3,July,8,1001269.81,Receipt,7,2021/7/8
+2021,Qtr 3,July,9,128217.74,Credit Note,7,2021/7/9
+2021,Qtr 3,July,9,8544827.61,Invoice,7,2021/7/9
+2021,Qtr 3,July,9,7856356.15,Receipt,7,2021/7/9
+2021,Qtr 3,July,10,537365,Invoice,7,2021/7/10
+2021,Qtr 3,July,10,228600,Receipt,7,2021/7/10
+2021,Qtr 3,July,11,1997191.17,Invoice,7,2021/7/11
+2021,Qtr 3,July,12,214460.45,Credit Note,7,2021/7/12
+2021,Qtr 3,July,12,1429212.51,Invoice,7,2021/7/12
+2021,Qtr 3,July,12,2580220.49,Receipt,7,2021/7/12
+2021,Qtr 3,July,13,209004.23,Credit Note,7,2021/7/13
+2021,Qtr 3,July,13,9588369.75,Invoice,7,2021/7/13
+2021,Qtr 3,July,13,2977092.39,Receipt,7,2021/7/13
+2021,Qtr 3,July,14,159505.81,Credit Note,7,2021/7/14
+2021,Qtr 3,July,14,1842379.49,Invoice,7,2021/7/14
+2021,Qtr 3,July,14,2771543.13,Receipt,7,2021/7/14
+2021,Qtr 3,July,15,77413.8,Credit Note,7,2021/7/15
+2021,Qtr 3,July,15,2814715.53,Invoice,7,2021/7/15
+2021,Qtr 3,July,15,2499163.93,Receipt,7,2021/7/15
+2021,Qtr 3,July,16,993380.28,Credit Note,7,2021/7/16
+2021,Qtr 3,July,16,6674258.44,Invoice,7,2021/7/16
+2021,Qtr 3,July,16,7543932.48,Receipt,7,2021/7/16
+2021,Qtr 3,July,17,36227.28,Credit Note,7,2021/7/17
+2021,Qtr 3,July,17,1774985.42,Invoice,7,2021/7/17
+2021,Qtr 3,July,18,1146409.42,Invoice,7,2021/7/18
+2021,Qtr 3,July,19,771235.17,Credit Note,7,2021/7/19
+2021,Qtr 3,July,19,3046847.34,Invoice,7,2021/7/19
+2021,Qtr 3,July,19,2467105.04,Receipt,7,2021/7/19
+2021,Qtr 3,July,20,1887013.07,Credit Note,7,2021/7/20
+2021,Qtr 3,July,20,1355966.57,Invoice,7,2021/7/20
+2021,Qtr 3,July,20,2201858.23,Receipt,7,2021/7/20
+2021,Qtr 3,July,21,372138.67,Credit Note,7,2021/7/21
+2021,Qtr 3,July,21,741487.15,Invoice,7,2021/7/21
+2021,Qtr 3,July,21,5392474.67,Receipt,7,2021/7/21
+2021,Qtr 3,July,22,901028.87,Credit Note,7,2021/7/22
+2021,Qtr 3,July,22,5118329.57,Invoice,7,2021/7/22
+2021,Qtr 3,July,22,2726751.68,Receipt,7,2021/7/22
+2021,Qtr 3,July,23,267771.19,Credit Note,7,2021/7/23
+2021,Qtr 3,July,23,11321578.29,Invoice,7,2021/7/23
+2021,Qtr 3,July,23,14948002.12,Receipt,7,2021/7/23
+2021,Qtr 3,July,24,19995.25,Credit Note,7,2021/7/24
+2021,Qtr 3,July,24,1818720.29,Invoice,7,2021/7/24
+2021,Qtr 3,July,24,55575,Receipt,7,2021/7/24
+2021,Qtr 3,July,25,12005.12,Credit Note,7,2021/7/25
+2021,Qtr 3,July,25,6547961.7,Invoice,7,2021/7/25
+2021,Qtr 3,July,26,223784.81,Credit Note,7,2021/7/26
+2021,Qtr 3,July,26,5343457.48,Invoice,7,2021/7/26
+2021,Qtr 3,July,26,5959300.44,Receipt,7,2021/7/26
+2021,Qtr 3,July,27,660094.36,Credit Note,7,2021/7/27
+2021,Qtr 3,July,27,3622309.66,Invoice,7,2021/7/27
+2021,Qtr 3,July,27,1861472.95,Receipt,7,2021/7/27
+2021,Qtr 3,July,28,653964.27,Credit Note,7,2021/7/28
+2021,Qtr 3,July,28,3992457.8,Invoice,7,2021/7/28
+2021,Qtr 3,July,28,4778873.68,Receipt,7,2021/7/28
+2021,Qtr 3,July,29,431423.71,Credit Note,7,2021/7/29
+2021,Qtr 3,July,29,7066481.56,Invoice,7,2021/7/29
+2021,Qtr 3,July,29,9692433.05,Receipt,7,2021/7/29
+2021,Qtr 3,July,30,75486.82,Credit Note,7,2021/7/30
+2021,Qtr 3,July,30,4326324.7,Invoice,7,2021/7/30
+2021,Qtr 3,July,30,10308620.48,Receipt,7,2021/7/30
+2021,Qtr 3,July,31,2068807.56,Invoice,7,2021/7/31
+2021,Qtr 3,July,31,676506.35,Receipt,7,2021/7/31
+2021,Qtr 3,August,1,1648.75,Credit Note,8,2021/8/1
+2021,Qtr 3,August,1,2370651.59,Invoice,8,2021/8/1
+2021,Qtr 3,August,1,28747,Receipt,8,2021/8/1
+2021,Qtr 3,August,2,474935.61,Credit Note,8,2021/8/2
+2021,Qtr 3,August,2,7734909.57,Invoice,8,2021/8/2
+2021,Qtr 3,August,2,1318874.01,Receipt,8,2021/8/2
+2021,Qtr 3,August,3,3225544.59,Credit Note,8,2021/8/3
+2021,Qtr 3,August,3,8548816.79,Invoice,8,2021/8/3
+2021,Qtr 3,August,3,3770463.93,Receipt,8,2021/8/3
+2021,Qtr 3,August,4,21485.76,Credit Note,8,2021/8/4
+2021,Qtr 3,August,4,6154091.47,Invoice,8,2021/8/4
+2021,Qtr 3,August,4,1332032.85,Receipt,8,2021/8/4
+2021,Qtr 3,August,5,1416979.47,Credit Note,8,2021/8/5
+2021,Qtr 3,August,5,8805443.81,Invoice,8,2021/8/5
+2021,Qtr 3,August,5,4867458.58,Receipt,8,2021/8/5
+2021,Qtr 3,August,6,1488.3,Credit Note,8,2021/8/6
+2021,Qtr 3,August,6,5385036.23,Invoice,8,2021/8/6
+2021,Qtr 3,August,6,7908601.16,Receipt,8,2021/8/6
+2021,Qtr 3,August,7,42578.96,Invoice,8,2021/8/7
+2021,Qtr 3,August,7,739337.73,Receipt,8,2021/8/7
+2021,Qtr 3,August,8,2514937.59,Invoice,8,2021/8/8
+2021,Qtr 3,August,9,6702397.99,Invoice,8,2021/8/9
+2021,Qtr 3,August,10,466755.53,Credit Note,8,2021/8/10
+2021,Qtr 3,August,10,10093385.51,Invoice,8,2021/8/10
+2021,Qtr 3,August,10,7083761.18,Receipt,8,2021/8/10
+2021,Qtr 3,August,11,86569.43,Credit Note,8,2021/8/11
+2021,Qtr 3,August,11,5069971.53,Invoice,8,2021/8/11
+2021,Qtr 3,August,11,3365436.09,Receipt,8,2021/8/11
+2021,Qtr 3,August,12,68565.02,Credit Note,8,2021/8/12
+2021,Qtr 3,August,12,9372251.63,Invoice,8,2021/8/12
+2021,Qtr 3,August,12,5131428.69,Receipt,8,2021/8/12
+2021,Qtr 3,August,13,644038.79,Credit Note,8,2021/8/13
+2021,Qtr 3,August,13,12298331.06,Invoice,8,2021/8/13
+2021,Qtr 3,August,13,13777709.52,Receipt,8,2021/8/13
+2021,Qtr 3,August,14,233228.25,Credit Note,8,2021/8/14
+2021,Qtr 3,August,14,1591730.79,Invoice,8,2021/8/14
+2021,Qtr 3,August,14,458956.06,Receipt,8,2021/8/14
+2021,Qtr 3,August,15,6916721.91,Invoice,8,2021/8/15
+2021,Qtr 3,August,16,494440.94,Credit Note,8,2021/8/16
+2021,Qtr 3,August,16,2431901.31,Invoice,8,2021/8/16
+2021,Qtr 3,August,16,1344710.82,Receipt,8,2021/8/16
+2021,Qtr 3,August,17,1283852.63,Credit Note,8,2021/8/17
+2021,Qtr 3,August,17,16711469.27,Invoice,8,2021/8/17
+2021,Qtr 3,August,17,4242026.26,Receipt,8,2021/8/17
+2021,Qtr 3,August,18,28406.12,Credit Note,8,2021/8/18
+2021,Qtr 3,August,18,2484987.93,Invoice,8,2021/8/18
+2021,Qtr 3,August,18,648372.08,Receipt,8,2021/8/18
+2021,Qtr 3,August,19,967804.55,Credit Note,8,2021/8/19
+2021,Qtr 3,August,19,5001232.27,Invoice,8,2021/8/19
+2021,Qtr 3,August,19,9408424.5,Receipt,8,2021/8/19
+2021,Qtr 3,August,20,104173.97,Credit Note,8,2021/8/20
+2021,Qtr 3,August,20,6698976.83,Invoice,8,2021/8/20
+2021,Qtr 3,August,20,8377994.39,Receipt,8,2021/8/20
+2021,Qtr 3,August,21,464425.66,Receipt,8,2021/8/21
+2021,Qtr 3,August,23,1111946.54,Credit Note,8,2021/8/23
+2021,Qtr 3,August,23,8871083.13,Invoice,8,2021/8/23
+2021,Qtr 3,August,23,2328812.09,Receipt,8,2021/8/23
+2021,Qtr 3,August,24,293456.34,Credit Note,8,2021/8/24
+2021,Qtr 3,August,24,9927255.21,Invoice,8,2021/8/24
+2021,Qtr 3,August,24,5005668.31,Receipt,8,2021/8/24
+2021,Qtr 3,August,25,466269.22,Credit Note,8,2021/8/25
+2021,Qtr 3,August,25,11029048.3,Invoice,8,2021/8/25
+2021,Qtr 3,August,25,3873618.48,Receipt,8,2021/8/25
+2021,Qtr 3,August,26,556236.42,Credit Note,8,2021/8/26
+2021,Qtr 3,August,26,9696189.55,Invoice,8,2021/8/26
+2021,Qtr 3,August,26,1532532.9,Receipt,8,2021/8/26
+2021,Qtr 3,August,27,4846875.14,Credit Note,8,2021/8/27
+2021,Qtr 3,August,27,11360226.59,Invoice,8,2021/8/27
+2021,Qtr 3,August,27,6569680.99,Receipt,8,2021/8/27
+2021,Qtr 3,August,28,1175935.14,Invoice,8,2021/8/28
+2021,Qtr 3,August,28,319985.45,Receipt,8,2021/8/28
+2021,Qtr 3,August,29,1220704.27,Invoice,8,2021/8/29
+2021,Qtr 3,August,30,1269237.42,Credit Note,8,2021/8/30
+2021,Qtr 3,August,30,6553410.61,Invoice,8,2021/8/30
+2021,Qtr 3,August,30,4994750.96,Receipt,8,2021/8/30
+2021,Qtr 3,August,31,1594077.4,Credit Note,8,2021/8/31
+2021,Qtr 3,August,31,7348657.73,Invoice,8,2021/8/31
+2021,Qtr 3,August,31,9592738.43,Receipt,8,2021/8/31
+2021,Qtr 3,September,1,726921.83,Credit Note,9,2021/9/1
+2021,Qtr 3,September,1,6356373.31,Invoice,9,2021/9/1
+2021,Qtr 3,September,1,7695194.14,Receipt,9,2021/9/1
+2021,Qtr 3,September,2,917426.03,Credit Note,9,2021/9/2
+2021,Qtr 3,September,2,3584595.57,Invoice,9,2021/9/2
+2021,Qtr 3,September,2,8699341.97,Receipt,9,2021/9/2
+2021,Qtr 3,September,3,108245.92,Credit Note,9,2021/9/3
+2021,Qtr 3,September,3,9202852.84,Invoice,9,2021/9/3
+2021,Qtr 3,September,3,4569246.36,Receipt,9,2021/9/3
+2021,Qtr 3,September,4,913593.55,Invoice,9,2021/9/4
+2021,Qtr 3,September,4,412237.97,Receipt,9,2021/9/4
+2021,Qtr 3,September,5,4043221.8,Invoice,9,2021/9/5
+2021,Qtr 3,September,5,35746,Receipt,9,2021/9/5
+2021,Qtr 3,September,6,13934.36,Credit Note,9,2021/9/6
+2021,Qtr 3,September,6,3832857.82,Invoice,9,2021/9/6
+2021,Qtr 3,September,6,5945422.5,Receipt,9,2021/9/6
+2021,Qtr 3,September,7,403110.09,Credit Note,9,2021/9/7
+2021,Qtr 3,September,7,7056971.23,Invoice,9,2021/9/7
+2021,Qtr 3,September,7,2951290.04,Receipt,9,2021/9/7
+2021,Qtr 3,September,8,2791509.34,Credit Note,9,2021/9/8
+2021,Qtr 3,September,8,10413880.5,Invoice,9,2021/9/8
+2021,Qtr 3,September,8,3549749.73,Receipt,9,2021/9/8
+2021,Qtr 3,September,9,224781.42,Credit Note,9,2021/9/9
+2021,Qtr 3,September,9,6890721.69,Invoice,9,2021/9/9
+2021,Qtr 3,September,9,2569032.27,Receipt,9,2021/9/9
+2021,Qtr 3,September,10,294674.18,Credit Note,9,2021/9/10
+2021,Qtr 3,September,10,3576766.67,Invoice,9,2021/9/10
+2021,Qtr 3,September,10,8801897.98,Receipt,9,2021/9/10
+2021,Qtr 3,September,11,99545,Credit Note,9,2021/9/11
+2021,Qtr 3,September,11,184943.96,Invoice,9,2021/9/11
+2021,Qtr 3,September,11,408315.36,Receipt,9,2021/9/11
+2021,Qtr 3,September,12,2078594.59,Invoice,9,2021/9/12
+2021,Qtr 3,September,13,183010,Credit Note,9,2021/9/13
+2021,Qtr 3,September,13,4970300.39,Invoice,9,2021/9/13
+2021,Qtr 3,September,13,4692435.24,Receipt,9,2021/9/13
+2021,Qtr 3,September,14,439656,Credit Note,9,2021/9/14
+2021,Qtr 3,September,14,8071741.99,Invoice,9,2021/9/14
+2021,Qtr 3,September,14,6515578.64,Receipt,9,2021/9/14
+2021,Qtr 3,September,15,207127.93,Credit Note,9,2021/9/15
+2021,Qtr 3,September,15,6153625.5,Invoice,9,2021/9/15
+2021,Qtr 3,September,15,6388792.41,Receipt,9,2021/9/15
+2021,Qtr 3,September,16,246791.83,Credit Note,9,2021/9/16
+2021,Qtr 3,September,16,3689330.71,Invoice,9,2021/9/16
+2021,Qtr 3,September,16,910490.48,Receipt,9,2021/9/16
+2021,Qtr 3,September,17,71294.46,Credit Note,9,2021/9/17
+2021,Qtr 3,September,17,13044458.96,Invoice,9,2021/9/17
+2021,Qtr 3,September,17,11236971.74,Receipt,9,2021/9/17
+2021,Qtr 3,September,18,726015.41,Invoice,9,2021/9/18
+2021,Qtr 3,September,18,149692.5,Receipt,9,2021/9/18
+2021,Qtr 3,September,19,5480248.46,Invoice,9,2021/9/19
+2021,Qtr 3,September,19,1490,Receipt,9,2021/9/19
+2021,Qtr 3,September,20,1049520.27,Credit Note,9,2021/9/20
+2021,Qtr 3,September,20,8169118.93,Invoice,9,2021/9/20
+2021,Qtr 3,September,20,1634490.5,Receipt,9,2021/9/20
+2021,Qtr 3,September,21,371848.85,Credit Note,9,2021/9/21
+2021,Qtr 3,September,21,7990647.12,Invoice,9,2021/9/21
+2021,Qtr 3,September,21,2862781.07,Receipt,9,2021/9/21
+2021,Qtr 3,September,22,116859.2,Credit Note,9,2021/9/22
+2021,Qtr 3,September,22,4880805.75,Invoice,9,2021/9/22
+2021,Qtr 3,September,22,5315925.73,Receipt,9,2021/9/22
+2021,Qtr 3,September,23,1558543.69,Credit Note,9,2021/9/23
+2021,Qtr 3,September,23,16037884.3,Invoice,9,2021/9/23
+2021,Qtr 3,September,23,8056541.38,Receipt,9,2021/9/23
+2021,Qtr 3,September,24,1895855.59,Invoice,9,2021/9/24
+2021,Qtr 3,September,25,1745602.41,Invoice,9,2021/9/25
+2021,Qtr 3,September,25,167552,Receipt,9,2021/9/25
+2021,Qtr 3,September,26,9198.22,Credit Note,9,2021/9/26
+2021,Qtr 3,September,26,1708235.23,Invoice,9,2021/9/26
+2021,Qtr 3,September,27,196208.36,Credit Note,9,2021/9/27
+2021,Qtr 3,September,27,2855168.48,Invoice,9,2021/9/27
+2021,Qtr 3,September,27,7561558.32,Receipt,9,2021/9/27
+2021,Qtr 3,September,28,568831.18,Credit Note,9,2021/9/28
+2021,Qtr 3,September,28,4200121.79,Invoice,9,2021/9/28
+2021,Qtr 3,September,28,5349269.59,Receipt,9,2021/9/28
+2021,Qtr 3,September,29,44229.41,Credit Note,9,2021/9/29
+2021,Qtr 3,September,29,1625180.44,Invoice,9,2021/9/29
+2021,Qtr 3,September,29,6142840.15,Receipt,9,2021/9/29
+2021,Qtr 3,September,30,293747.71,Credit Note,9,2021/9/30
+2021,Qtr 3,September,30,1045173.95,Invoice,9,2021/9/30
+2021,Qtr 3,September,30,5789999.18,Receipt,9,2021/9/30
+2021,Qtr 4,October,1,1744789.4,Credit Note,10,2021/10/1
+2021,Qtr 4,October,1,7776684.65,Invoice,10,2021/10/1
+2021,Qtr 4,October,1,10532647.89,Receipt,10,2021/10/1
+2021,Qtr 4,October,2,716058.2,Invoice,10,2021/10/2
+2021,Qtr 4,October,2,127156.8,Receipt,10,2021/10/2
+2021,Qtr 4,October,3,514551.51,Invoice,10,2021/10/3
+2021,Qtr 4,October,4,1696485.22,Credit Note,10,2021/10/4
+2021,Qtr 4,October,4,1614021.24,Invoice,10,2021/10/4
+2021,Qtr 4,October,4,3487305.72,Receipt,10,2021/10/4
+2021,Qtr 4,October,5,710324.4,Credit Note,10,2021/10/5
+2021,Qtr 4,October,5,1216508.77,Invoice,10,2021/10/5
+2021,Qtr 4,October,5,9383178.12,Receipt,10,2021/10/5
+2021,Qtr 4,October,6,731052.63,Credit Note,10,2021/10/6
+2021,Qtr 4,October,6,1999397.3,Invoice,10,2021/10/6
+2021,Qtr 4,October,6,3087370.42,Receipt,10,2021/10/6
+2021,Qtr 4,October,7,562430.02,Credit Note,10,2021/10/7
+2021,Qtr 4,October,7,540349.8,Invoice,10,2021/10/7
+2021,Qtr 4,October,7,4056124.49,Receipt,10,2021/10/7
+2021,Qtr 4,October,8,2093421,Credit Note,10,2021/10/8
+2021,Qtr 4,October,8,781500.88,Invoice,10,2021/10/8
+2021,Qtr 4,October,8,6227244.67,Receipt,10,2021/10/8
+2021,Qtr 4,October,9,10275.83,Receipt,10,2021/10/9
+2021,Qtr 4,October,11,377458.4,Credit Note,10,2021/10/11
+2021,Qtr 4,October,11,746392.65,Invoice,10,2021/10/11
+2021,Qtr 4,October,11,6576489.09,Receipt,10,2021/10/11
+2021,Qtr 4,October,12,327085.38,Credit Note,10,2021/10/12
+2021,Qtr 4,October,12,2991573.2,Invoice,10,2021/10/12
+2021,Qtr 4,October,12,9855148.98,Receipt,10,2021/10/12
+2021,Qtr 4,October,13,1105629.37,Invoice,10,2021/10/13
+2021,Qtr 4,October,13,6860701.87,Receipt,10,2021/10/13
+2021,Qtr 4,October,14,456,Credit Note,10,2021/10/14
+2021,Qtr 4,October,14,2598233.37,Invoice,10,2021/10/14
+2021,Qtr 4,October,14,4483457.94,Receipt,10,2021/10/14
+2021,Qtr 4,October,15,612149.38,Credit Note,10,2021/10/15
+2021,Qtr 4,October,15,3818294.98,Invoice,10,2021/10/15
+2021,Qtr 4,October,15,8008441.82,Receipt,10,2021/10/15
+2021,Qtr 4,October,16,408984.19,Receipt,10,2021/10/16
+2021,Qtr 4,October,17,1516189.09,Invoice,10,2021/10/17
+2021,Qtr 4,October,18,1099759.3,Credit Note,10,2021/10/18
+2021,Qtr 4,October,18,2702968.97,Invoice,10,2021/10/18
+2021,Qtr 4,October,18,4414656.17,Receipt,10,2021/10/18
+2021,Qtr 4,October,19,402398.97,Credit Note,10,2021/10/19
+2021,Qtr 4,October,19,917914.59,Invoice,10,2021/10/19
+2021,Qtr 4,October,19,6816490.42,Receipt,10,2021/10/19
+2021,Qtr 4,October,20,1531463.41,Credit Note,10,2021/10/20
+2021,Qtr 4,October,20,2863137.3,Invoice,10,2021/10/20
+2021,Qtr 4,October,20,11146014.1,Receipt,10,2021/10/20
+2021,Qtr 4,October,21,546265.3,Credit Note,10,2021/10/21
+2021,Qtr 4,October,21,2564611.49,Invoice,10,2021/10/21
+2021,Qtr 4,October,21,4931942.88,Receipt,10,2021/10/21
+2021,Qtr 4,October,22,1034702.2,Credit Note,10,2021/10/22
+2021,Qtr 4,October,22,1287186.37,Invoice,10,2021/10/22
+2021,Qtr 4,October,22,10335823.91,Receipt,10,2021/10/22
+2021,Qtr 4,October,23,407146.07,Invoice,10,2021/10/23
+2021,Qtr 4,October,23,226700,Receipt,10,2021/10/23
+2021,Qtr 4,October,25,66621.22,Credit Note,10,2021/10/25
+2021,Qtr 4,October,25,237608,Invoice,10,2021/10/25
+2021,Qtr 4,October,25,5057469.18,Receipt,10,2021/10/25
+2021,Qtr 4,October,26,999707.2,Credit Note,10,2021/10/26
+2021,Qtr 4,October,26,783007.4,Invoice,10,2021/10/26
+2021,Qtr 4,October,26,11636640.28,Receipt,10,2021/10/26
+2021,Qtr 4,October,27,1989768.35,Credit Note,10,2021/10/27
+2021,Qtr 4,October,27,2204584.18,Invoice,10,2021/10/27
+2021,Qtr 4,October,27,4306861.05,Receipt,10,2021/10/27
+2021,Qtr 4,October,28,187567.96,Credit Note,10,2021/10/28
+2021,Qtr 4,October,28,771158.9,Invoice,10,2021/10/28
+2021,Qtr 4,October,28,4327057.41,Receipt,10,2021/10/28
+2021,Qtr 4,October,29,2701982.35,Credit Note,10,2021/10/29
+2021,Qtr 4,October,29,1633770.1,Invoice,10,2021/10/29
+2021,Qtr 4,October,29,5997714.2,Receipt,10,2021/10/29
+2021,Qtr 4,October,30,201390.99,Credit Note,10,2021/10/30
+2021,Qtr 4,November,1,8000,Credit Note,11,2021/11/1
+2021,Qtr 4,November,1,1123583.82,Invoice,11,2021/11/1
+2021,Qtr 4,November,1,134080.75,Receipt,11,2021/11/1
+2021,Qtr 4,November,2,788411.42,Credit Note,11,2021/11/2
+2021,Qtr 4,November,2,999573.02,Invoice,11,2021/11/2
+2021,Qtr 4,November,2,2574631.52,Receipt,11,2021/11/2
+2021,Qtr 4,November,3,371003.12,Credit Note,11,2021/11/3
+2021,Qtr 4,November,3,996647.07,Invoice,11,2021/11/3
+2021,Qtr 4,November,3,1120539.83,Receipt,11,2021/11/3
+2021,Qtr 4,November,4,1416644.48,Credit Note,11,2021/11/4
+2021,Qtr 4,November,4,1352657.87,Invoice,11,2021/11/4
+2021,Qtr 4,November,4,637433.08,Receipt,11,2021/11/4
+2021,Qtr 4,November,5,1509434.3,Credit Note,11,2021/11/5
+2021,Qtr 4,November,5,1880336.74,Invoice,11,2021/11/5
+2021,Qtr 4,November,5,6914601.24,Receipt,11,2021/11/5
+2021,Qtr 4,November,6,9186,Receipt,11,2021/11/6
+2021,Qtr 4,November,8,175677.02,Credit Note,11,2021/11/8
+2021,Qtr 4,November,8,853710.86,Invoice,11,2021/11/8
+2021,Qtr 4,November,8,8872737.52,Receipt,11,2021/11/8
+2021,Qtr 4,November,9,24145.62,Credit Note,11,2021/11/9
+2021,Qtr 4,November,9,680353.99,Invoice,11,2021/11/9
+2021,Qtr 4,November,9,3822597.98,Receipt,11,2021/11/9
+2021,Qtr 4,November,10,427083.76,Credit Note,11,2021/11/10
+2021,Qtr 4,November,10,809875.06,Invoice,11,2021/11/10
+2021,Qtr 4,November,10,5480526.61,Receipt,11,2021/11/10
+2021,Qtr 4,November,11,755678.78,Credit Note,11,2021/11/11
+2021,Qtr 4,November,11,860439.6,Invoice,11,2021/11/11
+2021,Qtr 4,November,11,2635747.93,Receipt,11,2021/11/11
+2021,Qtr 4,November,12,149066.16,Credit Note,11,2021/11/12
+2021,Qtr 4,November,12,632625.4,Invoice,11,2021/11/12
+2021,Qtr 4,November,12,3193766.38,Receipt,11,2021/11/12
+2021,Qtr 4,November,13,17968.37,Receipt,11,2021/11/13
+2021,Qtr 4,November,15,2141819.24,Credit Note,11,2021/11/15
+2021,Qtr 4,November,15,517420,Invoice,11,2021/11/15
+2021,Qtr 4,November,15,4521980.23,Receipt,11,2021/11/15
+2021,Qtr 4,November,16,544533.89,Credit Note,11,2021/11/16
+2021,Qtr 4,November,16,709853.84,Invoice,11,2021/11/16
+2021,Qtr 4,November,16,1470835.05,Receipt,11,2021/11/16
+2021,Qtr 4,November,17,1206590.1,Credit Note,11,2021/11/17
+2021,Qtr 4,November,17,813612.08,Invoice,11,2021/11/17
+2021,Qtr 4,November,17,2783903.21,Receipt,11,2021/11/17
+2021,Qtr 4,November,18,828177.12,Credit Note,11,2021/11/18
+2021,Qtr 4,November,18,3415826.87,Invoice,11,2021/11/18
+2021,Qtr 4,November,18,3517744.31,Receipt,11,2021/11/18
+2021,Qtr 4,November,19,521218.84,Credit Note,11,2021/11/19
+2021,Qtr 4,November,19,1602174.36,Invoice,11,2021/11/19
+2021,Qtr 4,November,19,6224772.33,Receipt,11,2021/11/19
+2021,Qtr 4,November,22,1046801.84,Credit Note,11,2021/11/22
+2021,Qtr 4,November,22,908614.01,Invoice,11,2021/11/22
+2021,Qtr 4,November,22,2358972.5,Receipt,11,2021/11/22
+2021,Qtr 4,November,23,3062480.93,Credit Note,11,2021/11/23
+2021,Qtr 4,November,23,1031364.59,Invoice,11,2021/11/23
+2021,Qtr 4,November,23,4081472.85,Receipt,11,2021/11/23
+2021,Qtr 4,November,24,8170689.2,Credit Note,11,2021/11/24
+2021,Qtr 4,November,24,1693836.21,Invoice,11,2021/11/24
+2021,Qtr 4,November,24,1633059.52,Receipt,11,2021/11/24
+2021,Qtr 4,November,25,435229.32,Credit Note,11,2021/11/25
+2021,Qtr 4,November,25,816918.1,Invoice,11,2021/11/25
+2021,Qtr 4,November,25,175919.75,Receipt,11,2021/11/25
+2021,Qtr 4,November,26,278213.09,Credit Note,11,2021/11/26
+2021,Qtr 4,November,26,1181742.96,Invoice,11,2021/11/26
+2021,Qtr 4,November,26,2277626.1,Receipt,11,2021/11/26
+2021,Qtr 4,November,27,28800,Invoice,11,2021/11/27
+2021,Qtr 4,November,27,97081.88,Receipt,11,2021/11/27
+2021,Qtr 4,November,29,594836.52,Credit Note,11,2021/11/29
+2021,Qtr 4,November,29,861992.27,Invoice,11,2021/11/29
+2021,Qtr 4,November,29,3465059.36,Receipt,11,2021/11/29
+2021,Qtr 4,November,30,4364372.12,Credit Note,11,2021/11/30
+2021,Qtr 4,November,30,983326.16,Invoice,11,2021/11/30
+2021,Qtr 4,November,30,1096329.65,Receipt,11,2021/11/30
+2021,Qtr 4,December,1,2998917.48,Credit Note,12,2021/12/1
+2021,Qtr 4,December,1,2306610.02,Invoice,12,2021/12/1
+2021,Qtr 4,December,1,4204711.39,Receipt,12,2021/12/1
+2021,Qtr 4,December,2,321655,Invoice,12,2021/12/2
+2021,Qtr 4,December,2,2142599.97,Receipt,12,2021/12/2
+2021,Qtr 4,December,3,52260,Credit Note,12,2021/12/3
+2021,Qtr 4,December,3,1921931.98,Invoice,12,2021/12/3
+2021,Qtr 4,December,3,5174574.56,Receipt,12,2021/12/3
+2021,Qtr 4,December,4,381474.95,Invoice,12,2021/12/4
+2021,Qtr 4,December,6,1349219.21,Credit Note,12,2021/12/6
+2021,Qtr 4,December,6,1755809.86,Invoice,12,2021/12/6
+2021,Qtr 4,December,6,5777279.32,Receipt,12,2021/12/6
+2021,Qtr 4,December,7,1078078.63,Credit Note,12,2021/12/7
+2021,Qtr 4,December,7,1263426.31,Invoice,12,2021/12/7
+2021,Qtr 4,December,7,739570.66,Receipt,12,2021/12/7
+2021,Qtr 4,December,8,1383019.3,Credit Note,12,2021/12/8
+2021,Qtr 4,December,8,2161762.28,Invoice,12,2021/12/8
+2021,Qtr 4,December,8,2402488.5,Receipt,12,2021/12/8
+2021,Qtr 4,December,9,24079.88,Credit Note,12,2021/12/9
+2021,Qtr 4,December,9,1907382.7,Invoice,12,2021/12/9
+2021,Qtr 4,December,9,4094246.09,Receipt,12,2021/12/9
+2021,Qtr 4,December,10,2831869.98,Credit Note,12,2021/12/10
+2021,Qtr 4,December,10,2512757.32,Invoice,12,2021/12/10
+2021,Qtr 4,December,10,5676888.23,Receipt,12,2021/12/10
+2021,Qtr 4,December,11,287662.94,Invoice,12,2021/12/11
+2021,Qtr 4,December,11,174251,Receipt,12,2021/12/11
+2021,Qtr 4,December,13,94626.22,Credit Note,12,2021/12/13
+2021,Qtr 4,December,13,720583.16,Invoice,12,2021/12/13
+2021,Qtr 4,December,13,837559.41,Receipt,12,2021/12/13
+2021,Qtr 4,December,14,273349.34,Credit Note,12,2021/12/14
+2021,Qtr 4,December,14,2987097.67,Invoice,12,2021/12/14
+2021,Qtr 4,December,14,644560.03,Receipt,12,2021/12/14
+2021,Qtr 4,December,15,2277799.29,Invoice,12,2021/12/15
+2021,Qtr 4,December,15,8290545.47,Receipt,12,2021/12/15
+2021,Qtr 4,December,16,170093,Credit Note,12,2021/12/16
+2021,Qtr 4,December,16,1046757.5,Invoice,12,2021/12/16
+2021,Qtr 4,December,17,1547304.7,Invoice,12,2021/12/17
+2021,Qtr 4,December,17,2831572.8,Receipt,12,2021/12/17
+2021,Qtr 4,December,18,172200,Receipt,12,2021/12/18
+2021,Qtr 4,December,20,1002942.59,Invoice,12,2021/12/20
+2021,Qtr 4,December,20,1422827.45,Receipt,12,2021/12/20
+2021,Qtr 4,December,21,985483.31,Credit Note,12,2021/12/21
+2021,Qtr 4,December,21,1401474.35,Invoice,12,2021/12/21
+2021,Qtr 4,December,21,2314564.33,Receipt,12,2021/12/21
+2021,Qtr 4,December,22,183906.05,Credit Note,12,2021/12/22
+2021,Qtr 4,December,22,1222103.49,Invoice,12,2021/12/22
+2021,Qtr 4,December,22,551148.48,Receipt,12,2021/12/22
+2021,Qtr 4,December,23,1375,Credit Note,12,2021/12/23
+2021,Qtr 4,December,23,325773.99,Invoice,12,2021/12/23
+2021,Qtr 4,December,23,3489584,Receipt,12,2021/12/23
+2021,Qtr 4,December,24,920,Credit Note,12,2021/12/24
+2021,Qtr 4,December,24,596898.34,Invoice,12,2021/12/24
+2021,Qtr 4,December,24,3885669.03,Receipt,12,2021/12/24
+2021,Qtr 4,December,26,255321,Invoice,12,2021/12/26
+2021,Qtr 4,December,27,178200,Invoice,12,2021/12/27
+2021,Qtr 4,December,28,236827.46,Invoice,12,2021/12/28
+2021,Qtr 4,December,28,162073.95,Receipt,12,2021/12/28
+2021,Qtr 4,December,29,201169.5,Credit Note,12,2021/12/29
+2021,Qtr 4,December,29,1437420.55,Invoice,12,2021/12/29
+2021,Qtr 4,December,29,29611,Receipt,12,2021/12/29
+2021,Qtr 4,December,30,108621.68,Credit Note,12,2021/12/30
+2021,Qtr 4,December,30,455703.16,Invoice,12,2021/12/30
+2021,Qtr 4,December,30,1180728.5,Receipt,12,2021/12/30
+2021,Qtr 4,December,31,2821223.69,Credit Note,12,2021/12/31
+2021,Qtr 4,December,31,2973843.96,Invoice,12,2021/12/31
+2021,Qtr 4,December,31,1775329.77,Receipt,12,2021/12/31
+2022,Qtr 1,January,1,39820,Credit Note,1,2022/1/1
+2022,Qtr 1,January,1,2614340.13,Invoice,1,2022/1/1
+2022,Qtr 1,January,1,1209567.3,Receipt,1,2022/1/1
+2022,Qtr 1,January,2,224929.7,Invoice,1,2022/1/2
+2022,Qtr 1,January,3,6275.5,Credit Note,1,2022/1/3
+2022,Qtr 1,January,3,351440,Invoice,1,2022/1/3
+2022,Qtr 1,January,3,112455.98,Receipt,1,2022/1/3
+2022,Qtr 1,January,4,1978,Credit Note,1,2022/1/4
+2022,Qtr 1,January,4,849110.4,Invoice,1,2022/1/4
+2022,Qtr 1,January,4,989678.88,Receipt,1,2022/1/4
+2022,Qtr 1,January,5,848203.97,Invoice,1,2022/1/5
+2022,Qtr 1,January,5,2488372.97,Receipt,1,2022/1/5
+2022,Qtr 1,January,6,959395.95,Invoice,1,2022/1/6
+2022,Qtr 1,January,6,772744.49,Receipt,1,2022/1/6
+2022,Qtr 1,January,7,229628.4,Invoice,1,2022/1/7
+2022,Qtr 1,January,7,2917651.73,Receipt,1,2022/1/7
+2022,Qtr 1,January,8,3800.01,Credit Note,1,2022/1/8
+2022,Qtr 1,January,8,139288,Invoice,1,2022/1/8
+2022,Qtr 1,January,8,87801.99,Receipt,1,2022/1/8
+2022,Qtr 1,January,10,264734.8,Invoice,1,2022/1/10
+2022,Qtr 1,January,10,5564688.18,Receipt,1,2022/1/10
+2022,Qtr 1,January,11,264840.44,Invoice,1,2022/1/11
+2022,Qtr 1,January,11,17714.89,Receipt,1,2022/1/11
+2022,Qtr 1,January,12,177690.1,Invoice,1,2022/1/12
+2022,Qtr 1,January,12,59147.48,Receipt,1,2022/1/12
+2022,Qtr 1,January,13,533114.25,Invoice,1,2022/1/13
+2022,Qtr 1,January,13,816249.75,Receipt,1,2022/1/13
+2022,Qtr 1,January,14,6000,Credit Note,1,2022/1/14
+2022,Qtr 1,January,14,802522.75,Invoice,1,2022/1/14
+2022,Qtr 1,January,14,1846896.95,Receipt,1,2022/1/14
+2022,Qtr 1,January,15,44310,Invoice,1,2022/1/15
+2022,Qtr 1,January,15,196379.33,Receipt,1,2022/1/15
+2022,Qtr 1,January,17,476871.59,Invoice,1,2022/1/17
+2022,Qtr 1,January,17,72120.3,Receipt,1,2022/1/17
+2022,Qtr 1,January,18,512708.61,Invoice,1,2022/1/18
+2022,Qtr 1,January,18,1538964.68,Receipt,1,2022/1/18
+2022,Qtr 1,January,19,780525.96,Invoice,1,2022/1/19
+2022,Qtr 1,January,19,154714.52,Receipt,1,2022/1/19
+2022,Qtr 1,January,20,657315.6,Invoice,1,2022/1/20
+2022,Qtr 1,January,20,247103.96,Receipt,1,2022/1/20
+2022,Qtr 1,January,21,11815,Credit Note,1,2022/1/21
+2022,Qtr 1,January,21,923866.5,Invoice,1,2022/1/21
+2022,Qtr 1,January,21,1852517.99,Receipt,1,2022/1/21
+2022,Qtr 1,January,22,72975,Invoice,1,2022/1/22
+2022,Qtr 1,January,22,758444,Receipt,1,2022/1/22
+2022,Qtr 1,January,24,385203.19,Invoice,1,2022/1/24
+2022,Qtr 1,January,24,10137.07,Receipt,1,2022/1/24
+2022,Qtr 1,January,25,1164506.5,Invoice,1,2022/1/25
+2022,Qtr 1,January,25,10760.69,Receipt,1,2022/1/25
+2022,Qtr 1,January,26,350134.2,Invoice,1,2022/1/26
+2022,Qtr 1,January,26,711.91,Receipt,1,2022/1/26
+2022,Qtr 1,January,27,1039765.1,Invoice,1,2022/1/27
+2022,Qtr 1,January,27,447952.5,Receipt,1,2022/1/27
+2022,Qtr 1,January,28,468744,Invoice,1,2022/1/28
+2022,Qtr 1,January,28,1582206.84,Receipt,1,2022/1/28
+2022,Qtr 1,January,29,12009.58,Credit Note,1,2022/1/29
+2022,Qtr 1,January,29,175560.5,Receipt,1,2022/1/29
+2022,Qtr 1,January,31,96800,Invoice,1,2022/1/31
+2022,Qtr 1,January,31,553634.5,Receipt,1,2022/1/31
+2022,Qtr 1,February,1,2400,Credit Note,2,2022/2/1
+2022,Qtr 1,February,1,961192.25,Invoice,2,2022/2/1
+2022,Qtr 1,February,1,10036.25,Receipt,2,2022/2/1
+2022,Qtr 1,February,2,858815.85,Invoice,2,2022/2/2
+2022,Qtr 1,February,2,148279.73,Receipt,2,2022/2/2
+2022,Qtr 1,February,3,1221273.01,Invoice,2,2022/2/3
+2022,Qtr 1,February,3,28137.5,Receipt,2,2022/2/3
+2022,Qtr 1,February,4,24981.3,Credit Note,2,2022/2/4
+2022,Qtr 1,February,4,1065684.5,Invoice,2,2022/2/4
+2022,Qtr 1,February,4,2483449.09,Receipt,2,2022/2/4
+2022,Qtr 1,February,5,63000,Invoice,2,2022/2/5
+2022,Qtr 1,February,5,23310.72,Receipt,2,2022/2/5
+2022,Qtr 1,February,7,349976.02,Invoice,2,2022/2/7
+2022,Qtr 1,February,7,894772.45,Receipt,2,2022/2/7
+2022,Qtr 1,February,8,369446.7,Invoice,2,2022/2/8
+2022,Qtr 1,February,8,96133.8,Receipt,2,2022/2/8
+2022,Qtr 1,February,9,1121170,Invoice,2,2022/2/9
+2022,Qtr 1,February,9,88591.81,Receipt,2,2022/2/9
+2022,Qtr 1,February,10,630,Credit Note,2,2022/2/10
+2022,Qtr 1,February,10,530321.99,Invoice,2,2022/2/10
+2022,Qtr 1,February,10,361224.4,Receipt,2,2022/2/10
+2022,Qtr 1,February,11,374754.2,Invoice,2,2022/2/11
+2022,Qtr 1,February,11,5052414.38,Receipt,2,2022/2/11
+2022,Qtr 1,February,12,279348.64,Invoice,2,2022/2/12
+2022,Qtr 1,February,12,45000,Receipt,2,2022/2/12
+2022,Qtr 1,February,14,447704.85,Invoice,2,2022/2/14
+2022,Qtr 1,February,15,386721.15,Invoice,2,2022/2/15
+2022,Qtr 1,February,15,80987.44,Receipt,2,2022/2/15
+2022,Qtr 1,February,16,517712.95,Invoice,2,2022/2/16
+2022,Qtr 1,February,16,266809.89,Receipt,2,2022/2/16
+2022,Qtr 1,February,17,1648949.87,Invoice,2,2022/2/17
+2022,Qtr 1,February,18,752081.99,Invoice,2,2022/2/18
+2022,Qtr 1,February,18,1672544,Receipt,2,2022/2/18
+2022,Qtr 1,February,19,780589.45,Invoice,2,2022/2/19
+2022,Qtr 1,February,19,111231.25,Receipt,2,2022/2/19
+2022,Qtr 1,February,21,444585.78,Invoice,2,2022/2/21
+2022,Qtr 1,February,21,14274.43,Receipt,2,2022/2/21
+2022,Qtr 1,February,22,450281,Invoice,2,2022/2/22
+2022,Qtr 1,February,22,3114576.19,Receipt,2,2022/2/22
+2022,Qtr 1,February,23,2613618.08,Invoice,2,2022/2/23
+2022,Qtr 1,February,23,17642.67,Receipt,2,2022/2/23
+2022,Qtr 1,February,24,1514552.88,Invoice,2,2022/2/24
+2022,Qtr 1,February,24,1468240.86,Receipt,2,2022/2/24
+2022,Qtr 1,February,25,870825.37,Invoice,2,2022/2/25
+2022,Qtr 1,February,25,2388281.44,Receipt,2,2022/2/25
+2022,Qtr 1,February,26,239024.01,Invoice,2,2022/2/26
+2022,Qtr 1,February,26,6980,Receipt,2,2022/2/26
+2022,Qtr 1,February,27,245295.42,Invoice,2,2022/2/27
+2022,Qtr 1,February,28,12167.43,Credit Note,2,2022/2/28
+2022,Qtr 1,February,28,15235,Invoice,2,2022/2/28
+2022,Qtr 1,February,28,650775,Receipt,2,2022/2/28
+2022,Qtr 1,March,1,8086.47,Credit Note,3,2022/3/1
+2022,Qtr 1,March,1,1889558.14,Invoice,3,2022/3/1
+2022,Qtr 1,March,1,116530.72,Receipt,3,2022/3/1
+2022,Qtr 1,March,2,13637,Credit Note,3,2022/3/2
+2022,Qtr 1,March,2,3716937.31,Invoice,3,2022/3/2
+2022,Qtr 1,March,2,430579.07,Receipt,3,2022/3/2
+2022,Qtr 1,March,3,275916,Credit Note,3,2022/3/3
+2022,Qtr 1,March,3,1690358.57,Invoice,3,2022/3/3
+2022,Qtr 1,March,4,1787147.2,Invoice,3,2022/3/4
+2022,Qtr 1,March,4,2251411.81,Receipt,3,2022/3/4
+2022,Qtr 1,March,5,16380,Receipt,3,2022/3/5
+2022,Qtr 1,March,6,210969.85,Invoice,3,2022/3/6
+2022,Qtr 1,March,7,1598244.5,Invoice,3,2022/3/7
+2022,Qtr 1,March,7,181844.2,Receipt,3,2022/3/7
+2022,Qtr 1,March,8,564920.38,Invoice,3,2022/3/8
+2022,Qtr 1,March,8,96521.65,Receipt,3,2022/3/8
+2022,Qtr 1,March,9,1992702,Invoice,3,2022/3/9
+2022,Qtr 1,March,10,2902050.06,Invoice,3,2022/3/10
+2022,Qtr 1,March,10,117012.5,Receipt,3,2022/3/10
+2022,Qtr 1,March,11,1199058.31,Invoice,3,2022/3/11
+2022,Qtr 1,March,11,2234192.87,Receipt,3,2022/3/11
+2022,Qtr 1,March,12,89829.46,Invoice,3,2022/3/12
+2022,Qtr 1,March,12,138226,Receipt,3,2022/3/12
+2022,Qtr 1,March,14,294698.01,Invoice,3,2022/3/14
+2022,Qtr 1,March,15,3116149.65,Invoice,3,2022/3/15
+2022,Qtr 1,March,15,1047.71,Receipt,3,2022/3/15
+2022,Qtr 1,March,16,1590153,Invoice,3,2022/3/16
+2022,Qtr 1,March,16,216543.47,Receipt,3,2022/3/16
+2022,Qtr 1,March,17,5480428.03,Invoice,3,2022/3/17
+2022,Qtr 1,March,17,635366.26,Receipt,3,2022/3/17
+2022,Qtr 1,March,18,825358.83,Invoice,3,2022/3/18
+2022,Qtr 1,March,18,1993176.88,Receipt,3,2022/3/18
+2022,Qtr 1,March,19,647335.39,Receipt,3,2022/3/19
+2022,Qtr 1,March,22,3542.2,Credit Note,3,2022/3/22
+2022,Qtr 1,March,22,1503690.04,Invoice,3,2022/3/22
+2022,Qtr 1,March,22,964266.25,Receipt,3,2022/3/22
+2022,Qtr 1,March,23,4309884.2,Invoice,3,2022/3/23
+2022,Qtr 1,March,23,50400,Receipt,3,2022/3/23
+2022,Qtr 1,March,24,3232359.74,Invoice,3,2022/3/24
+2022,Qtr 1,March,24,180000.13,Receipt,3,2022/3/24
+2022,Qtr 1,March,25,55215,Credit Note,3,2022/3/25
+2022,Qtr 1,March,25,474622.48,Invoice,3,2022/3/25
+2022,Qtr 1,March,25,1091107.4,Receipt,3,2022/3/25
+2022,Qtr 1,March,26,228413,Invoice,3,2022/3/26
+2022,Qtr 1,March,26,512557.84,Receipt,3,2022/3/26
+2022,Qtr 1,March,28,11582.18,Credit Note,3,2022/3/28
+2022,Qtr 1,March,28,1211678.14,Invoice,3,2022/3/28
+2022,Qtr 1,March,28,10201.82,Receipt,3,2022/3/28
+2022,Qtr 1,March,29,17433.83,Credit Note,3,2022/3/29
+2022,Qtr 1,March,29,748640.34,Invoice,3,2022/3/29
+2022,Qtr 1,March,30,1814956.17,Invoice,3,2022/3/30
+2022,Qtr 1,March,30,435066.56,Receipt,3,2022/3/30
+2022,Qtr 1,March,31,2210693.86,Invoice,3,2022/3/31
+2022,Qtr 1,March,31,1771808.63,Receipt,3,2022/3/31
+2022,Qtr 2,April,1,95656.02,Credit Note,4,2022/4/1
+2022,Qtr 2,April,1,1406274.53,Invoice,4,2022/4/1
+2022,Qtr 2,April,1,2103617.85,Receipt,4,2022/4/1
+2022,Qtr 2,April,2,325585.32,Invoice,4,2022/4/2
+2022,Qtr 2,April,4,224200,Invoice,4,2022/4/4
+2022,Qtr 2,April,4,523824,Receipt,4,2022/4/4
+2022,Qtr 2,April,5,632953.85,Invoice,4,2022/4/5
+2022,Qtr 2,April,5,186605.82,Receipt,4,2022/4/5
+2022,Qtr 2,April,6,1435807.75,Invoice,4,2022/4/6
+2022,Qtr 2,April,6,429831.3,Receipt,4,2022/4/6
+2022,Qtr 2,April,7,1977009.24,Invoice,4,2022/4/7
+2022,Qtr 2,April,7,1771.52,Receipt,4,2022/4/7
+2022,Qtr 2,April,8,2466951.88,Invoice,4,2022/4/8
+2022,Qtr 2,April,8,1833388.15,Receipt,4,2022/4/8
+2022,Qtr 2,April,9,41600,Invoice,4,2022/4/9
+2022,Qtr 2,April,9,89532,Receipt,4,2022/4/9
+2022,Qtr 2,April,11,3092559.1,Invoice,4,2022/4/11
+2022,Qtr 2,April,11,610942.24,Receipt,4,2022/4/11
+2022,Qtr 2,April,12,496800,Invoice,4,2022/4/12
+2022,Qtr 2,April,13,11472,Credit Note,4,2022/4/13
+2022,Qtr 2,April,13,606495.98,Invoice,4,2022/4/13
+2022,Qtr 2,April,13,593948.71,Receipt,4,2022/4/13
+2022,Qtr 2,April,14,2725.75,Credit Note,4,2022/4/14
+2022,Qtr 2,April,14,711462.88,Invoice,4,2022/4/14
+2022,Qtr 2,April,14,1904833.29,Receipt,4,2022/4/14
+2022,Qtr 2,April,15,31500,Invoice,4,2022/4/15
+2022,Qtr 2,April,16,135696.6,Invoice,4,2022/4/16
+2022,Qtr 2,April,16,804408.5,Receipt,4,2022/4/16
+2022,Qtr 2,April,18,947431.49,Invoice,4,2022/4/18
+2022,Qtr 2,April,19,203730,Invoice,4,2022/4/19
+2022,Qtr 2,April,19,261582.6,Receipt,4,2022/4/19
+2022,Qtr 2,April,20,266916,Invoice,4,2022/4/20
+2022,Qtr 2,April,20,1857042.15,Receipt,4,2022/4/20
+2022,Qtr 2,April,21,2940,Credit Note,4,2022/4/21
+2022,Qtr 2,April,21,2443711.99,Invoice,4,2022/4/21
+2022,Qtr 2,April,21,1550717.42,Receipt,4,2022/4/21
+2022,Qtr 2,April,22,5210764.01,Invoice,4,2022/4/22
+2022,Qtr 2,April,22,1630457.48,Receipt,4,2022/4/22
+2022,Qtr 2,April,23,490738.25,Invoice,4,2022/4/23
+2022,Qtr 2,April,25,5552318.83,Invoice,4,2022/4/25
+2022,Qtr 2,April,25,103530.96,Receipt,4,2022/4/25
+2022,Qtr 2,April,26,17119.01,Credit Note,4,2022/4/26
+2022,Qtr 2,April,26,1257753.15,Invoice,4,2022/4/26
+2022,Qtr 2,April,26,6770453.36,Receipt,4,2022/4/26
+2022,Qtr 2,April,27,144883.6,Invoice,4,2022/4/27
+2022,Qtr 2,April,28,50990.56,Credit Note,4,2022/4/28
+2022,Qtr 2,April,28,2888731.27,Invoice,4,2022/4/28
+2022,Qtr 2,April,28,1367445.66,Receipt,4,2022/4/28
+2022,Qtr 2,April,29,94339.18,Credit Note,4,2022/4/29
+2022,Qtr 2,April,29,2776870.32,Invoice,4,2022/4/29
+2022,Qtr 2,April,29,1816688.39,Receipt,4,2022/4/29
+2022,Qtr 2,April,30,1764860.68,Invoice,4,2022/4/30
+2022,Qtr 2,May,1,358389.99,Invoice,5,2022/5/1
+2022,Qtr 2,May,2,532847.82,Invoice,5,2022/5/2
+2022,Qtr 2,May,3,985538.93,Invoice,5,2022/5/3
+2022,Qtr 2,May,3,239212.77,Receipt,5,2022/5/3
+2022,Qtr 2,May,4,728162.75,Invoice,5,2022/5/4
+2022,Qtr 2,May,4,1552719.65,Receipt,5,2022/5/4
+2022,Qtr 2,May,5,1096.02,Credit Note,5,2022/5/5
+2022,Qtr 2,May,5,4611806.35,Invoice,5,2022/5/5
+2022,Qtr 2,May,5,3428845.07,Receipt,5,2022/5/5
+2022,Qtr 2,May,6,5413507.77,Invoice,5,2022/5/6
+2022,Qtr 2,May,6,913428.72,Receipt,5,2022/5/6
+2022,Qtr 2,May,7,253022,Invoice,5,2022/5/7
+2022,Qtr 2,May,7,62965.4,Receipt,5,2022/5/7
+2022,Qtr 2,May,8,81018.2,Invoice,5,2022/5/8
+2022,Qtr 2,May,9,185.61,Credit Note,5,2022/5/9
+2022,Qtr 2,May,9,1138476.82,Invoice,5,2022/5/9
+2022,Qtr 2,May,9,532555.76,Receipt,5,2022/5/9
+2022,Qtr 2,May,10,91320,Credit Note,5,2022/5/10
+2022,Qtr 2,May,10,1932906.4,Invoice,5,2022/5/10
+2022,Qtr 2,May,10,414000,Receipt,5,2022/5/10
+2022,Qtr 2,May,11,38189.28,Credit Note,5,2022/5/11
+2022,Qtr 2,May,11,4593572.39,Invoice,5,2022/5/11
+2022,Qtr 2,May,11,825524.94,Receipt,5,2022/5/11
+2022,Qtr 2,May,12,137639.94,Credit Note,5,2022/5/12
+2022,Qtr 2,May,12,622662.3,Invoice,5,2022/5/12
+2022,Qtr 2,May,12,523256.7,Receipt,5,2022/5/12
+2022,Qtr 2,May,13,413218.92,Credit Note,5,2022/5/13
+2022,Qtr 2,May,13,5414776.39,Invoice,5,2022/5/13
+2022,Qtr 2,May,13,2134945.9,Receipt,5,2022/5/13
+2022,Qtr 2,May,14,263720,Invoice,5,2022/5/14
+2022,Qtr 2,May,14,96428.5,Receipt,5,2022/5/14
+2022,Qtr 2,May,15,3057639.28,Invoice,5,2022/5/15
+2022,Qtr 2,May,16,3892831.26,Invoice,5,2022/5/16
+2022,Qtr 2,May,16,68.5,Receipt,5,2022/5/16
+2022,Qtr 2,May,17,15495.18,Credit Note,5,2022/5/17
+2022,Qtr 2,May,17,4359947.47,Invoice,5,2022/5/17
+2022,Qtr 2,May,17,1257978.35,Receipt,5,2022/5/17
+2022,Qtr 2,May,18,10916.39,Credit Note,5,2022/5/18
+2022,Qtr 2,May,18,1341562.17,Invoice,5,2022/5/18
+2022,Qtr 2,May,18,1223593.82,Receipt,5,2022/5/18
+2022,Qtr 2,May,19,2462.05,Credit Note,5,2022/5/19
+2022,Qtr 2,May,19,1940610.84,Invoice,5,2022/5/19
+2022,Qtr 2,May,19,421850.56,Receipt,5,2022/5/19
+2022,Qtr 2,May,20,1064223.04,Invoice,5,2022/5/20
+2022,Qtr 2,May,20,2929331.59,Receipt,5,2022/5/20
+2022,Qtr 2,May,21,16337.6,Credit Note,5,2022/5/21
+2022,Qtr 2,May,21,275659.6,Invoice,5,2022/5/21
+2022,Qtr 2,May,22,37447,Credit Note,5,2022/5/22
+2022,Qtr 2,May,22,1093049.61,Invoice,5,2022/5/22
+2022,Qtr 2,May,23,7026795.95,Invoice,5,2022/5/23
+2022,Qtr 2,May,24,4658453.52,Invoice,5,2022/5/24
+2022,Qtr 2,May,24,2700033.09,Receipt,5,2022/5/24
+2022,Qtr 2,May,25,49734.41,Credit Note,5,2022/5/25
+2022,Qtr 2,May,25,3719256.85,Invoice,5,2022/5/25
+2022,Qtr 2,May,25,991533.63,Receipt,5,2022/5/25
+2022,Qtr 2,May,26,3306817.16,Invoice,5,2022/5/26
+2022,Qtr 2,May,26,392356.51,Receipt,5,2022/5/26
+2022,Qtr 2,May,27,3286659.85,Invoice,5,2022/5/27
+2022,Qtr 2,May,27,3180964.67,Receipt,5,2022/5/27
+2022,Qtr 2,May,28,1036915.12,Invoice,5,2022/5/28
+2022,Qtr 2,May,28,18185.92,Receipt,5,2022/5/28
+2022,Qtr 2,May,29,239689.92,Invoice,5,2022/5/29
+2022,Qtr 2,May,30,2278698.65,Invoice,5,2022/5/30
+2022,Qtr 2,May,30,212817.8,Receipt,5,2022/5/30
+2022,Qtr 2,May,31,8763017.94,Invoice,5,2022/5/31
+2022,Qtr 2,May,31,253990,Receipt,5,2022/5/31
+2022,Qtr 2,June,1,24811.63,Credit Note,6,2022/6/1
+2022,Qtr 2,June,1,3133031.74,Invoice,6,2022/6/1
+2022,Qtr 2,June,1,4368349.3,Receipt,6,2022/6/1
+2022,Qtr 2,June,2,13019.41,Credit Note,6,2022/6/2
+2022,Qtr 2,June,2,4169007.24,Invoice,6,2022/6/2
+2022,Qtr 2,June,2,423902.44,Receipt,6,2022/6/2
+2022,Qtr 2,June,3,12600,Credit Note,6,2022/6/3
+2022,Qtr 2,June,3,3391781.65,Invoice,6,2022/6/3
+2022,Qtr 2,June,3,4250126.73,Receipt,6,2022/6/3
+2022,Qtr 2,June,4,113996.76,Invoice,6,2022/6/4
+2022,Qtr 2,June,4,3456,Receipt,6,2022/6/4
+2022,Qtr 2,June,5,411965.57,Invoice,6,2022/6/5
+2022,Qtr 2,June,6,24521.8,Credit Note,6,2022/6/6
+2022,Qtr 2,June,6,8575021.43,Invoice,6,2022/6/6
+2022,Qtr 2,June,6,2078362.09,Receipt,6,2022/6/6
+2022,Qtr 2,June,7,1741921.04,Invoice,6,2022/6/7
+2022,Qtr 2,June,8,2910808.53,Invoice,6,2022/6/8
+2022,Qtr 2,June,8,928269.22,Receipt,6,2022/6/8
+2022,Qtr 2,June,9,630527.03,Credit Note,6,2022/6/9
+2022,Qtr 2,June,9,3765007.85,Invoice,6,2022/6/9
+2022,Qtr 2,June,9,2237611.16,Receipt,6,2022/6/9
+2022,Qtr 2,June,10,84241.38,Credit Note,6,2022/6/10
+2022,Qtr 2,June,10,2586210.87,Invoice,6,2022/6/10
+2022,Qtr 2,June,10,5511678.45,Receipt,6,2022/6/10
+2022,Qtr 2,June,11,1143120.86,Invoice,6,2022/6/11
+2022,Qtr 2,June,11,47775,Receipt,6,2022/6/11
+2022,Qtr 2,June,13,68203.16,Credit Note,6,2022/6/13
+2022,Qtr 2,June,13,7037973.87,Invoice,6,2022/6/13
+2022,Qtr 2,June,13,1788587.33,Receipt,6,2022/6/13
+2022,Qtr 2,June,14,42845.75,Credit Note,6,2022/6/14
+2022,Qtr 2,June,14,4509185.27,Invoice,6,2022/6/14
+2022,Qtr 2,June,14,146076,Receipt,6,2022/6/14
+2022,Qtr 2,June,15,57154.34,Credit Note,6,2022/6/15
+2022,Qtr 2,June,15,4159793.81,Invoice,6,2022/6/15
+2022,Qtr 2,June,15,4627329.65,Receipt,6,2022/6/15
+2022,Qtr 2,June,16,720012.5,Invoice,6,2022/6/16
+2022,Qtr 2,June,17,5352856.71,Invoice,6,2022/6/17
+2022,Qtr 2,June,17,6620303.12,Receipt,6,2022/6/17
+2022,Qtr 2,June,18,1058017.33,Invoice,6,2022/6/18
+2022,Qtr 2,June,18,261894.99,Receipt,6,2022/6/18
+2022,Qtr 2,June,19,3193591.37,Invoice,6,2022/6/19
+2022,Qtr 2,June,20,100869.91,Credit Note,6,2022/6/20
+2022,Qtr 2,June,20,3816455.3,Invoice,6,2022/6/20
+2022,Qtr 2,June,20,294400,Receipt,6,2022/6/20
+2022,Qtr 2,June,21,19031.78,Credit Note,6,2022/6/21
+2022,Qtr 2,June,21,6241549.24,Invoice,6,2022/6/21
+2022,Qtr 2,June,21,4994038.13,Receipt,6,2022/6/21
+2022,Qtr 2,June,22,5715945.51,Invoice,6,2022/6/22
+2022,Qtr 2,June,22,1130587.6,Receipt,6,2022/6/22
+2022,Qtr 2,June,23,101942.35,Credit Note,6,2022/6/23
+2022,Qtr 2,June,23,6831351.05,Invoice,6,2022/6/23
+2022,Qtr 2,June,23,2195096.58,Receipt,6,2022/6/23
+2022,Qtr 2,June,24,129402.61,Credit Note,6,2022/6/24
+2022,Qtr 2,June,24,8593308.87,Invoice,6,2022/6/24
+2022,Qtr 2,June,24,7909517.9,Receipt,6,2022/6/24
+2022,Qtr 2,June,25,627335.55,Invoice,6,2022/6/25
+2022,Qtr 2,June,25,107685.78,Receipt,6,2022/6/25
+2022,Qtr 2,June,27,32589.47,Credit Note,6,2022/6/27
+2022,Qtr 2,June,27,2214930.69,Invoice,6,2022/6/27
+2022,Qtr 2,June,27,3810232.85,Receipt,6,2022/6/27
+2022,Qtr 2,June,28,43226.6,Credit Note,6,2022/6/28
+2022,Qtr 2,June,28,3370308.53,Invoice,6,2022/6/28
+2022,Qtr 2,June,29,14786.87,Credit Note,6,2022/6/29
+2022,Qtr 2,June,29,7268493.4,Invoice,6,2022/6/29
+2022,Qtr 2,June,29,3048437.04,Receipt,6,2022/6/29
+2022,Qtr 2,June,30,99533.43,Credit Note,6,2022/6/30
+2022,Qtr 2,June,30,2175701.31,Invoice,6,2022/6/30
+2022,Qtr 2,June,30,2485265.46,Receipt,6,2022/6/30
+2022,Qtr 3,July,1,109138.5,Credit Note,7,2022/7/1
+2022,Qtr 3,July,1,5328187.88,Invoice,7,2022/7/1
+2022,Qtr 3,July,1,3617899.38,Receipt,7,2022/7/1
+2022,Qtr 3,July,2,107636.52,Credit Note,7,2022/7/2
+2022,Qtr 3,July,2,3450800.61,Invoice,7,2022/7/2
+2022,Qtr 3,July,2,219122.8,Receipt,7,2022/7/2
+2022,Qtr 3,July,3,2745935.51,Invoice,7,2022/7/3
+2022,Qtr 3,July,4,63740.18,Credit Note,7,2022/7/4
+2022,Qtr 3,July,4,5347210.35,Invoice,7,2022/7/4
+2022,Qtr 3,July,4,2543523.28,Receipt,7,2022/7/4
+2022,Qtr 3,July,5,772.97,Credit Note,7,2022/7/5
+2022,Qtr 3,July,5,1969924.34,Invoice,7,2022/7/5
+2022,Qtr 3,July,5,2131944.52,Receipt,7,2022/7/5
+2022,Qtr 3,July,6,13174.8,Credit Note,7,2022/7/6
+2022,Qtr 3,July,6,5563233.02,Invoice,7,2022/7/6
+2022,Qtr 3,July,6,1135157.8,Receipt,7,2022/7/6
+2022,Qtr 3,July,7,5667811.57,Invoice,7,2022/7/7
+2022,Qtr 3,July,7,1808392.05,Receipt,7,2022/7/7
+2022,Qtr 3,July,8,58943.26,Credit Note,7,2022/7/8
+2022,Qtr 3,July,8,1883924.19,Invoice,7,2022/7/8
+2022,Qtr 3,July,8,7804036.97,Receipt,7,2022/7/8
+2022,Qtr 3,July,9,351798.7,Invoice,7,2022/7/9
+2022,Qtr 3,July,9,185160.4,Receipt,7,2022/7/9
+2022,Qtr 3,July,10,1620782.98,Invoice,7,2022/7/10
+2022,Qtr 3,July,11,120139.42,Credit Note,7,2022/7/11
+2022,Qtr 3,July,11,7555955.16,Invoice,7,2022/7/11
+2022,Qtr 3,July,11,1218857.56,Receipt,7,2022/7/11
+2022,Qtr 3,July,12,33979.41,Credit Note,7,2022/7/12
+2022,Qtr 3,July,12,14780465.1,Invoice,7,2022/7/12
+2022,Qtr 3,July,12,6726877.58,Receipt,7,2022/7/12
+2022,Qtr 3,July,13,467711,Credit Note,7,2022/7/13
+2022,Qtr 3,July,13,3316087.89,Invoice,7,2022/7/13
+2022,Qtr 3,July,13,1160371.57,Receipt,7,2022/7/13
+2022,Qtr 3,July,14,2545919.24,Credit Note,7,2022/7/14
+2022,Qtr 3,July,14,11461542.02,Invoice,7,2022/7/14
+2022,Qtr 3,July,14,2996219.82,Receipt,7,2022/7/14
+2022,Qtr 3,July,15,131590.28,Credit Note,7,2022/7/15
+2022,Qtr 3,July,15,5787715.07,Invoice,7,2022/7/15
+2022,Qtr 3,July,15,8745806.35,Receipt,7,2022/7/15
+2022,Qtr 3,July,16,639779.61,Invoice,7,2022/7/16
+2022,Qtr 3,July,16,261304,Receipt,7,2022/7/16
+2022,Qtr 3,July,17,1484711.62,Invoice,7,2022/7/17
+2022,Qtr 3,July,18,103282,Credit Note,7,2022/7/18
+2022,Qtr 3,July,18,2795395.79,Invoice,7,2022/7/18
+2022,Qtr 3,July,18,5078227.18,Receipt,7,2022/7/18
+2022,Qtr 3,July,19,57846.09,Credit Note,7,2022/7/19
+2022,Qtr 3,July,19,3195845.15,Invoice,7,2022/7/19
+2022,Qtr 3,July,19,1811764.7,Receipt,7,2022/7/19
+2022,Qtr 3,July,20,1154450.07,Credit Note,7,2022/7/20
+2022,Qtr 3,July,20,5797289.13,Invoice,7,2022/7/20
+2022,Qtr 3,July,20,3577983.55,Receipt,7,2022/7/20
+2022,Qtr 3,July,21,394790.31,Credit Note,7,2022/7/21
+2022,Qtr 3,July,21,6811585.44,Invoice,7,2022/7/21
+2022,Qtr 3,July,21,3459810.56,Receipt,7,2022/7/21
+2022,Qtr 3,July,22,758655.63,Credit Note,7,2022/7/22
+2022,Qtr 3,July,22,5466922.66,Invoice,7,2022/7/22
+2022,Qtr 3,July,22,10010786.4,Receipt,7,2022/7/22
+2022,Qtr 3,July,23,7025378.92,Invoice,7,2022/7/23
+2022,Qtr 3,July,23,211653.6,Receipt,7,2022/7/23
+2022,Qtr 3,July,24,1272485.55,Invoice,7,2022/7/24
+2022,Qtr 3,July,25,180492.48,Credit Note,7,2022/7/25
+2022,Qtr 3,July,25,5257238.18,Invoice,7,2022/7/25
+2022,Qtr 3,July,25,10441085.71,Receipt,7,2022/7/25
+2022,Qtr 3,July,26,240509.83,Credit Note,7,2022/7/26
+2022,Qtr 3,July,26,1060736.12,Invoice,7,2022/7/26
+2022,Qtr 3,July,26,3960492.25,Receipt,7,2022/7/26
+2022,Qtr 3,July,27,17149.78,Credit Note,7,2022/7/27
+2022,Qtr 3,July,27,6727485.63,Invoice,7,2022/7/27
+2022,Qtr 3,July,27,3913962.95,Receipt,7,2022/7/27
+2022,Qtr 3,July,28,1246992.73,Credit Note,7,2022/7/28
+2022,Qtr 3,July,28,11537490.73,Invoice,7,2022/7/28
+2022,Qtr 3,July,28,3434051.2,Receipt,7,2022/7/28
+2022,Qtr 3,July,29,37217.66,Credit Note,7,2022/7/29
+2022,Qtr 3,July,29,14426087.71,Invoice,7,2022/7/29
+2022,Qtr 3,July,29,8871452.46,Receipt,7,2022/7/29
+2022,Qtr 3,July,30,1341301.45,Invoice,7,2022/7/30
+2022,Qtr 3,July,30,206445.2,Receipt,7,2022/7/30
+2022,Qtr 3,July,31,400568.64,Invoice,7,2022/7/31
+2022,Qtr 3,July,31,294436.8,Receipt,7,2022/7/31
+2022,Qtr 3,August,1,382859.34,Credit Note,8,2022/8/1
+2022,Qtr 3,August,1,5949117.28,Invoice,8,2022/8/1
+2022,Qtr 3,August,1,4747049.06,Receipt,8,2022/8/1
+2022,Qtr 3,August,2,295870.5,Credit Note,8,2022/8/2
+2022,Qtr 3,August,2,9053298.71,Invoice,8,2022/8/2
+2022,Qtr 3,August,2,1920448.88,Receipt,8,2022/8/2
+2022,Qtr 3,August,3,797725.82,Credit Note,8,2022/8/3
+2022,Qtr 3,August,3,10323864.49,Invoice,8,2022/8/3
+2022,Qtr 3,August,3,5295896.63,Receipt,8,2022/8/3
+2022,Qtr 3,August,4,45821.98,Credit Note,8,2022/8/4
+2022,Qtr 3,August,4,2681321,Invoice,8,2022/8/4
+2022,Qtr 3,August,4,1883039.83,Receipt,8,2022/8/4
+2022,Qtr 3,August,5,111413.03,Credit Note,8,2022/8/5
+2022,Qtr 3,August,5,15095768.08,Invoice,8,2022/8/5
+2022,Qtr 3,August,5,8814854.17,Receipt,8,2022/8/5
+2022,Qtr 3,August,6,1484868.34,Invoice,8,2022/8/6
+2022,Qtr 3,August,6,89169.2,Receipt,8,2022/8/6
+2022,Qtr 3,August,7,1998941.61,Invoice,8,2022/8/7
+2022,Qtr 3,August,8,211923.09,Credit Note,8,2022/8/8
+2022,Qtr 3,August,8,7686628.9,Invoice,8,2022/8/8
+2022,Qtr 3,August,8,4131295.89,Receipt,8,2022/8/8
+2022,Qtr 3,August,9,2300866.26,Invoice,8,2022/8/9
+2022,Qtr 3,August,10,1546471.96,Credit Note,8,2022/8/10
+2022,Qtr 3,August,10,10964567.16,Invoice,8,2022/8/10
+2022,Qtr 3,August,10,7256379.66,Receipt,8,2022/8/10
+2022,Qtr 3,August,11,2856495.89,Credit Note,8,2022/8/11
+2022,Qtr 3,August,11,2508224.26,Invoice,8,2022/8/11
+2022,Qtr 3,August,11,3879582.5,Receipt,8,2022/8/11
+2022,Qtr 3,August,12,90919.61,Credit Note,8,2022/8/12
+2022,Qtr 3,August,12,7125207.9,Invoice,8,2022/8/12
+2022,Qtr 3,August,12,5767772.19,Receipt,8,2022/8/12
+2022,Qtr 3,August,13,1523272.81,Invoice,8,2022/8/13
+2022,Qtr 3,August,13,448537.2,Receipt,8,2022/8/13
+2022,Qtr 3,August,14,511979.35,Invoice,8,2022/8/14
+2022,Qtr 3,August,15,13983.9,Credit Note,8,2022/8/15
+2022,Qtr 3,August,15,4193406.91,Invoice,8,2022/8/15
+2022,Qtr 3,August,15,7907525.17,Receipt,8,2022/8/15
+2022,Qtr 3,August,16,387781.58,Credit Note,8,2022/8/16
+2022,Qtr 3,August,16,4499959.38,Invoice,8,2022/8/16
+2022,Qtr 3,August,16,3407082.83,Receipt,8,2022/8/16
+2022,Qtr 3,August,17,671758.15,Credit Note,8,2022/8/17
+2022,Qtr 3,August,17,3448654.88,Invoice,8,2022/8/17
+2022,Qtr 3,August,17,3417237.21,Receipt,8,2022/8/17
+2022,Qtr 3,August,18,448819.09,Credit Note,8,2022/8/18
+2022,Qtr 3,August,18,3029526.02,Invoice,8,2022/8/18
+2022,Qtr 3,August,18,3983864.15,Receipt,8,2022/8/18
+2022,Qtr 3,August,19,1366830.32,Credit Note,8,2022/8/19
+2022,Qtr 3,August,19,6813075.45,Invoice,8,2022/8/19
+2022,Qtr 3,August,19,8381766.97,Receipt,8,2022/8/19
+2022,Qtr 3,August,20,2231631.61,Invoice,8,2022/8/20
+2022,Qtr 3,August,20,548523,Receipt,8,2022/8/20
+2022,Qtr 3,August,21,166715,Invoice,8,2022/8/21
+2022,Qtr 3,August,22,556118.89,Credit Note,8,2022/8/22
+2022,Qtr 3,August,22,6976756.3,Invoice,8,2022/8/22
+2022,Qtr 3,August,22,6774603.76,Receipt,8,2022/8/22
+2022,Qtr 3,August,23,52374.19,Credit Note,8,2022/8/23
+2022,Qtr 3,August,23,7787676.86,Invoice,8,2022/8/23
+2022,Qtr 3,August,23,1598093.89,Receipt,8,2022/8/23
+2022,Qtr 3,August,24,455683.21,Credit Note,8,2022/8/24
+2022,Qtr 3,August,24,5689402.83,Invoice,8,2022/8/24
+2022,Qtr 3,August,24,4936300.95,Receipt,8,2022/8/24
+2022,Qtr 3,August,25,215849.28,Credit Note,8,2022/8/25
+2022,Qtr 3,August,25,17431414.06,Invoice,8,2022/8/25
+2022,Qtr 3,August,25,3910182.26,Receipt,8,2022/8/25
+2022,Qtr 3,August,26,29901.95,Credit Note,8,2022/8/26
+2022,Qtr 3,August,26,8484185.28,Invoice,8,2022/8/26
+2022,Qtr 3,August,26,9151921.41,Receipt,8,2022/8/26
+2022,Qtr 3,August,27,1011648.33,Invoice,8,2022/8/27
+2022,Qtr 3,August,27,295169.2,Receipt,8,2022/8/27
+2022,Qtr 3,August,28,7120,Invoice,8,2022/8/28
+2022,Qtr 3,August,29,704762.49,Credit Note,8,2022/8/29
+2022,Qtr 3,August,29,4479035.85,Invoice,8,2022/8/29
+2022,Qtr 3,August,29,3050295.36,Receipt,8,2022/8/29
+2022,Qtr 3,August,30,45673.75,Credit Note,8,2022/8/30
+2022,Qtr 3,August,30,8996271.84,Invoice,8,2022/8/30
+2022,Qtr 3,August,30,2775221.1,Receipt,8,2022/8/30
+2022,Qtr 3,August,31,599159.26,Credit Note,8,2022/8/31
+2022,Qtr 3,August,31,9384581.82,Invoice,8,2022/8/31
+2022,Qtr 3,August,31,5176590.51,Receipt,8,2022/8/31
+2022,Qtr 3,September,1,256872.69,Credit Note,9,2022/9/1
+2022,Qtr 3,September,1,6246043.87,Invoice,9,2022/9/1
+2022,Qtr 3,September,1,5831770,Receipt,9,2022/9/1
+2022,Qtr 3,September,2,366198.52,Credit Note,9,2022/9/2
+2022,Qtr 3,September,2,5902700.44,Invoice,9,2022/9/2
+2022,Qtr 3,September,2,11031323.85,Receipt,9,2022/9/2
+2022,Qtr 3,September,3,684844.5,Invoice,9,2022/9/3
+2022,Qtr 3,September,3,402914,Receipt,9,2022/9/3
+2022,Qtr 3,September,4,3601573.71,Invoice,9,2022/9/4
+2022,Qtr 3,September,5,87356.29,Credit Note,9,2022/9/5
+2022,Qtr 3,September,5,3979763.65,Invoice,9,2022/9/5
+2022,Qtr 3,September,5,2114839.03,Receipt,9,2022/9/5
+2022,Qtr 3,September,6,1198.92,Credit Note,9,2022/9/6
+2022,Qtr 3,September,6,15277552.06,Invoice,9,2022/9/6
+2022,Qtr 3,September,6,6794443.73,Receipt,9,2022/9/6
+2022,Qtr 3,September,7,41261.56,Credit Note,9,2022/9/7
+2022,Qtr 3,September,7,9267214.97,Invoice,9,2022/9/7
+2022,Qtr 3,September,7,3196742.62,Receipt,9,2022/9/7
+2022,Qtr 3,September,8,317007.08,Credit Note,9,2022/9/8
+2022,Qtr 3,September,8,2714526.64,Invoice,9,2022/9/8
+2022,Qtr 3,September,8,1817537.27,Receipt,9,2022/9/8
+2022,Qtr 3,September,9,197285.66,Credit Note,9,2022/9/9
+2022,Qtr 3,September,9,5972563.41,Invoice,9,2022/9/9
+2022,Qtr 3,September,9,14101737.35,Receipt,9,2022/9/9
+2022,Qtr 3,September,10,1231312.04,Invoice,9,2022/9/10
+2022,Qtr 3,September,10,177229.01,Receipt,9,2022/9/10
+2022,Qtr 3,September,11,21876.19,Credit Note,9,2022/9/11
+2022,Qtr 3,September,12,316565.57,Credit Note,9,2022/9/12
+2022,Qtr 3,September,12,10030510.45,Invoice,9,2022/9/12
+2022,Qtr 3,September,12,2693154.56,Receipt,9,2022/9/12
+2022,Qtr 3,September,13,941745.75,Credit Note,9,2022/9/13
+2022,Qtr 3,September,13,2635344.19,Invoice,9,2022/9/13
+2022,Qtr 3,September,13,3205507.13,Receipt,9,2022/9/13
+2022,Qtr 3,September,14,374336.89,Credit Note,9,2022/9/14
+2022,Qtr 3,September,14,5865023.26,Invoice,9,2022/9/14
+2022,Qtr 3,September,14,2933732.01,Receipt,9,2022/9/14
+2022,Qtr 3,September,15,648952.34,Credit Note,9,2022/9/15
+2022,Qtr 3,September,15,13095274.39,Invoice,9,2022/9/15
+2022,Qtr 3,September,15,1303228,Receipt,9,2022/9/15
+2022,Qtr 3,September,16,350642.48,Credit Note,9,2022/9/16
+2022,Qtr 3,September,16,9181900.39,Invoice,9,2022/9/16
+2022,Qtr 3,September,16,11210767.33,Receipt,9,2022/9/16
+2022,Qtr 3,September,17,896688,Invoice,9,2022/9/17
+2022,Qtr 3,September,17,1110609.4,Receipt,9,2022/9/17
+2022,Qtr 3,September,18,1269777.44,Invoice,9,2022/9/18
+2022,Qtr 3,September,19,186804.07,Credit Note,9,2022/9/19
+2022,Qtr 3,September,19,11564716.85,Invoice,9,2022/9/19
+2022,Qtr 3,September,19,4883753.85,Receipt,9,2022/9/19
+2022,Qtr 3,September,20,93605.01,Credit Note,9,2022/9/20
+2022,Qtr 3,September,20,12916704.93,Invoice,9,2022/9/20
+2022,Qtr 3,September,20,5129161.17,Receipt,9,2022/9/20
+2022,Qtr 3,September,21,1567679.06,Credit Note,9,2022/9/21
+2022,Qtr 3,September,21,7688475.59,Invoice,9,2022/9/21
+2022,Qtr 3,September,21,7059501.32,Receipt,9,2022/9/21
+2022,Qtr 3,September,22,1031826.71,Credit Note,9,2022/9/22
+2022,Qtr 3,September,22,6010724.21,Invoice,9,2022/9/22
+2022,Qtr 3,September,22,1486243.47,Receipt,9,2022/9/22
+2022,Qtr 3,September,23,1582132.4,Credit Note,9,2022/9/23
+2022,Qtr 3,September,23,7434584.23,Invoice,9,2022/9/23
+2022,Qtr 3,September,23,11620657.03,Receipt,9,2022/9/23
+2022,Qtr 3,September,24,518640.2,Invoice,9,2022/9/24
+2022,Qtr 3,September,24,21840,Receipt,9,2022/9/24
+2022,Qtr 3,September,25,235597.09,Credit Note,9,2022/9/25
+2022,Qtr 3,September,25,289822.59,Invoice,9,2022/9/25
+2022,Qtr 3,September,26,299498.61,Credit Note,9,2022/9/26
+2022,Qtr 3,September,26,3061775.41,Invoice,9,2022/9/26
+2022,Qtr 3,September,26,3650693.63,Receipt,9,2022/9/26
+2022,Qtr 3,September,27,324369.4,Credit Note,9,2022/9/27
+2022,Qtr 3,September,27,7545881.08,Invoice,9,2022/9/27
+2022,Qtr 3,September,27,10493212.34,Receipt,9,2022/9/27
+2022,Qtr 3,September,28,324124.44,Credit Note,9,2022/9/28
+2022,Qtr 3,September,28,3885889.63,Invoice,9,2022/9/28
+2022,Qtr 3,September,28,4601304.09,Receipt,9,2022/9/28
+2022,Qtr 3,September,29,716087.25,Credit Note,9,2022/9/29
+2022,Qtr 3,September,29,6764790.26,Invoice,9,2022/9/29
+2022,Qtr 3,September,29,4476002.14,Receipt,9,2022/9/29
+2022,Qtr 3,September,30,1015826.55,Credit Note,9,2022/9/30
+2022,Qtr 3,September,30,8260216.91,Invoice,9,2022/9/30
+2022,Qtr 3,September,30,15267041.68,Receipt,9,2022/9/30
+2022,Qtr 4,October,1,5769279.79,Invoice,10,2022/10/1
+2022,Qtr 4,October,1,332545.91,Receipt,10,2022/10/1
+2022,Qtr 4,October,2,1859393.19,Invoice,10,2022/10/2
+2022,Qtr 4,October,3,124662.31,Credit Note,10,2022/10/3
+2022,Qtr 4,October,3,3141271.6,Invoice,10,2022/10/3
+2022,Qtr 4,October,3,3314079.55,Receipt,10,2022/10/3
+2022,Qtr 4,October,4,112978.72,Credit Note,10,2022/10/4
+2022,Qtr 4,October,4,2376224.58,Invoice,10,2022/10/4
+2022,Qtr 4,October,4,2714916.89,Receipt,10,2022/10/4
+2022,Qtr 4,October,5,2929585.05,Credit Note,10,2022/10/5
+2022,Qtr 4,October,5,5093686.29,Invoice,10,2022/10/5
+2022,Qtr 4,October,5,3980179.49,Receipt,10,2022/10/5
+2022,Qtr 4,October,6,765150.21,Credit Note,10,2022/10/6
+2022,Qtr 4,October,6,617126.09,Invoice,10,2022/10/6
+2022,Qtr 4,October,6,6087148.3,Receipt,10,2022/10/6
+2022,Qtr 4,October,7,88251.56,Credit Note,10,2022/10/7
+2022,Qtr 4,October,7,487293.84,Invoice,10,2022/10/7
+2022,Qtr 4,October,7,7851181.42,Receipt,10,2022/10/7
+2022,Qtr 4,October,8,37727,Credit Note,10,2022/10/8
+2022,Qtr 4,October,8,564411.09,Invoice,10,2022/10/8
+2022,Qtr 4,October,8,353483.99,Receipt,10,2022/10/8
+2022,Qtr 4,October,10,2457234.18,Credit Note,10,2022/10/10
+2022,Qtr 4,October,10,1330438.07,Invoice,10,2022/10/10
+2022,Qtr 4,October,10,11507308.36,Receipt,10,2022/10/10
+2022,Qtr 4,October,11,1337636.64,Credit Note,10,2022/10/11
+2022,Qtr 4,October,11,1341901.11,Invoice,10,2022/10/11
+2022,Qtr 4,October,11,2649481.42,Receipt,10,2022/10/11
+2022,Qtr 4,October,12,27210,Credit Note,10,2022/10/12
+2022,Qtr 4,October,12,1874282.03,Invoice,10,2022/10/12
+2022,Qtr 4,October,12,2476272.65,Receipt,10,2022/10/12
+2022,Qtr 4,October,13,2516074.13,Credit Note,10,2022/10/13
+2022,Qtr 4,October,13,1822173.26,Invoice,10,2022/10/13
+2022,Qtr 4,October,13,9209125.91,Receipt,10,2022/10/13
+2022,Qtr 4,October,14,393023.12,Credit Note,10,2022/10/14
+2022,Qtr 4,October,14,1329445.36,Invoice,10,2022/10/14
+2022,Qtr 4,October,14,10559770.3,Receipt,10,2022/10/14
+2022,Qtr 4,October,15,543393.11,Invoice,10,2022/10/15
+2022,Qtr 4,October,15,118794,Receipt,10,2022/10/15
+2022,Qtr 4,October,16,211904,Invoice,10,2022/10/16
+2022,Qtr 4,October,16,290247.41,Receipt,10,2022/10/16
+2022,Qtr 4,October,17,481709.58,Credit Note,10,2022/10/17
+2022,Qtr 4,October,17,2037457.85,Invoice,10,2022/10/17
+2022,Qtr 4,October,17,2848399.4,Receipt,10,2022/10/17
+2022,Qtr 4,October,18,2408131.12,Credit Note,10,2022/10/18
+2022,Qtr 4,October,18,2094333.11,Invoice,10,2022/10/18
+2022,Qtr 4,October,18,2234003.93,Receipt,10,2022/10/18
+2022,Qtr 4,October,19,1811486.79,Credit Note,10,2022/10/19
+2022,Qtr 4,October,19,3054328.46,Invoice,10,2022/10/19
+2022,Qtr 4,October,19,6959235.82,Receipt,10,2022/10/19
+2022,Qtr 4,October,20,1535263.59,Credit Note,10,2022/10/20
+2022,Qtr 4,October,20,1307574.38,Invoice,10,2022/10/20
+2022,Qtr 4,October,20,2630960.48,Receipt,10,2022/10/20
+2022,Qtr 4,October,21,1761031.04,Credit Note,10,2022/10/21
+2022,Qtr 4,October,21,1092049.03,Invoice,10,2022/10/21
+2022,Qtr 4,October,21,14995720.17,Receipt,10,2022/10/21
+2022,Qtr 4,October,22,129249.61,Credit Note,10,2022/10/22
+2022,Qtr 4,October,22,453840,Invoice,10,2022/10/22
+2022,Qtr 4,October,22,214628.4,Receipt,10,2022/10/22
+2022,Qtr 4,October,23,5100,Credit Note,10,2022/10/23
+2022,Qtr 4,October,24,1262308.35,Credit Note,10,2022/10/24
+2022,Qtr 4,October,24,426481.3,Invoice,10,2022/10/24
+2022,Qtr 4,October,24,3736204.84,Receipt,10,2022/10/24
+2022,Qtr 4,October,25,908182.21,Credit Note,10,2022/10/25
+2022,Qtr 4,October,25,382154.58,Invoice,10,2022/10/25
+2022,Qtr 4,October,25,2429010.76,Receipt,10,2022/10/25
+2022,Qtr 4,October,26,2957111.15,Credit Note,10,2022/10/26
+2022,Qtr 4,October,26,1193893.35,Invoice,10,2022/10/26
+2022,Qtr 4,October,26,5184730.18,Receipt,10,2022/10/26
+2022,Qtr 4,October,27,1056480.73,Credit Note,10,2022/10/27
+2022,Qtr 4,October,27,1496774.4,Invoice,10,2022/10/27
+2022,Qtr 4,October,27,3663054.35,Receipt,10,2022/10/27
+2022,Qtr 4,October,28,1141928.77,Invoice,10,2022/10/28
+2022,Qtr 4,October,28,11538932.09,Receipt,10,2022/10/28
+2022,Qtr 4,October,29,8282,Credit Note,10,2022/10/29
+2022,Qtr 4,October,29,1335367.44,Invoice,10,2022/10/29
+2022,Qtr 4,October,29,271461.4,Receipt,10,2022/10/29
+2022,Qtr 4,October,31,354835.58,Credit Note,10,2022/10/31
+2022,Qtr 4,October,31,1156072.17,Invoice,10,2022/10/31
+2022,Qtr 4,October,31,3980100.2,Receipt,10,2022/10/31
+2022,Qtr 4,November,1,18.08,Credit Note,11,2022/11/1
+2022,Qtr 4,November,1,1149153.27,Invoice,11,2022/11/1
+2022,Qtr 4,November,1,3794133.51,Receipt,11,2022/11/1
+2022,Qtr 4,November,2,976713.38,Credit Note,11,2022/11/2
+2022,Qtr 4,November,2,561197.98,Invoice,11,2022/11/2
+2022,Qtr 4,November,2,5249840.88,Receipt,11,2022/11/2
+2022,Qtr 4,November,3,559.22,Credit Note,11,2022/11/3
+2022,Qtr 4,November,3,109247.01,Invoice,11,2022/11/3
+2022,Qtr 4,November,3,6372101.13,Receipt,11,2022/11/3
+2022,Qtr 4,November,4,498145.7,Credit Note,11,2022/11/4
+2022,Qtr 4,November,4,342139.94,Invoice,11,2022/11/4
+2022,Qtr 4,November,4,11925021.42,Receipt,11,2022/11/4
+2022,Qtr 4,November,5,106379,Invoice,11,2022/11/5
+2022,Qtr 4,November,5,348514.3,Receipt,11,2022/11/5
+2022,Qtr 4,November,7,181759.46,Credit Note,11,2022/11/7
+2022,Qtr 4,November,7,156168.99,Invoice,11,2022/11/7
+2022,Qtr 4,November,7,5893697.49,Receipt,11,2022/11/7
+2022,Qtr 4,November,8,30510.15,Credit Note,11,2022/11/8
+2022,Qtr 4,November,8,680248.78,Invoice,11,2022/11/8
+2022,Qtr 4,November,8,3995872.18,Receipt,11,2022/11/8
+2022,Qtr 4,November,9,1303379.28,Credit Note,11,2022/11/9
+2022,Qtr 4,November,9,1113792.18,Invoice,11,2022/11/9
+2022,Qtr 4,November,9,1554441.87,Receipt,11,2022/11/9
+2022,Qtr 4,November,10,319043.33,Credit Note,11,2022/11/10
+2022,Qtr 4,November,10,61937.3,Invoice,11,2022/11/10
+2022,Qtr 4,November,10,2528819.49,Receipt,11,2022/11/10
+2022,Qtr 4,November,11,548525.94,Credit Note,11,2022/11/11
+2022,Qtr 4,November,11,682294.1,Invoice,11,2022/11/11
+2022,Qtr 4,November,11,9564686.39,Receipt,11,2022/11/11
+2022,Qtr 4,November,12,916583.2,Receipt,11,2022/11/12
+2022,Qtr 4,November,13,516767.3,Invoice,11,2022/11/13
+2022,Qtr 4,November,14,411699.61,Credit Note,11,2022/11/14
+2022,Qtr 4,November,14,299094.32,Invoice,11,2022/11/14
+2022,Qtr 4,November,14,3297850.61,Receipt,11,2022/11/14
+2022,Qtr 4,November,15,325722.53,Credit Note,11,2022/11/15
+2022,Qtr 4,November,15,470295.19,Invoice,11,2022/11/15
+2022,Qtr 4,November,15,4576921.14,Receipt,11,2022/11/15
+2022,Qtr 4,November,16,401682.71,Credit Note,11,2022/11/16
+2022,Qtr 4,November,16,1036188.9,Invoice,11,2022/11/16
+2022,Qtr 4,November,16,1335501.62,Receipt,11,2022/11/16
+2022,Qtr 4,November,17,96015.39,Credit Note,11,2022/11/17
+2022,Qtr 4,November,17,49497.82,Invoice,11,2022/11/17
+2022,Qtr 4,November,17,3778494.4,Receipt,11,2022/11/17
+2022,Qtr 4,November,18,388890.66,Credit Note,11,2022/11/18
+2022,Qtr 4,November,18,880073.11,Invoice,11,2022/11/18
+2022,Qtr 4,November,18,9737484.48,Receipt,11,2022/11/18
+2022,Qtr 4,November,19,149600,Invoice,11,2022/11/19
+2022,Qtr 4,November,19,69523.2,Receipt,11,2022/11/19
+2022,Qtr 4,November,21,77235.6,Credit Note,11,2022/11/21
+2022,Qtr 4,November,21,779071.04,Invoice,11,2022/11/21
+2022,Qtr 4,November,21,5538685,Receipt,11,2022/11/21
+2022,Qtr 4,November,22,182296.28,Credit Note,11,2022/11/22
+2022,Qtr 4,November,22,795404.01,Invoice,11,2022/11/22
+2022,Qtr 4,November,22,3994175.19,Receipt,11,2022/11/22
+2022,Qtr 4,November,23,473007.31,Credit Note,11,2022/11/23
+2022,Qtr 4,November,23,204197.01,Invoice,11,2022/11/23
+2022,Qtr 4,November,23,602641.86,Receipt,11,2022/11/23
+2022,Qtr 4,November,24,655094.26,Credit Note,11,2022/11/24
+2022,Qtr 4,November,24,6746803.59,Receipt,11,2022/11/24
+2022,Qtr 4,November,25,520042.84,Credit Note,11,2022/11/25
+2022,Qtr 4,November,25,1580512.97,Invoice,11,2022/11/25
+2022,Qtr 4,November,25,1384169.06,Receipt,11,2022/11/25
+2022,Qtr 4,November,26,40737.6,Invoice,11,2022/11/26
+2022,Qtr 4,November,26,71787.42,Receipt,11,2022/11/26
+2022,Qtr 4,November,28,583423.19,Credit Note,11,2022/11/28
+2022,Qtr 4,November,28,129540.56,Invoice,11,2022/11/28
+2022,Qtr 4,November,28,1257412.62,Receipt,11,2022/11/28
+2022,Qtr 4,November,29,1704672.17,Credit Note,11,2022/11/29
+2022,Qtr 4,November,29,421009.16,Invoice,11,2022/11/29
+2022,Qtr 4,November,29,2442273.1,Receipt,11,2022/11/29
+2022,Qtr 4,November,30,777232.78,Credit Note,11,2022/11/30
+2022,Qtr 4,November,30,726823.61,Invoice,11,2022/11/30
+2022,Qtr 4,November,30,814500.15,Receipt,11,2022/11/30
+2022,Qtr 4,December,1,143758.63,Credit Note,12,2022/12/1
+2022,Qtr 4,December,1,2620805.04,Invoice,12,2022/12/1
+2022,Qtr 4,December,1,2299089.99,Receipt,12,2022/12/1
+2022,Qtr 4,December,2,25883.56,Credit Note,12,2022/12/2
+2022,Qtr 4,December,2,103480,Invoice,12,2022/12/2
+2022,Qtr 4,December,2,3238858.62,Receipt,12,2022/12/2
+2022,Qtr 4,December,3,104300,Receipt,12,2022/12/3
+2022,Qtr 4,December,5,1013771.72,Credit Note,12,2022/12/5
+2022,Qtr 4,December,5,442485.46,Invoice,12,2022/12/5
+2022,Qtr 4,December,5,10131378.19,Receipt,12,2022/12/5
+2022,Qtr 4,December,6,338442.72,Credit Note,12,2022/12/6
+2022,Qtr 4,December,6,4358.27,Invoice,12,2022/12/6
+2022,Qtr 4,December,6,6412689.46,Receipt,12,2022/12/6
+2022,Qtr 4,December,7,334108.15,Credit Note,12,2022/12/7
+2022,Qtr 4,December,7,543293.55,Invoice,12,2022/12/7
+2022,Qtr 4,December,7,881119.03,Receipt,12,2022/12/7
+2022,Qtr 4,December,8,672747.88,Credit Note,12,2022/12/8
+2022,Qtr 4,December,8,453598.06,Invoice,12,2022/12/8
+2022,Qtr 4,December,8,2241313.02,Receipt,12,2022/12/8
+2022,Qtr 4,December,9,248555.49,Credit Note,12,2022/12/9
+2022,Qtr 4,December,9,1945147.17,Invoice,12,2022/12/9
+2022,Qtr 4,December,9,3947628.67,Receipt,12,2022/12/9
+2022,Qtr 4,December,10,97398,Invoice,12,2022/12/10
+2022,Qtr 4,December,10,205150,Receipt,12,2022/12/10
+2022,Qtr 4,December,11,21141.93,Invoice,12,2022/12/11
+2022,Qtr 4,December,12,490126.68,Credit Note,12,2022/12/12
+2022,Qtr 4,December,12,1049997.78,Invoice,12,2022/12/12
+2022,Qtr 4,December,12,4202332.52,Receipt,12,2022/12/12
+2022,Qtr 4,December,13,354057.22,Credit Note,12,2022/12/13
+2022,Qtr 4,December,13,1216858.39,Invoice,12,2022/12/13
+2022,Qtr 4,December,13,690734.45,Receipt,12,2022/12/13
+2022,Qtr 4,December,14,45058.2,Credit Note,12,2022/12/14
+2022,Qtr 4,December,14,1618888.77,Receipt,12,2022/12/14
+2022,Qtr 4,December,15,98175.75,Credit Note,12,2022/12/15
+2022,Qtr 4,December,17,160987.25,Receipt,12,2022/12/17
+2022,Qtr 4,December,19,883838.61,Credit Note,12,2022/12/19
+2022,Qtr 4,December,19,2004183.59,Invoice,12,2022/12/19
+2022,Qtr 4,December,19,7081941.55,Receipt,12,2022/12/19
+2022,Qtr 4,December,20,1399627.56,Receipt,12,2022/12/20
+2022,Qtr 4,December,21,108109.47,Credit Note,12,2022/12/21
+2022,Qtr 4,December,21,163066.7,Receipt,12,2022/12/21
+2022,Qtr 4,December,22,2186692.51,Invoice,12,2022/12/22
+2022,Qtr 4,December,22,2254647.36,Receipt,12,2022/12/22
+2022,Qtr 4,December,23,548073.63,Invoice,12,2022/12/23
+2022,Qtr 4,December,23,2760294.47,Receipt,12,2022/12/23
+2022,Qtr 4,December,26,959307.43,Invoice,12,2022/12/26
+2022,Qtr 4,December,28,18000,Invoice,12,2022/12/28
+2022,Qtr 4,December,28,191893.24,Receipt,12,2022/12/28
+2022,Qtr 4,December,31,623148.22,Credit Note,12,2022/12/31
+2022,Qtr 4,December,31,1783069.85,Invoice,12,2022/12/31
+2022,Qtr 4,December,31,9954676.9,Receipt,12,2022/12/31
+2023,Qtr 1,January,5,1281652.85,Receipt,1,2023/1/5
+2023,Qtr 1,January,6,760236.84,Receipt,1,2023/1/6
+2023,Qtr 1,January,9,784827.26,Invoice,1,2023/1/9
+2023,Qtr 1,January,13,165583.16,Receipt,1,2023/1/13
+2023,Qtr 1,January,16,470607.18,Invoice,1,2023/1/16
+2023,Qtr 1,January,16,198640,Receipt,1,2023/1/16
+2023,Qtr 1,January,17,2090656.84,Receipt,1,2023/1/17
+2023,Qtr 1,January,19,659386.56,Invoice,1,2023/1/19
+2023,Qtr 1,January,19,180594.48,Receipt,1,2023/1/19
+2023,Qtr 1,January,23,365352,Invoice,1,2023/1/23
+2023,Qtr 1,January,23,94660.85,Receipt,1,2023/1/23
+2023,Qtr 1,January,24,224008.34,Receipt,1,2023/1/24
+2023,Qtr 1,January,25,440565.97,Receipt,1,2023/1/25
+2023,Qtr 1,January,26,1235807.32,Credit Note,1,2023/1/26
+2023,Qtr 1,January,26,483263.76,Invoice,1,2023/1/26
+2023,Qtr 1,January,30,1300661,Invoice,1,2023/1/30
+2023,Qtr 1,January,30,158780,Receipt,1,2023/1/30
+2023,Qtr 1,January,31,1173941.71,Credit Note,1,2023/1/31
+2023,Qtr 1,January,31,265875.42,Receipt,1,2023/1/31
+2023,Qtr 1,February,1,566462.99,Invoice,2,2023/2/1
+2023,Qtr 1,February,2,1039654,Invoice,2,2023/2/2
+2023,Qtr 1,February,3,6158736.23,Invoice,2,2023/2/3
+2023,Qtr 1,February,5,603026.01,Receipt,2,2023/2/5
+2023,Qtr 1,February,6,504000,Invoice,2,2023/2/6
+2023,Qtr 1,February,7,15072.2,Receipt,2,2023/2/7
+2023,Qtr 1,February,9,801954.38,Invoice,2,2023/2/9
+2023,Qtr 1,February,10,410057.29,Invoice,2,2023/2/10
+2023,Qtr 1,February,10,3389846.97,Receipt,2,2023/2/10
+2023,Qtr 4,December,31,1227447.87,Receipt,12,2023/12/31
